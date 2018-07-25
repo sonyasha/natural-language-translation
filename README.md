@@ -2,23 +2,23 @@
 
 **Team Members:**
 
-Christina Park
-Malvica Mathur
-Ed Ali
-Sonya Smirnova
+- Christina Park
+- Malvica Mathur
+- Ed Ali
+- Sonya Smirnova
 
 
 **Tools:**
 
-Python
-Tensor Flow
-Keras
-BeautifulSoup
-MongoDB
-Selenium
-Flask
-JavaScript
-HTML
+- Python
+- Tensor Flow
+- Keras
+- BeautifulSoup
+- MongoDB
+- Selenium
+- Flask
+- JavaScript
+- HTML
 
 
 ## Steps of project
