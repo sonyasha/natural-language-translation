@@ -1,4 +1,4 @@
-# Natural Language translation project.
+# Natural Language translation project
 
 **Team Members:**
 
@@ -6,6 +6,7 @@
 - Malvica Mathur
 - Ed Ali
 - Sonya Smirnova
+- Abubeker Ali
 
 
 **Tools:**
