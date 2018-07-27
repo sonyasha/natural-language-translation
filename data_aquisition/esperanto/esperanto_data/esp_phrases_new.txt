@@ -1,0 +1,670 @@
+salutoj
+saluton!
+bonvenon!
+bonan  matenon!
+bonan  vesperon!
+ĝis  la revido!
+ĉiutagaj esprimoj
+jes.
+ne.
+bone.
+ĉu?
+bonvole.
+dankon.
+multan  dankon.
+ne  dankinde.
+mi  ne scias.
+mi  pensas ke jes.
+mi  pensas ke ne.
+kion  vi pensas?
+kial  ne?
+ĉu  vi certas?
+ĝi  estas bona.
+certe.
+eble.
+kompreneble.
+ĉu  vere?
+mi  estas ege dankema.
+ne  gravas.
+bonan  ŝancon!
+estu  singarda.
+vidu  ĉi tion!
+aŭskultu  ĉi tion!
+venu!
+venu  kun mi!
+kio  estas tio?
+kio  estas tio ĉi?
+kion  vi faras?
+kiel  oni diras tion en esperanto?
+kia  ĝi estas?
+ĉu  vi ŝatas ĝin?
+ĝi  estas bela.  bongusta  bonega  interesa  ekscita
+kie  estas la necesejo?
+interkonatiĝoj
+mi  nomiĝas karlo.
+kiel  vi nomiĝas?
+kiel  li nomiĝas?
+kiel  ŝi nomiĝas?
+estas  plezuro renkonti vin.
+mi  aŭdis multon pri vi.
+kiel  vi fartas?
+bone,  kaj vi?
+kiel  fartas aferoj?
+jen  mia karto.
+de  kie vi estas?
+mi  estas de usono.  britio  anglio  skotio  kimrio  kanado  aŭstralio  irlando  nov-zelando
+kie  vi loĝas?
+mi  loĝas en ĉikago.
+ĉu  vi parolas esperanton? la anglan?
+jes,  iomete.
+bonvolu  paroli malrapide.
+ĉu  vi komprenas?
+mi  ne komprenas.
+ripetu,  bonvole.
+pardonu.
+ĉu  vi estas sinjorino king?
+mi  prezentu sinjoron king. mian kolegon  miajn kolegojn  mian amikon  miajn amikojn
+mi  estas ĉi tie por komerco.  turisme  por studi
+kie  vi gastas?
+mi  gastas ĉe la verda hotelo.
+ĉu  vi iam antaŭe estis en germanio?
+jen  mia unua vizito en italio.
+ĉu  vi estas edziĝinta?
+kiel fartas via edzino?  edzo  patrino  patro  filino  filo  fratino  frato
+ĉion  bonan al via familio!
+ĉu  vi ŝatus veni al mia domo ĉi-sabate?
+ĉu  vi volas veni por tagmanĝi?  vespermanĝi  teumi
+kien  vi iras?
+mi  iras al laborejo.  butikumi
+ĉu  mi povas iri kun vi?
+ĉu  vi pretas?
+ni  devas rapidumi.
+ĉu  stefano ĉe-hejmas?
+ŝi  ne estas ĉi tie.
+li  ne estas ĉi tie.
+kiam  li revenos?
+kiam  ŝi revenos?
+kiu  estas?
+envenu.
+bonvolu  sidiĝi.
+sentigu  vin hejme.
+ĉu  vi volas ion por manĝi?  trinki
+ĉu  vi fumas?
+mi  ne fumas.
+bonvolu  ne fumi, mi petas.
+dankon  pro via gastamo.
+bonvolu  reveni!
+restu  en kontakto.
+enketoj
+kie  estas la parko?  ambasadorejo usona?
+kiel  atingi la templon?  preĝejon  moskeon
+kiel  nomiĝas tiu ĉi strato?
+kiom  longe for estas la ejfel-turo?
+kiu  vojo iras norden?  suden  orienten  okcidenten
+mi  perdiĝis.
+kie  mi estas?
+bonvolu  skribi ĝin.
+turnu  dekstren.
+turnu  maldekstren.
+iru antaŭen.
+iru  malantaŭen.
+numeroj
+nulo
+unu
+du
+tri
+kvar
+kvin
+ses
+sep
+ok
+naŭ
+dek
+dek  unu
+dek  du
+dek  tri
+dek  kvar
+dek  kvin
+dek  ses
+dek  sep
+dek  ok
+dek  naŭ
+du  dek
+du  dek unu
+du  dek du
+tri  dek
+kvar  dek
+kvin  dek
+ses  dek
+sep  dek
+ok  dek
+naŭ  dek
+cent
+du  cent
+mil
+du  mil
+miliono
+du  milionoj
+unufoje
+dufoje
+dek  procente
+kiom  vi aĝas?
+mi  aĝas du dek ok jarojn.
+la horo
+sekundo
+minuto
+horo
+tri  horoj
+kioma  estas (la horo)?
+estas  la dua.
+estas  dek antaŭ la kvina.
+estas  kvarono antaŭ la naŭa.
+estas  la unua kaj duono.
+estas  noktomezo.
+estas  tagmezo.
+estas  frue.
+estas  malfrue.
+ĉu  ni renkontu morgaŭ je tagmezo?  je la deka  posttagmeze  ĉi-vespere
+tagoj de l semajno
+lundo
+mardo
+merkredo
+ĵaŭdo
+vendredo
+sabato
+dimanĉo
+ĉiutage
+mi  foriros hodiaŭ.  morgaŭ  postmorgaŭ  venont-semajne
+mi  alvenis hieraŭ.  antaŭhieraŭ  pasint-semajne  antaŭ kelkaj tagoj
+monatoj de l jaro
+januaro
+februaro
+marto
+aprilo
+majo
+junio
+julio
+aŭgusto
+septembro
+oktobro
+novembro
+decembro
+kiu  tago estas hodiaŭ?
+kio  estas la dato?
+estas  la tria de majo.
+ĉi-jare
+venont-jare
+pasint-jare
+ĉi-monate
+venont-monate
+pasint-monate
+estas  printempo.  somero  aŭtuno  vintro
+vetero
+kia  estas la vetero?
+estas  varme hodiaŭ  sune  malvarme  vente
+kia  estos la vetero morgaŭ?
+morgaŭ  estos nube.  milde
+pluvas.
+neĝas.
+pluvetas.
+koloroj
+kiakolora  ĝi estas?
+ĝi  estas nigra.  blua  bruna  griza  verda  roza  purpura  ruĝa  blanka  flava
+mi  ŝatas tiun koloron.
+ĉe  hotelo aŭ domo
+mi volas rezervi ĉambron.
+mi rezervis ĉambron.
+ĉu vi havas dulitan ĉambron?  unulitan
+ĉu vi havas ĉambron kun banejo?
+ĉu la ĉambro havas duŝejon? klimatizilon  unulokajn litojn
+kiom estas la portaga kosto?
+ĉu vespermanĝo estas inkludita?
+mi gastos du noktojn.
+ĉu vi havas pli bonan ĉambron?  malpli kostan  pli grandan  malpli grandan  pli trankvilan
+bonvolu vekigi mi je la sesa antaŭtagmeze.
+donu la ŝlosilon, mi petas.
+sur kioma etaĝo estas mia ĉambro?
+iru per lifto.
+iru supren per ŝtuparo.  malsupren
+mankas varma akvo.
+ĉu vi bonvolus doni iom da glacio?  alian kovrilon  iom da trinkakvo  glason  ventumilon  hejtilon  gladilon  kusenon  iom da ŝampuo  iom da sapo  necesej-paperon  tukon
+ĉu ni ankoraŭ povas mendi matenmanĝon?
+ĉu oni povas lavi tiujn ĉi vestaĵojn?
+bonvolu sendi tiujn ĉi vestaĵojn por sek-lavado.
+la fakturon, mi petas.
+mi volas paroli kun la hotelestro.
+bonvolu alvoki taksion.
+persona  komforto
+kio estas la problemo?
+ĉu ĉio estas en ordo?
+mi estas malvarma.  varma  soifa  malsata  laca  kolera  bona  feliĉa  malfeliĉa
+bonvolu lasi min.
+mono
+kie estas la banko?
+kie troviĝas bankmaŝino?
+mi devas elmurigi monon.
+kie mi povas ŝanĝi monon?
+kiom estas la kurzo?
+bonvolu ŝanĝi por eŭroj.  forintoj  frankoj  pesoj  pundoj  rubloj  enoj  zlotoj  moneroj
+ĉu vi akceptas kredit-kartojn?  vojaĝ-ĉekojn
+manĝaĵoj  kaj trinkaĵoj
+kie estas la superbazaro? vendejo  viandejo  bakistejo
+kie mi povas aĉeti fruktojn? pomojn  bananojn  ĉerizojn  figojn  vinberojn  grapfruktojn  citronojn  limonojn  mangojn  oranĝojn  papajojn  persikojn  pirojn  ananasojn  prunojn  sekvinberojn  fragojn  akvomelonojn
+mi preferas legomojn.  fazeolojn  brokolon  brasikon  karotojn  florbrasikon  kukumojn  melongenon  ajlon  paprikojn  laktukon  fungojn  olivojn  cepojn  pizojn  terpomojn  tomatojn
+mi volas aĉeti bovaĵon.  lardon  kokinaĵon  ŝinkon  ŝafidaĵon  ŝafaĵon  porkaĵon  kolbasojn  bovidaĵon  cervaĵon
+mi ŝatas marmanĝaĵojn.  pektenojn  krabaĵon  omaron  ojstrojn  salikokojn
+mi bezonas panon.  buteron  kukon  dolĉaĵojn  fromaĝon  ĉokolaton  keksojn  or biskvitojn  kremon  lakton  nudlojn  nuksojn  pastaĵon  ternuksojn  or  arakidojn  rizojn  sandviĉon  johurton
+kie mi povas aĉeti sodakvon?  botelon da akvo
+mi preferas akvon sen gaso.
+mi volas ovojn.
+teon,  mi petas  kafon
+kun sukero
+kun lakto
+kun lakto-polvoro
+kun citrono
+kun mielo
+kun kremo
+negran
+ĉu vi deziras iom da limonado?  frukto-suko  oranĝsuko  pomsuko  sodo
+bieron,  mi petas  blankan vinon  ruĝan vinon  ĉampanon  irlandan kremlikvoron  vodkon  viskion
+kun glacio
+sen glacio
+kun citron-ŝelero
+kun kolao
+ĉe  restoracio
+ĉu vi povus rekomendi malaltkostan restoracion?
+bonvolu alporti alian bovlon da rizoj.
+ĉu mi povas vidi menuon?
+ĉu ili havas vegetaranajn manĝaĵojn?
+bonan apetiton!
+mi bezonas tranĉilon.  forkon  kuleron  manĝbastonetojn  teleron  mantukon  tason  bovlon  glason da akvo  vinglason  salon  paprikaĵon  mustardon  vinagron
+mi volas mendi iom da supo.
+la fakturon, mi petas.
+mi pripagos.
+mi lasos trinkmonon.
+butikumado
+ĉu mi povas helpi vin?
+kie mi povas aĉeti memoraĵojn?  foto-filmon  vidbendon  gazetojn  ĵurnalon en la angla  libron  papervarojn
+mi iras al florejo.  librovendejo  apoteko  magazeno
+kiom ĝi kostas?
+mi aĉetis jakon.  pantalonon  ĉemizon  puloveron  jupon  robon  mantelon  pluvjakon  bankostumo  paron da ŝuoj
+distre
+ĉu vi ŝatus vidi la urbon?
+mi ĉiĉeronos vin.
+mi ŝoferos vin tien.
+mi volas iri al la montoj. plaĝo  naĝejo  kamparo  kavoj
+ĉu vi fotus nin?
+du biletojn al la baledo, mi petas.  koncerto  opero
+ne plu aĉeteblas biletojn.
+mi ŝatas la teatron. la kinon  filmojn  la cirkon  spekti televidon  iri al muzeoj
+je kioma horo komenciĝas la teatraĵo?  rondvojaĝo
+kiu filmo spekteblas ĉi-nokte?
+kie estas la biletejo?
+ĉu troviĝas drinkejo proksime?  diskoteko
+kie mi enregistriĝas?
+mi estas memzorganto.
+mi estas ano de uea.
+kiom estas la kotizo?
+kiom mi ŝuldas?
+kie estas la mesaĝtabulo?
+kiam komenciĝos tiu programero?
+je kioma horo malfermiĝos la manĝejo?  fermiĝos
+ne krokodilu!
+poŝtoficejo
+kie estas la  poŝtoficejo?
+kiom kostas sendi  leteron al usono?
+ĉu mi povas kolekti  elektronikan montranssendon ĉi tie?
+mi volas aĉeti poŝtmarkojn.  poŝtkartojn  koverton
+mi volas sendi tiun ĉi  per registropoŝto. per aerpoŝto per eksprespoŝto transnokte
+mi volas transsendi  monon.
+kiam alvenos la poŝto?
+kie estas poŝtkesto?
+ĝi enhavas elpresaĵojn.  delikataĵojn.
+ĉe oficejo
+kie mi povas fotokopii?
+ĉu mi povas uzi la komputilon? faksmaŝinon  or telekopiilon poŝtelefonon
+kiom estas la porpaĝa  kosto?
+ĉu mi povas sendi fakson?
+la telefono
+ĉu mi povas uzi la  telefonon?
+kie estas telefonlibro?
+kiel mi povas telefoni  al vaŝingtono?
+mi volas fari  rembursan vokon. internacian  longdistancan
+kio estas la regionkodo  por havano?
+la linio estas okupata.
+ha lo?
+kiu parolas?
+estas sven.
+ĉu mi povas paroli kun  maria?
+ĉu vi bonvolus doni  mesaĝon?
+transporto
+bonan vojaĝon!
+kie mi povas lui aŭton? biciklon  motorciklon
+kie mi povas surpramiĝi?  surŝipiĝi
+kie estas la metrohaltejo?  stacidomo  trajnhaltejo  aŭtobushaltejo
+mi bezonas portiston.  ĉaron
+horaron, mi petas.
+kiom kostas bileto unudirekta?  tien-reen
+kiom kostas unuaklasan  bileton?  duaklasan  dorman
+bonvolu informi min kiam  ni atingas tokion.
+ĉu estas manĝvagono?  dormvagono
+kiam la trajno ekos el  istanbulo?
+kiam la trajno alvenos  en barcelono?
+ĉu ĝi estas akurata?
+ĉu tiu ĉi trajno iras al  alahabado?
+kiom longe ni haltos ĉi  tie?
+ĉe flughaveno
+kie estas la pordo por enlandaj  flugoj?  internaciaj
+kiom longe prokrastiĝos  la flugo al najrobio?
+mi volas sidi en la  sekcio por fumantoj.  nefumantoj
+bonvolu alvoki la  serviston.
+ĉe dogano
+jen mia valizo. mansako  portoteko
+mi havas nenion por  deklari.
+bonvolu malfermi  vian sakon. fermi
+mi havas parfumon.  cigaredojn donacojn personajn posedaĵojn
+en aŭto
+kiom da kilometroj ĝis  oslo?
+bonvolu direkti min al ŝoseo.  benzinejo  la urbocentro
+tiu ĉi ne funkcias.
+bonvolu ripari la  pneŭon.
+kie estas la  malsanulejo?
+alvoku krizaŭton.  doktoron  la policon  la fajrobrigadon
+fajro!
+helpu!
+estas krizo!
+estas danĝere!
+mi estas malsana.
+mi bezonas tradukiston.
+mi perdis mian familion.  infanon  pasporton
+iu ŝtelis mian  monbilujon.
+mi estas alergia al  penicilino.
+mi estas diabeta.
+dolorigas min mia brako.  dorso  piedo  mano  kapo  gambo  kolo  stomako
+dolorigas min miaj genuoj.  maleoloj  okuloj
+dankon pro via helpo.
+el eseoj de studentoj
+liaj pensoj kunfalis en la kapo, farante kaj rompante aliancojn kiel kalsono en lavmaŝino
+la malgranda boato malrapide drivis trans la lageto, samkiel keglopilko ne drivus.
+johano kaj maria neniam jam renkontiĝis.  ili similis al du kolibroj, kiuj ankaŭ neniam jam renkontiĝis.
+ŝi havis malaltan, ĝorĝan ridon, kiel tiu sono kiun faras hundo ĵus antaŭ ol ĝi vomas.
+la ruĝa brika muro havis la koloron de brik-ruĝa paŝtelo.
+li ege enamiĝis.  kiam ŝi parolis, li pensis, ke li aŭdas sonorilojn, kvazaŭ ŝi estus ŝarĝaŭto retroiranta.
+li falis dekdu etaĝojn kaj trafis la trotuaron kiel papersako plena de legomsupo.
+li estis tiel lama kiel anaso.  ne la metafora lama anaso, sed reala anaso, kiu vere lamis.  eble pro tretado sur kontaktmino aŭ io.
+avo havis menson kiel ŝtalkaptilon – lasitan ekstere tiom longe ke ĝi fermiĝis pro rusto.
+lingvoj malaperantaj
+kelkaj lingvistoj plendas pri la neprecedenta malapero de minoritataj lingvoj tra la mondo.  oni komparas tiun fenomenon kun la lastatempa amasa ekstermo de bestoj.  kvankam sendube ekzistas paraleloj, mi, kiel biologo, deziras komenti pri gravaj malsimilecoj inter la du fenomenoj.
+ni akceptu, ke ĝenerale biologiaj estingoj reprezentas tute neretroveblajn perdojn de unikaj, kelkfoje belaj, utilaj aŭ certe interesaj plantoj aŭ bestoj kaj sekve malpliigon de biodiverseco.  kaj biodiverseco influas la stabilecon de ekosistemoj.
+tamen kiam oni diskutas pri la diversaj lingvoj, tio signifas nur ke oni agoskas la ekziston de diversaj lingvoj.  estus malfacile subteni la ideon ke lingva diverseco helpos je stabiligo de io ajn.
+se lingvo malaperas, tio ne signifas ke la homaj konceptoj kaj pensmanieroj samtempe malaperas.
+lingva neegaleco en internaciaj aferoj
+ĉia informado pri esperanto estas senperspektiva, se la celgrupo ne konscias pri la ekzisto de lingva neegaleco kaj la nedemokratieco de la nuna internacia lingva ordo.
+la unua celo de la informado devas sekve esti ke generala publiko malkovru la fundamentan nedemokratiecon de komunika sistemo, kiu tutvive privilegias iujn sed postulas de aliaj jarojn da penoj por atingi tamen malperfektan lingoscion.
+en la strebado estigi diskuton pri lingva egaleco kaj lingvaj rajtoj troveblas multaj potencialaj aliancanoj kun similaj celoj.
+ekzistas multaj sciencaj verkoj pri la efikoj de lingva neegaleco je tutmonda, loka kaj individua niveloj.
+indas, ke respondeculoj pri informado bone trastudu la temon.  por ŝanĝi la realaĵojn necesas unue ĝisfunde ekkoni ilin.
+diverseco:  ŝanco aŭ minaco?
+la tutmonda polemiko pri tutmondismo reliefigas la streĉitecon inter du malsamaj konceptoj de nia mondo.
+laŭ ies opinio la avanco de teknologio, precipe en komunikado, ne haltigeble integrigas la mondon: la malfermiĝo de merkatoj, la kreiĝo de ĉiam pli granda edukita klaso de homoj, kies perspektivo etendiĝis preter la naciaj limoj, la iompostioma apero de internaciigita kulturo kaj internaciigita lingvo, ĉio ĉi estas neevitebla, eĉ dezirinda.
+aliaj opinias, ke tiu tutmonda, globala socio, alportas grandajn negativajn elementojn.  ili argumentas, ke la avantaĝoj de kelakj estas aĉetataj je la kosto de multaj, kiuj restas malriĉaj kaj ekspluataj. 
+katoj - ĉu nova terapio?
+sona komunikado de tigroj kaj ĝirafoj eble estos la nova modo de alternativa medicino.  studaĵo el usono, faŭna komunikado, pruvis, ke bestoj interkomunikas infrasone.  .
+plej interese al iuj eble estas la eltrovo ke la ronronado de kato agordiĝas kun vibradoj kaj frekvencoj kiuj akcelas ostokreskadon, resaniĝon de rompoj, ligamentoj kaj ŝiritaj muskoloj, malpliigon de ŝvelado kaj mildigon de doloroj.
+la plej grandaj el la feledoj eligas fortajn harmonojn kiuj, laŭ onidiro, produktas muskolan forton, pliigas artikan moviĝeblon kaj mildigas doloron.  ĉu pro tio ili havas naŭ vivojn?
+sciencistoj serĉas manierojn enkorpigi tiujn eltrovojn en terapiojn por osteoporozo kaj akceli ostokreskon en gemaljunuloj.
+do, se vi volas sanan maljunecon, akiru katon!
+konsiloj pri tradukado de kantoj
+oni zorge atentu, ke ĉiu silabo havu sian lokon en la muziko.  oni ne torde kunpremu plurajn silabojn en unu solan noton.  aliflanke, se en la originalo unu silabo estas kantita per pluraj notoj, oni kelkfoje povus aldoni silabojn.
+en pop-roka muziko oni ofte emas silabumi iom malpli strikte: la kantisto variigas la silabonombron en muzike identaj lokoj.  tiam ankaŭ la tradukisto povus permesi al si ludeti per la silabonombro kaj ne rigore sekvi la kapricojn de la originalo….
+ĉe kantoj plej unue atentu ritmon kaj rimon.  la enhavo estas pli fleksebla.  per aliaj vortoj oni ofte povas esprimi la samajn ideojn.  oni evitu tro da signife malplenaj vortoj .
+en kantoj oni laŭeble uzu lingvaĵon kiun oni uzas ankaŭ en normala prozo.  se tio montriĝas neebla, oni konsciu, ke en kantoj la lingvouzo povas esti pli libera ol en normalaj kuntekstoj. 
+ne plu neĝo sur kilimanĝaro
+la plej granda libere staranta monto de la mondo perdas sian longdistancan brilantan ekkonilon: la neĝo sur kilimanĝaro degelas.  ekde 1912 ŝrumpas la glacikovraĵo sur la montsupro de la 5895 m alta, ne plu aktiva, vulkano en la nordo de tanzanio de iama 12 km2 areo al nuntempaj nur du kvadratkilometroj.
+sciencistoj rigardas tion mondvasta tendenco.  dum la pasintaj jaroj oni studis la multnombrajn glaciejojn de himalajo, trans andoj ĝis antarktio - kaj ĉie malkreske regresas la glacio.  laŭ la sciencistoj kulpas pri tio la tergloba plivarmiĝado.
+se la forceja efiko plifortiĝas la neĝkovraĵo de la plej alta afrika monto forvaporiĝos jam antaŭ la jaro 2020.  la aertemperaturo estos tiom plialtiĝinta, ke la glacio ne nur likviĝas, sed senpere sublimiĝas en akvovaporon.  tio klarigas ankaŭ la fakton, ke malgraŭ la glacia degelado multaj riveroj en la regiono kondukas ĉiam malpli da akvo aŭ tute sekiĝas.
+polvo
+ĝi moviĝas senkompate.  ataku ĝin kaj ĝi disiĝas kaj evitas vin, sed je la momento kiam vi ĉesas singardi, ĝi silente regrupiĝas - sur lampŝirmiloj kaj bretoj, en anguloj kaj fendetoj.  ĝi kuratakas vin el sub via lito.  kiom ajn ofte vi skuas ĉifonon kontraŭ ĝi, ŝajnas ke polvo ĉiam superregas.
+kaj tio estas nur en via hejmo.  imagu ke vi devas prizorgi pli grandan lokon, lokon plenŝtopitan per delikataj bagatelaĵoj ekspoziciataj tagon post tago, kie trapasas kelkdek miloj da homoj ĉiujare.  tiom ĉagrenas la batalo kontraŭ polvo ke tiuj kiuj respondecas pri historiaj domoj kaj palacoj estigis pri ĝi temon de sistema scienca ekzamenado.
+kelkaj esploroj lanĉitaj dum lastatempaj jaroj provas bazi la studon de polvo sur la scienco.  el kio ĝi konsistas?  kiom rapide ĝi amasiĝas?  kiom ĝi difektas?  kaj kio estas la plej bona maniero ĝin regi?
+lingvo kaj logiko
+matematike preciza lingvo supozigas:
+severe senemocian prozan stilon - nenia figura uzado de vortoj;
+ke ĉiu vorto havu nur unu signifon, severe fiksitan en malvastaj limoj;
+konstantan fiksitan ordon de la vortoj en la frazo. 
+tian precizan lingvon bezonas la scienco, kaj la sciencistoj aplikas la uzatan de ili lingvojn al tiaj postuloj.  por la scienco tio ĉi estas ne nur pravigenda, sed ankaŭ necesa.  sed por la arto tia lingvaĵo ne povas taŭgi. 
+tre frue tiu ĉi demando ne estis malatentita de zamenhof mem.  jen kiel li vidis la aferon: "ne sole en la naturaj lingvoj, sed ankaŭ en lingvo artefarita ĉio, kio estas uzata de la plimulto da bonaj verkistoj, devas esti rigardata kiel bona, se ĝi eĉ ne estas absolute logika, ĉar se ni postulos ĉiam nur logikon absolutan, tiam la libera uzado de lingvo artefarita fariĝos tute neebla, ĉar tiam malaperos ĉiu utileco de longa ekzercado kaj en la deka jaro de uzado de la lingvo, kiel en la unua jaro, ĉiu devus konstante tro longe pripensadi kaj pesadi ĉiun sian vorton".
+pro manko de dolaro jare
+ĝi estas mortigaĵo kiu pli da infanoj malpli ol kvinjara mortigas ol morbilo, malario kaj aidoso.  fakte, tra la disvolviĝanta mondo ĝi estas la kvara plej granda kialo de morto kaj malsano.  tamen verŝajne vi neniam aŭdis pri la problemo.
+...pli ol triono da homaro devas kuiri ĉiutage per tradiciaj fornoj kiuj bruligas lignon, plantrestaĵojn aŭ fekaĵon.  kaj kuirfumo, kiel cigaredfumo, estas miksaĵo de venenoj inkluzive de karbona monooksido, nitrogenaj oksidoj kaj kancerogenaĵo kiel formaldehido kaj benzeno.  tio klarigas kial oni pensas ke kuirfumo mortigas 1,6 milionojn da homoj ĉiujare, plejparte virinojn kaj junajn infanojn....
+ sed ili povus toleri elspezon por forno kun kamentubo kiu kondukas fumon ekster la domon.   se la konstruo de la domo estas tia ke kamentubo ne eblas, preskaŭ egale bonas kapuĉo kun fumtubo kiu kondukas fumon supren en la tegmenton.
+oni taksas ke po 2.5 bilionoj da dolaroj jare dum 12 jaroj provizus al 2 bilionoj da homoj sanan endoman medion - ĉirkaŭ $1 por ĉiu homo jare.
+ŝajnigi sin stulta
+tiu ĉi proverbo, kiu signifas "tiel fari, kvazaŭ oni tute ne komprenas", havas laŭdire vere amuzan devenon.  kiam post la krucmilitoj la unuaj 'negroj'  venis la unuan fojon en venecion, oni alrigardis ilin sammaniere kiel ni hodiaŭ verŝajne alrigardus iujn marsanojn de nia ruĝa najbarplanedo.  kompreneble, ke ilia konduto kaj vestiĝmaniero faris ilin objekto de scivolemo.
+tio plialtiĝis al vera sci-avido kiam la 'negroj' tute ne komprenis iun ajn vorton kaj ŝajnigis ke ili nenion konceptas pri tio kio ĉirkaŭas ilin.  tio tamen estis nur ruzaĵo, kiun ili uzis por gajni pli da libero por daŭrigi la intertraktadon. 
+ĉu eble ekzistas en la estonte pli kaj pli kunkreskanta eŭropa unio iu lando, kiu ruze "ŝajnigas sin nekapabla, do stulta, lerni alian lingvon krom la propranacian" - por ke ĉiuj alilingvaj eŭropanoj lernu ties lingvon kiel "ĉie parolatan internacian lingvon"?
+ŝtonepokaj katoj
+ĝis nun, historiistoj pensis, ke la antikvaj egiptoj estis la unuaj malsovaĝigi katojn antaŭ ĉirkaŭ 4000 jaroj.  sed iuj atestoj sugestas, ke katoj kulture gravis ekster egiptio longe antaŭ tiam.  ŝtonajn kaj argilajn figuretojn ĝis 10000 jar-aĝajn oni ektrovis en sirio, turkio kaj israelo.  kaj arkeologoj trovis katajn ostojn 9000-9500 jaraĝajn en kipro, kiu ne havas katan specion indiĝenan.
+homoj tenis katojn kiel dorlotbestojn antaŭ preskaŭ 10000 jaroj, diras esploristoj, kiuj ektrovis la tombon de antaŭhistoria tigrostria kato en kipro.  la ŝtonepoka kato kuŝis proksime al la tombo de homo, eble ĝia mastro.
+la kato estis de la specio felis silvestris, la sovaĝa kato de kiu devenis hejmaj katoj.  ĝiaj restaĵoj kuŝas nur 40 centimetrojn de 9500-jara homa tombo.  la proksimeco de la homa skeleto sugestas, ke la homo havis fortan ligon al la kato, kiun oni eble mortigis por ke ĝi iru al la postvivo kun la mastro.
+arktaj ursoj
+la blankaj ursoj migradas dum sia tuta vivo, ĉiun tagon : de la suda pinto de gronlando supren laŭ la orienta marbordo, preterire la nordan poluson, transe al siberio, poste pluen al alasko.  de tie, trans la insuloj troviĝantaj apud kanado reen al suda gronlando.  tiajn enormajn distancojn ili migradas kune kun la glacio, sur kies bankizoj ili vojaĝas.
+la vintron ili travivas dormantaj.  komence de novembro la arktaj ursoj enfosas sin en neĝkavernon kaj iĝas enŝlositaj de neĝamasoj.  la propra varmeco de urso ekvilibriĝas je korpotemperaturo iom super 0o de celsio - eĉ la plej akra ŝtormo ĝin ne povas atingi kaj ĝeni.  kiam en marto la ursoj eliĝas el la dumvintra neglogejo, ili estas tiom maldikaj, ke la homoj en nordaj regionoj longan tempon kredis, ke ekzistas du specioj de blankaj ursoj.
+ŝercante lacertojn
+inter 1990 kaj 2002, la tiamakonservadisto de la irlanda sovaĝnatura kuratoreco, ferdia marnell, efektivigis la unuan esploron de tiu nekutima besto.  uzante raportojn el ĉiuj krom kvin graflandoj, ferdia eltrovis iom da tre interesaj faktoj pri 'lacerta vivipara'.  eble ple grave, li eltrovis ke la lacerto estas pli disvastigita ol antaŭe registrita.  
+plimultaj raportoj venas el lokojkie oni aktive serĉis lacertojn,kio signifas, ke en lokoj kie neestas raportoj povas estis multajlacertoj.  tial la nuna kampanjo dereptilio-spurado.  ni volas aŭdipri kiel eble plej multaj lokoj kieloĝadas tiuj sinĝenaj etaj lacertoj.  oni plej ofte vidas lacertojn kiamili ripozas sur rokoj, ŝtonmuroj,ŝtipoj aǔ malkovritaj sunaj lokoj.  se vi vidus, sendu al ni ladetalojn: loko, speco de loĝloko,apudaj plantoj, veter-kondiĉoj, ktp.
+aidoso
+kial jam ekde antikveco aidoso ne disvastiĝis tra la tuta terspaco, des pli tra tuta afriko, kiel nun?  por klarigi tion ni atentu la publikaĵojn de multaj vojaĝantoj en la 19a kaj 20a jarcentoj.  el tiuj verkoj iĝis komprenebla la fakto, ke ĝis la fino de la 19a jarcento la plimulto da regionoj en la afrika kontinento estis preskaŭ izolitaj unu de la alia.  migradojn obstaklis danĝeraj tropikaj arbaroj, impetegaj riveroj, vastaj dezertoj, atakoj de agresaj triboj, ktp.
+sed la plej gravaj bariloj estis multnobraj epidemiaj malsanoj: malario, disenterio, variolo, flava febro kaj aliaj.  eble en la apartaj tropikaj regionoj loĝantoj malsaniĝis kaj mortis kaŭze de aidoso, sed foresto de konstantaj ligoj kun aliaj regionoj malhelpus disvastiĝon de la infekto..
+en la dua duono de la 20a jarcento okazis eventoj kiuj estus povintaj akceli la disvastiĝon de aidoso.  la unua estas migrada eksplodo.  laŭ unesko, nuntempe ĉirkaŭ100 milionoj da homoj loĝas ekster sia patrujo.
+fajro
+ĝi estas varma, ŝvitigas onin kaj ne estas kareo.  jes, estas fajro.
+antaŭe rigardita iom timiga, la mirinda ruĝaĵo jam iĝis la plej bona amiko de la homo.  tutmonde homoj uzas ĝin por kuiri, por varmiĝi kaj por timigi sovaĝajn bestojn.
+"estas nenio nova pri fajro," diris norris nik, prezidanto de la fajreja trusto.  "oni povas trovi ĝin ĉie - ekzemple, vepra fajro, fulmobato kaj vulkanoj.  sed la trarompo estas enkonduki ĝin en la hejmon." ...
+"la fajro havas multajn avantaĝojn, la ĉefa estas tio, ke ĝi ebligas nin homojn pli regi niajn ĉirkaŭajojn.  antaŭe ni dependis de la suno por varmo kaj lumo," entuziasmis norris.  "nun ni povas teni nin varmaj kaj sekaj kie ajn ni estas.  tio implicas ne nur la finon de mallumaj kavernoj, sed signifas ke ni povos travivi en malvarmaj lokoj kiel eŭropo.  kaj se venos ia glaciepoko, ni povos resti ĝis ĝia fino.
+ajlo 
+kvankam oni bone konas ajlon kiel kulinaran aromherbon, ĝi ankaŭ jam delonge havas merititan reputacion kiel drogherbo.  origine indiĝena en siberio, ajlo nun estas kultivata mondskale por manĝaĵo kaj medikamento.  la valoron de ajlo kiel pansaĵo kaj kuracilo por digesto-malsanoj oni konstatis en antikvaj tempoj.  ĝi havas antibiotikan econ kaj oni uzis ĝin por kuraci kaj bestojn kaj homojn.
+oni pensas, ke la bazo de ĝia agado estas ĥemia kombinaĵo nomita alicino, kiu fariĝas el antaŭvenanto nomita alino kiam oni pistas aŭ maĉas la ajlonon. tamen, oni pensas, ke eble estas ĝis cent aliaj kombinaĵoj en ajlo kiuj kontribuas al ĝia valoro.
+alicino aktive entrudiĝas en la enzimaj reagoj de bakterioj kaj malpliigas ilian kreskon.  tiuj kombinaĵoj agas ankaŭ kiel forta kontraŭoksidilo kaj ili estas aklamitaj kiel gravaj kontraŭkanceriloj.
+fotosintezo
+malmultaj ŝanĝoj havis tiom profundajn konsekvencojn por la vivo kiel la kapablo kapti energion el sunlumo.  fotosintezo laŭlitere ŝanĝis la planedon, transformante la atmosferon kaj malvarmigante teron en ŝirmanta ŝildo kontraŭ radiado.
+sen fotosintezo estus malmulte da oksigeno en la atmosfero, kaj neniuj plantoj nek bestoj - nur mikroboj.
+antaŭ fotosintezo la vivo konsistis el unu-ĉelaj mikroboj kies fontoj de energio estis kemiaĵoj kiel sulfuro, fero kaj metano.  tiam aro da mikroboj disvolvis la kapablon kapti energion el sunlumo.  tiu frua versio uzis hidrogendisulfidon kaj karbondioksidon kiel komencajn ingrediencojn, produktante karbonhidratojn kaj sulfuron kiel finproduktojn.
+post iom da tempo evoluis nova speco de fotosintezo, kiu uzis akvon, produktante oksigenon kiel flank-produkton.  en tiuj fruaj tagoj oksigeno estis venena, sed iuj mikroboj evoluigis la kapablon toleri ĝin kaj poste uzi ĝin kiel novan, pli efikan energi-fonton.
+rabio
+nuntempe, malgraŭ tio, ke ekzistas sufiĉe fidindaj rimedoj por preventado de rabio, ĉiujare en la mondo, laŭ informo en la monda organizo pri sano, malsaniĝas kaj pereas de rabio pli ol 50 miloj da homoj.
+la plejparto el ili estas loĝantoj en afriko, azio kaj latina ameriko.
+la plimulto de la malsaniĝintoj ne turnis sin al medicinistoj post la morto de rabia aŭ nekonata hundo aŭ faris tion tro malfrue, kiam ne sukcesis formiĝi postvakcinaj antikorpoj.
+en iuj kazoj medicinistoj faris seriozajn erarojn, ekzemple aplikante por preventado de rabio nur vakcinon kaj ne uzante la specifan imunoglobulinon malgraŭ tio, ke la viktimo havis multnombrajn mordojn.
+en tiuj okazoj la simptomoj de malsano ofte aperas post mallonga inkubacia periodo.
+tial necesas uzi krom vakcinon ankaŭ specifan imunoglobulinon entenantan la pretajn antikorpojn.
+tri elefantoj
+genetikaj esploroj konfirmis ke afrikajn savanajn kaj arbarajn elefantojn oni devus rigardi kiel apartajn speciojn. la du bestoj aspektas malsame kaj fakuloj antaŭe argumentis ke oni klasifiku ilin kiel du speciojn, ne variantojn de unu.
+rezultoj de dna-analizo subtenas la argumenton ke estas tri elefantaj specioj, du en afriko kaj unu en azio.
+la pli multo da elefantoj vidataj dum enafrika ferio aŭ en bestĝardenoj estas speco savana, nomita loxodonta africana, kiu havas grandajn orelojn kaj kurbajn dentegojn.
+la pli malofta arbara aŭ vepreja elefanto, loxodonta cyclotis, estas pli malgranda kun rondecaj oreloj, pli rektaj, maldikaj dentegoj kaj aparta kapformo. ĝi loĝas en dense arbokovritaj regionoj de okcidenta afriko kaj ĝin oni vidas multe malpli ofte.
+esploristoj el usono kaj kenjo eldonis la novajn informojn en la revuo 'scienco'.
+malsanoj de la nervo sistemo en centhektara arbaro
+kanadaj kuracistoj opinias, ke la eta ludurso vini-la-pu, suferas pro sindromo de atentomanko kaj hiperaktiveco. ili maltrankiviliĝas ankaŭ pro la obseda konduto de la besteto kaj ties psika fiksiĝo al manĝado ĝenerale kaj aparte la manĝado de mielo. tia konduto kondukas al obezo.
+la aŭtoroj demandas, ĉu la urseto suferas pro 'skuitursida' sindromo , la rezulto de nenormala metodo de transporto. kristoforo robin kutime tenas la dorlotbeston per unu pluŝbrako kaj permesas la urskapon frapi la ŝtuparon.
+la aŭtoroj diagnozas en la azeno, ior, sindromo de deprimo pro ŝoka sperto, en ĉi tiu kazo pro amputo de la vosto. ili opinias ke la kuniklo, rabit, suferas de narcisismo ĝis patologia grado.
+ili rimarkas, ke la kangaruo, kanga, estas senpartnera patrino kiu estas senlabora kaj nenormale tro protektema al sia ido.
+por ĉiu ano de la bestaro la verkistoj ne nur malkovris diagnozon, ili ankaŭ preskribas taŭgan medikamenton.
+pri muzeoj ...
+en 1880 john ruskin verkis artikolon titolitan 'muzeo aŭ bildgalario, ĝiaj funkcioj kaj formiĝo' dirante:
+"la unua funkcio de muzeo ... estas doni ekzemplon de perfekta ordo kaj perfekta eleganteco ... al la senordema kaj kruda popolo.  ĉio en sia loko ... nenio plenŝtopita, nenio nenecesa, nenio enigma. tial, post kiam ĉambro estas aranĝita, oni devas ŝanĝi nenion en ĝi...
+la komenca elspezo por konstruado kaj garnituro devas esti grandioza ... la ĉiutaga elspezo grandanima; sed iun porcion de tiu ĉiutaga elspezo oni havigu per malgranda enirkosto, postulata ne por iom avare kontribui al salajroj de plankbalaistoj, sed por la vizitantoj mem, por ke la ĉambrojn ne plenigu mallaboremuloj nek malhonori malestiminduloj.
+vi devas ne fari el via muzeo rifuĝejon kontraŭ pluvo aŭ enuo, ne enlasi en la perfekte ekipitajn ... palacajn ĉambrojn la tute mizeran kaĵ malnobelan porcion de la popolo ...
+el gvidlinioj pri informado pri esperanto
+celoj : konsciigi la publikon pri la problemoj
+ĉia informado pri esperanto estas senperspektiva, se la celgrupo ne konscias pri la ekzisto de lingva neegaleco kaj la ne­demokratieco de la nuna internacia lingva ordo.
+la unua celo de la informado devas sekve esti ke la generala publiko malkovru la fundamentan nedemokratiecon de komunika sistemo, kiu tutvive privilegias iujn sed postulas de aliaj jarojn da penoj por atingi tamen malperfektan lingvoscion.
+en la strebado estigi diskuton pri lingva egaleco kaj lingvaj rajtoj troveblas multaj potencialaj aliancanoj kun similaj celoj. ekzistas multaj sciencaj verkoj pri la efikoj de lingva neegaleco je tutmonda, loka kaj individua niveloj.
+indas, ke respondeculoj pri informado bone trastudu la temon. por ŝanĝi la realaĵojn necesas unue gisfunde ekkoni ilin.
+la plej grava koloro
+en la griza pratempo eble la unua koloro, kiun perceptis la tiamaj homoj estis tiu koloro kiun oni povis flarsenti kaj gustumi: la koloro de avido, de mortigita sovaĝbesto,' de ĉastriumfo, de vivo kaj morto, de venko kaj nutraĵo, la koloro de sango - ruĝa!
+sed sango rapide fariĝas bruneta, konsekvence oni tuj serĉis kaj trovis anstataŭaĵon: okron. ĝi ne diskoloriĝas, ne estas manĝebla, ne estas uzebla por varmigi sin, kaj - ĝi estas proksima al la ruĝa.
+ruĝa  estas origino de sankteco, estas magia, simbolo de forto kaj potenco, plifortigas la mortintojn - samtempe ankaŭ malhelpilo por ties reveno surteren.
+ĝis 10 kg da ruĝa okro  oni entombigis kune kun ili. okro animis kaj efektivigis antaŭ 40000 jaroj la fosadon de la unuaj galerioj kaj antaŭ 10000 jaroj fariĝis la unua komercaĵo de la homaro.
+ethnologue
+ethnologue estas la nomo de la plej granda prilingva enciklopedio en la mondo. ĝi raportas pri 7299 lingvoj el kiuj 6912 estas vivantaj.
+la plej nova 15a eldono estas senpage konsultebla en interreto.
+la verko enhavas amason da interesaj faktoj. ni ekzemple ekscias ke el tiuj 6912 vivantaj lingvoj, 2269 originas el azio, 2092 el afriko, 1310 el oceanio, 1002 el ameriko kaj nur 239 el eŭropo.
+ok lingvoj havas pli ol 100 milionojn da denaskaj parolantoj, 204 lingvoj havas malpli ol dek parolantoj. la ŝtato kun la plej multaj lingvoj estas papuo-novgvineo, kie 820 lingvoj estas parolataj. sekvas barato kun 742 kaj niĝerio kun 516 lingvoj.
+pri ĉiu lingvo estas kelklinia priskribo. oni legas kie ĝi estas parolata, kiom da homoj parolas ĝin, kiom da dialektoj ĝi havas kaj kiel ili nomiĝas, kiel oni klasifikas ĝin kaj multe pli.
+krome la verko klarigas kial oni nomas ĝin 'lingvo' kaj ne 'dialekto'. kialoj povas esti ekzemple ke ekzistas vortaroj, enciklopedioj, radiostacioj uzantaj ĝin, traduko de la biblio, ktp.
+almroth wright
+la nomo alexander fleming estas konata tra la mondo, sed tiu de la viro kiu estis lia estro kaj amiko dum 40 jaroj estas malpli konata.
+almroth wright naskiĝis en middleton tyre en jorkŝiro, la filo de irlanda presbiteriana pastro kaj sveda patrino, kies patro estis es­tro de la reĝa monfarejo en stokholmo.
+la familio venis al irlando kiam li estis sufiĉe juna. lin instruis plejparte privataj guvernistoj, kiuj ŝajne tre bone sukcesis. li flue parolis kelkajn lingvojn kaj povis citi kvaronon da milionoj da linioj de poezio.
+li konsideris literaturon kaj juron kiel karieron, sed oni konsilis lin daŭre studi medicinon. li kvalifikiĝis en 1883...
+en 1902 li iĝis profesoro de p­tologio ĉe malsanulejo de sankta maria, kie li regadis 45 jarojn, komencante en unu malgranda nebone ekipita ĉambro ....
+en 1906 alexander fleming aliĝis al la malsanulejo. la rilatoj inter la du viroj estis bona kaj wright aljuĝis al fleming honoron por ties laboro kaj rezultoj.
+80. la desegnaĵoj de naska
+la giganta komplekso de ter­desegnaĵoj en naska, peruo, estas unika fenomeno. pro sia grandeco, vario kaj multnombreco la desegnaĵoj famiĝas tra la tuta mondo.
+kvankam ter-desegnaĵoj estas konataj ankaŭ en aliaj mondpartoj, nur en naska oni investis tiom da energio dum multaj generacioj por desegni centojn da linioj kaj formoj.
+la urbeto naska troviĝas en dezerta ebenaĵo inter pacifika oceano kaj la andoj. jen kaj jen riveroj trafluas la dezertan stepon, kiuj kondukas akvon de la neĝaj pintoj de la andoj al la oceano.
+en la valoj apud tiuj riveroj viglis en la unua jarmilo prahistoriaj kulturoj. la naska kulturo, kiu kreis la gigantajn desegnaĵojn, ekzistis inter la tria kaj naŭa jarcentoj.
+sub la inkaa imperio malaperis la antikvaj tradicioj. sekve, kaj pro la manko de skribo, la fonto kaj celo de la desegnaĵoj restas mistero.
+robota mano
+japanaj sciencistoj de la laboratorioj atr computational neuroscience en kioto prezentis robotan manon tute regatan de la pensoj de la uzanto. tiu mano imitas la movadon de la natura mano pere de realtempa analizo de la cerba aktiveco.
+partoprenantoj en ekperimento faris 'ŝtonan, paperan aŭ tondilan figuron' per la dekstra mano. skanilo registris la respondan cerban aktivecon, mezurante sangan fluon en la cerbo.
+la informoj estas plusendataj al komputilo kiu regas la robotan manon.  post mallonga   trejnado la komputilo povas asocii la cerban aktivecon kun la farita figuro.
+kiam la homo faras pugnon  la komputilo instrukcias la robotan manon fari same, uzante nur la cerban signalon.
+kvankam la metodo funkcias malrapide kaj estas multekosta, ĝi reprezentas gravan mejlŝtonon en konstruado de protezoj regataj de la pensoj de la uzanto.
+akademioj kaj lingvoj
+antikvaj akademioj estis renkontejoj por liberaj diskutoj kaj transdono de scioj. novtempaj akademioj parte daŭrigis tiun tradicion, sed pli kaj pli specialiĝis al unuopaj sciencoj kaj artoj.
+pluraj akademioj fondiĝis en florenco dum la regado de la familio medici, i.a. academia platonica , accademia degli umidi  kaj la plej fama el ili accademia della crusca, kiu specialiĝis pri toskana-itala skriblingvo kaj iĝis modelo por similaj organizaĵoj en eŭropo, ekzemple por lingvo-flegantaj rondetoj en gemanio.
+estas interese kompari la laborprincipojn de accademia della crusca kun la alia fama eŭropa instanco, academie francais. ankaŭ planlingvuloj kreis siajn lingvajn societojn kaj akademiojn, kies celoj ne ĉiam estis identaj.
+ni konatiĝu kun historio kaj celoj de kadem bevŭnetik volapuka, academia pro interlingua, akademio de esperanto kaj kelkaj aliaj.
+eŭrobiletoj en belgio
+laŭ la 'ttt-ejo www.eurobilltracker.com, multlingva, ankaŭ en esperanto, fondita en 2002 por observi la movojn de la eŭrobiletoj en la eŭropa unio, komence de julio 2007 nur 17.3% de la eŭrobiletoj kiu cirkulas en belgio estas presitaj tie, do vere belgaj.
+ekde la enkonduko de la eŭro antaŭ kelkaj jaroj la procentaĵo konstante malaltiĝis. en januaro 2002 ankoraŭ pli ol 80% de la biletoj estis belgaj. unu jaron poste tiu procentaĵo jam falis al 50%.
+laŭ eŭrobilltracker la procentaĵo de hispanaj biletoj nun estas preskaŭ same granda kiel la procentaĵo de belgaj biletoj: 16,5%.
+krom tiuj, ofte cirkulas germanaj , francaj , italaj  kaj finnaj  biletoj. malpli aperas aŭstraj , irlandaj  kaj grekaj .
+la ttt-ejo permesas al membroj registri la biletojn kiujn ili posedas, kaj ankaŭ kontroli en kiuj landoj la biletoj jam uziĝis.
+orienta astronomio
+la ĉina astronomio estas unu el la du plej antikvaj , sed certe la plej longdaŭra registrado de la ĉielo.
+la plej frua konata registro de suneklipso venas de ĉinio, el la jaro 2136 ak. la ĉinaj astronomiaj observoj kovras seninterrompe preskaŭ tri jarmilojn ĝis la nuna tempo.
+la ĉina kalendaro aĝas preskaŭ kvar jarmilojn kaj estas, kiel la hebrea, kombinita luna kaj suna, bazita je precizaj astronomiaj observoj. sed ĉinaj astronomoj registris ne nur la kalendarajn periodajn fenomenojn, sed ankaŭ rarajn okazaĵojn kiel kometojn kaj gasto-stelojn , unu el kiu estas la fama supernovao de la krabo en la jaro 1054, kiu ne estis menciita en eŭropaj fontoj.
+kiam en mezepoka eŭropo la evoluo de astronomio estis bremsita de la eklezio, ĝi floris en ĉinio kaj sekve en koreio kaj japanio.
+salo
+saloj estas jonaj kombinaĵoj, kiuj enhavas ajnan negativan jonon krom hidroksida jono , kaj ajnan pozitivan jonon krom hidrogena jono .
+multaj saloj troviĝas en la naturo, kaj miriadoj da aliaj estis preparitaj en la laboratorio. natria klorido , kuir- aŭ tablo-salo, estas verŝajne la plej konata el ĉiuj saloj. ĝi estas ankaŭ la plej ofte uzata salo, ofte uzata en kuirarto por bongustigi aŭ konservi manĝaĵojn.
+ne estas bone por la sano manĝi tro da natrio, ĉar tio povas tro altigi vian sangopremion. vi povas anstataŭigi salon natrian per version kiu enhavas kalion sed kiu gustas simile ĉar ĝi ankoraŭ havas kloridon
+vi rajtas manĝi ĝis ses gramojn da natrio ĉiutage, sed multaj manĝas pli, ĉar ĝi enestas grandkvante en manĝaĵoj jam pretigitaj. por eviti manĝi tro multe da salo, estas plej simple kuiri mem, tiel ke vi povas regi ĉu vi enmetas salon.
+banano bananforma
+ĝi ĉiam aspektas same kaj ĉiam laŭguste samas - tamen ni ne volas malhavi nian bananon de la specio cavendish. ĝi estas la mondvaste ĝenerale komercata specio.
+aktuale ĝi estas duoble endanĝerigita. en la malaja arkipelago, indonezio kaj aŭstralio jam tutaj plantejoj estas neniigitaj pro ŝimo kaŭzanta 'panamomalsamo-speco-4 " kiu infektas la radikojn de bananoplantoj.
+pesticidoj tute ne helpas. kvankam malsano tamen ankoraŭ ne atingis mezan amerikon kaj antilojn - nur afero de tempo - tie disvastiĝas jam la ŝimo 'nigrasignaturo' .  
+fakuloj opinias ke cavendish-pereo okazos dum la sekvaj ok jaroj. tiu ĉi problemo jam antaŭe okazis. en 1960 ŝimo neniigis la tiam dominan specion grosmichel.
+maljunuloj certe memoras ke la tiamaj bananoj estis pli dolĉaj. kaj la sekva unuforma unuspeca unugusta banano?
+temperaturleviĝo en tirolo
+la aŭstra organizaĵo pri protekto de la naturmedio global 2000 prezentis alarman prognozon pri la klimato en tirolo ĝis 2100. la esploro montras, ke en la alpa regiono la sekvo de plivarmiĝo tre gravos.
+la alpoj reagas tre senteme al la tutmonda klimatŝanĝiĝo kaj tial povus esti traktata kiel 'sistemo de frua averto'. laŭ la prognozo en la sekvaj jardekoj la someroj kaj aŭtunoj estos je tri gradoj pli varmaj.
+la someroj estos pli sekaj, la vintroj tamen riĉa je precipitaĵoj. je alto sub 2000m ne neĝos, nur pluvos. en la vintro pluvos ĝis 30 procentojn pli ol nun. ĝis la fino de la jarcento ĉiuj glaciejoj degelos en aŭstrio.
+inundoj kaj lavangoj en la alta montaro okazos pli ofte. la plivarmiĝo havos efikon ankaŭ al la energiproduktado. la akvoenergiaj centraloj havos gravajn problemojn. akvo malmultiĝos pro la longaj sekaj someroj.
+se oni ne antaŭzorgos, la ruiniĝo de la energisistemo certe okazos.
+ridado
+estas bone konate, ke ridado malmultigas mensajn streĉojn kaj fortigas korpan imunecon. tamen, por sano, kiom da ridoj necesas?
+profesoro kimura jooĵi de la kansaja universitato, japanio, komencis esplori la sekreton de ridado.
+ĝis nun oni atentis nur mienojn kaj voĉojn de ridantoj, sed kimura esploris la movojn de la diafragmo. en eksperimentoj li trovis ke, kiam oni elkore ridas, la diafragmo tremas. profitante tiun eltrovon, li inventis porteblan ridmezurilon, kiun li povos vendi ĝis la fino de la jaro.
+li diras "multaj homoj estas tro konscia pri sia sano, prenante medikamentojn kaj maltrankviliĝante pro sangopremo kaj glukozo". tamen ne tiajn aferojn oni mezuru sed ridkvanton.
+laŭ la profesoro oni diru al si "hodiaŭ mankas 500 ah  al mi. mi ĝuu komikajn rakontojn kaj ridu".
+la blua miraklo
+en norda tanzanio inter lago viktoria kaj la naturrezervejo serengeti estas aro da kvin vilaĝoj nomita "salama' .
+homoj tie vivas en malriĉo. virinoj havigas akvon el flakoj kilometrojn foraj. plurcent orfoj estas sen vivrimedoj.
+la vilaĝestro, mramba simba, parolas esperanton kaj klopodis uzi siajn kontaktojn kun eŭropo por plibonigi la vivkondiĉojn de la 145 000 vilaĝanoj. en 2008 li vizitis eŭropon kaj varbis por subteno de la regiona projekto 'mazingira' - svahila vorto kun signifo: medio, naturprotekto - kiu organizas konstruadon de putoj kaj lernejoj, kolektas monon por mikrokreditoj kaj subtenas orfojn.
+en sudgermana urbo aŭgsburgo oni tiucele kolektis kelkmilojn da eŭroj. per la donacita mono oni aĉetis interalie ekipaĵon por putoborado. unu puto antaŭe kostis 6000 eŭrojn. nun, borante mem, oni bezonas iom malpli ol 800 eŭrojn.
+arta futuro
+tri mondfamaj arkitekotoj partoprenis konkurson por la projekto de nova kultura centro en la litova ĉefurbo vilnius. la centro fariĝus filio de novjorka modern-arta muzeo guggenheim kaj sankta­peterburga ermitaĝo.
+en ĝi lokiĝos ne nur ekspozioj de tiuj muzeoj, sed ankaŭ arta centro de jonas mekas, litovdevena usona film­kreanto, artisto ofte nomata 'baptopatro de usona avangarda kino', kultura centro de litovdevenaj judoj, junulara edukcentro, kaj du kinejoj por nekomercaj filmoj.
+internacia komisiono decidis ke la plej bona proj ekto estas tiu de la brita arkitekto z. hadid. ŝiaj plej famaj verkoj estas la transporta muzeo en glasgovo, la centro aquatics por la olimpikaj ludoj de 2012 en londono, la muzeo de artoj de la 21a jarcento en romo kaj la muzeo guggenheim en tajvano.
+rezulto proporcia
+la 28an de junio okazis ĝenerala balotado en albanio. oni uzis anstataŭ majoritata novan elekto-kodon, proporcian-regionan, aprobitan en februaro.
+la antaŭa majoritata sistemo celis malpliigi parlamentajn partiojn, sed provokis fortajn protestojn. koleris aparte la socialista movado por integriĝo, estrata de ilir meta, kiu disiĝis antaŭ kvin jaroj de la socialista partio de edi rama, urbestro de tirano.
+kiel atendite, la rezulto estis komplika. la dekstra demokratia koalicio akiris 70 el 140 deputitoj, do egale al la koalicio maldekstra.
+tial la socialista movado por integriĝo, kun kvar mandatoj, akceptis la proponon de sali berisha, la aktuala demokrata ĉefministro, por kune fondi novan registaron.
+tiel solviĝis la politika krizo kaj la nova registaro, aprobita de nova parlamento frue en septembro, unuafoje enhavos dekstrulojn kaj maldekstrulojn.
+la alciono
+oni rigardas ĝin "fluganta juvelŝtono". frapas la atenton ne nur ĝia belege bunta plumaro; ankaŭ alie la paserogranda birdo estas eksterordinara.
+ĝi ne kovas ovojn en nesto, sed en metro­profunda tertubo, kaj ĝi fulmrapide ĉasas fiŝojn kvankam ĝi ne povas naĝi.
+la alciono apartenas al la malmultaj birdoj, kiuj subakviĝe predas, kvankam ĝi, kontraŭe al la kormorano, ne povas naĝi.
+eĉ en rapide fluantaj akvoj ĝi povas fiŝi, kaj la mergon favoras la tre densa strukturo de la plumaro. ĝia germana nomo eisvogel  tute ne rilatas al prefero de neĝo aŭ glacio. malvarmega akvo eĉ estas mortiga por la birdo ĉar tie ne eblas fiŝado.
+la nomo eble devenas de la malnovgermana eisen, kiu signifas brila aŭ scintila, aŭ de eisenfarbig  pro la blua dorso kaj rustruĝa ventroplumaro.
+kvankam mondvaste ekzistas pli ol 100 specioj, en gemanio vivas nur unu specio alcedo atthis.
+kurento-krizo
+60 milionoj da homoj en 18 el la 26 brazilaj ŝtatoj spertis malheliĝon, kiam la loan de novembro 2009 paneis la elektrosistemo.
+la malheliĝon, kiu daŭris depende de la loko ĝis sep horoj, kauzis paneo en itaipu, la plej granda hidroelektra centralo en la mondo. la centralo funkcias per la akvo de rivero parana, kiu fluas eloriente-okcidenten en la suda regiono de brazilo.
+pere de 18 generatoroj, itaipu liveras kvaronon de la tuta elektro de brazilo kaj preskaŭ la tutan elektron de paragvajo, lando ankaŭ forte trafita de la paneo ....
+la brazila ministro pri minoj kaj energio diris, ke kaŭzis la katastofon malbona vetero en la regiono de la centralo. tieaj fulmoj kapablis difekti delikatajn aparatojn. tamen sen apartaj kialoj kelkaj opniis, ke temis pri atako kontraŭ la komputila sistemo ĉe la centralo.
+ne mankis ŝerco, ke itaipu estis tiam regata de homer simpson, la fuŝulo de usona animacia filmo.
+pri muzeoj ...
+en 1880 john ruskin verkis artikolon titolitan 'muzeo aŭ bildgalario, ĝiaj funkcioj kaj formiĝo' dirante:
+"la unua funkcio de muzeo ... estas doni ekzemplon de perfekta ordo kaj perfekta eleganteco ... al la senordema kaj kruda popolo.  ĉio en sia loko ... nenio plenŝtopita, nenio nenecesa, nenio enigma. tial, post kiam ĉambro estas aranĝita, oni devas ŝanĝi nenion en ĝi...
+la komenca elspezo por konstruado kaj garnituro devas esti grandioza ... la ĉiutaga elspezo grandanima; sed iun porcion de tiu ĉiutaga elspezo oni havigu per malgranda enirkosto, postulata ne por iom avare kontribui al salajroj de plankbalaistoj, sed por la vizitantoj mem, por ke la ĉambrojn ne plenigu mallaboremuloj nek malhonori malestiminduloj.
+vi devas ne fari el via muzeo rifuĝejon kontraŭ pluvo aŭ enuo, ne enlasi en la perfekte ekipitajn ... palacajn ĉambrojn la tute mizeran kaĵ malnobelan porcion de la popolo ...
+pro manko de dolaro jare
+ĝi estas mortigaĵo kiu pli da infanoj malpli ol kvinjara mortigas ol morbilo, malario kaj aidoso.  fakte, tra la disvolviĝanta mondo ĝi estas la kvara plej granda kialo de morto kaj malsano.  tamen verŝajne vi neniam aŭdis pri la problemo.
+...pli ol triono da homaro devas kuiri ĉiutage per tradiciaj fornoj kiuj bruligas lignon, plantrestaĵojn aŭ fekaĵon.  kaj kuirfumo, kiel cigaredfumo, estas miksaĵo de venenoj inkluzive de karbona monooksido, nitrogenaj oksidoj kaj kancerogenaĵo kiel formaldehido kaj benzeno.  tio klarigas kial oni pensas ke kuirfumo mortigas 1,6 milionojn da homoj ĉiujare, plejparte virinojn kaj junajn infanojn....
+ sed ili povus toleri elspezon por forno kun kamentubo kiu kondukas fumon ekster la domon.   se la konstruo de la domo estas tia ke kamentubo ne eblas, preskaŭ egale bonas kapuĉo kun fumtubo kiu kondukas fumon supren en la tegmenton.
+oni taksas ke po 2.5 bilionoj da dolaroj jare dum 12 jaroj provizus al 2 bilionoj da homoj sanan endoman medion - ĉirkaŭ $1 por ĉiu homo jare.
+ŝercante lacertojn
+inter 1990 kaj 2002, la tiamakonservadisto de la irlanda sovaĝnatura kuratoreco, ferdia marnell, efektivigis la unuan esploron de tiu nekutima besto.  uzante raportojn el ĉiuj krom kvin graflandoj, ferdia eltrovis iom da tre interesaj faktoj pri 'lacerta vivipara'.  eble ple grave, li eltrovis ke la lacerto estas pli disvastigita ol antaŭe registrita.  
+plimultaj raportoj venas el lokojkie oni aktive serĉis lacertojn,kio signifas, ke en lokoj kie neestas raportoj povas estis multajlacertoj.  tial la nuna kampanjo dereptilio-spurado.  ni volas aŭdipri kiel eble plej multaj lokoj kieloĝadas tiuj sinĝenaj etaj lacertoj.  oni plej ofte vidas lacertojn kiamili ripozas sur rokoj, ŝtonmuroj,ŝtipoj aǔ malkovritaj sunaj lokoj.  se vi vidus, sendu al ni ladetalojn: loko, speco de loĝloko,apudaj plantoj, veter-kondiĉoj, ktp.
+fajro
+ĝi estas varma, ŝvitigas onin kaj ne estas kareo.  jes, estas fajro.
+antaŭe rigardita iom timiga, la mirinda ruĝaĵo jam iĝis la plej bona amiko de la homo.  tutmonde homoj uzas ĝin por kuiri, por varmiĝi kaj por timigi sovaĝajn bestojn.
+"estas nenio nova pri fajro," diris norris nik, prezidanto de la fajreja trusto.  "oni povas trovi ĝin ĉie - ekzemple, vepra fajro, fulmobato kaj vulkanoj.  sed la trarompo estas enkonduki ĝin en la hejmon." ...
+"la fajro havas multajn avantaĝojn, la ĉefa estas tio, ke ĝi ebligas nin homojn pli regi niajn ĉirkaŭajojn.  antaŭe ni dependis de la suno por varmo kaj lumo," entuziasmis norris.  "nun ni povas teni nin varmaj kaj sekaj kie ajn ni estas.  tio implicas ne nur la finon de mallumaj kavernoj, sed signifas ke ni povos travivi en malvarmaj lokoj kiel eŭropo.  kaj se venos ia glaciepoko, ni povos resti ĝis ĝia fino.
+80. la desegnaĵoj de naska
+la giganta komplekso de ter­desegnaĵoj en naska, peruo, estas unika fenomeno. pro sia grandeco, vario kaj multnombreco la desegnaĵoj famiĝas tra la tuta mondo.
+kvankam ter-desegnaĵoj estas konataj ankaŭ en aliaj mondpartoj, nur en naska oni investis tiom da energio dum multaj generacioj por desegni centojn da linioj kaj formoj.
+la urbeto naska troviĝas en dezerta ebenaĵo inter pacifika oceano kaj la andoj. jen kaj jen riveroj trafluas la dezertan stepon, kiuj kondukas akvon de la neĝaj pintoj de la andoj al la oceano.
+en la valoj apud tiuj riveroj viglis en la unua jarmilo prahistoriaj kulturoj. la naska kulturo, kiu kreis la gigantajn desegnaĵojn, ekzistis inter la tria kaj naŭa jarcentoj.
+sub la inkaa imperio malaperis la antikvaj tradicioj. sekve, kaj pro la manko de skribo, la fonto kaj celo de la desegnaĵoj restas mistero.
+kurento-krizo
+60 milionoj da homoj en 18 el la 26 brazilaj ŝtatoj spertis malheliĝon, kiam la l0an de novembro 2009 paneis la elektrosistemo.
+la malheliĝon, kiu daŭris depende de la loko ĝis sep horoj, kauzis paneo en itaipu, la plej granda hidroelektra centralo en la mondo. la centralo funkcias per la akvo de rivero parana, kiu fluas eloriente-okcidenten en la suda regiono de brazilo.
+pere de 18 generatoroj, itaipu liveras kvaronon de la tuta elektro de brazilo kaj preskaŭ la tutan elektron de paragvajo, lando ankaŭ forte trafita de la paneo ....
+la brazila ministro pri minoj kaj energio diris, ke kaŭzis la katastofon malbona vetero en la regiono de la centralo. tieaj fulmoj kapablis difekti delikatajn aparatojn. tamen sen apartaj kialoj kelkaj opiniis, ke temis pri atako kontraŭ la komputila sistemo ĉe la centralo.
+ne mankis ŝerco, ke ltaipu estis tiam regata de homer simpson, la fuŝulo de usona animacia filmo.
+mielo
+novzelanda mielo pli efikas kontaŭ bakterioj ol antibiotikoj.
+aŭstraliaj sciencistoj malkovris ke eĉ la malsanulejaj timataj multrezistaj     "superbaciloj" pereas kiam ili kontaktiĝas kun mielo el la floroj de la novzelanda manuka-teoarbo.
+la ĝenerale uzataj antibiotikoj montriĝas pli kaj pli senefikaj, ĉar la mikroboj rapide evoluigas defendo­meĥanismojn. en la manuka­mielo iu sukermalkomponaĵo  forte kaŭzas streson al la bakterioj antaŭ ol ili povas evoluigi rezistecon.
+la ekkono plialtigas la aplikadon de medicina mielo kiel alternativon al antibiotikoj. sub la merkatmarka nomo medihoney ĝin ofertas la novzelanda naturkuraca enterpreno comovita kaj jam uzas ĝin la infan-kliniko de universitato en bonn, germanujo.
+comovita nun volas plivastigi sian produktaĵ­paletron per elmiela vundoĝelo kaj vundoplastro.
+brajlo
+en la pariza "instituto por blinduloj", fondita en 1784 kiel unua tiuspeca organizo en la mondo, la juna louis braille komplikmaniere lernis legi helpe de grandaj reliefliteroj, sed ne povis mem skribi.
+des pli li estis entuziasmigita, kiam unu tagon kapitano charles barbier vizitis la lernejon kaj prezentis ian "nokto­skribon".
+por doni ordonojn al soldatoj en malluma nokto nerimarkate de la malamikoj, li inventis komplikan silaban skribaĵon kun palpeblaj punktoj kaj strekoj.
+kvazaŭ obsede louis laboris tri jarojn por simpligi tiun sistemon kaj fari ĝin praktike uzebla.
+en la jaro 1825 la baza formo de la "skribo por blinduloj" estis preta, kiu hodiaŭ portas la nomon de braille. ĉiujn literojn ĝi kodas per nur ses punktoj, kiujn oni pregas en la paperon, grifele, skribmaŝine aŭ komputile, tiumaniere ke oni povas palpi ilin poste per fingropintoj.
+pregi : teknika termino - doni definitivan formon al peco  premante ĝin per tre forta premo inter patrico kaj matrico
+100 - nova politika erao
+post 60 jaroj britio havas denove koalician registaron. tutlandaj elektoj, okazintaj en majo, liveris parlamentan plimulton nek al la reganta laborista partio nek al la ĉef­opozicia konservativa partio.
+sekvis kvar tagoj de diskutoj, konjektoj, proponoj kaj kontraŭproponoj, ĝis fine estas anoncite, ke la nova registaro konsistos el koalicio inter la konservativa partio kaj la liberal-demokrata partio.
+en multaj eŭropaj landoj normalas elektoj kiuj ne liveras klaran unupartian registaron. same normalas koalicioj.
+en britio, tamen, jam dum pli ol duonjarcento - krom kelkaj neformalaj interkonsentoj regis landnivele aŭ la laborista aŭ la konservativa partio sen helpo de tria pli malgranda partio.
+britoj nun miras ke kandidatoj, kiuj akre kritikis unu la alian dum elekto­kampanjo, nur kelkajn tagojn poste kolege kaj kune staras por prezenti komunan platformon al la publiko.
+platformo teknika termino - programo  proponata por agado
+insulo malaperinta
+en la golfo de bengalio apud barato kaj bangladeŝo troveblis insulo 3,5 km longa kaj 3,0 km larĝa. nomis ĝin barato nova moore kaj bangladeŝo suda talpatti.
+jam de 30 jaroj disputis ambaŭ ŝtatoj pri suvereneco de la insulo.
+nun, tamen, superfluas disputado. pro la altiĝo de marnivelo la insulo simple ne plu ekzistas.
+tion konfirmis sugata hazra, profesoro pri marstudoj ĉe la universitato de kalkato, surbaze de satelitaj fotoj.
+ankaŭ aliaj landoj esta tiel minacataj. maldivoj, insularo en hinda oceano, malaperos sub la maro, se la mondo nenion faros. pasintjare la prezidanto de maldivoj, mohamed nasheed, portante skafandron, kunvenis kun sia kabineto kvin metrojn sub la maro por atentigi pri la problemo.
+en nepalo, kie homoj multiĝas kaj arboj malmultiĝas oni timas ke glaciriveroj degelas, kio kaŭzos katastofon en la lando.
+barato : antikva hinda reĝo, alternativa nomo por hindio
+zamenhof al soros
+"de zamenhof al soros" estis la titolo de la ĉi-jara simpozio organizita de la novjorka oficejo de uea. tiu oficejo ĉiujare organizas publikan aranĝon okaze de zamenhof-tago la 15-an de decembro.
+temis pri historia trarigardo de la komenca periodo de esperanto, organizita por rekoni du novajn librojn: anglalingvan biografieton de zamenhof - mallongigitan version de la granda biografio verkita de a. korĵenkov antaŭ duo da jaroj - kaj nove tradukitan libreton de tivadar soros, kiu unue aperis en la jaro 1923.
+la konata fakulino esther schor, profesoro ĉe la universitato princeton, rekonis la ligon kun zamenhof per sia prelego pri "zamenhof kaj estonteco", en kiu ŝi ekzamenis la koncepton de la kreinto de esperanto pri la estonteco de la homaro kaj la rolo de esperanto en tiu kunteksto.
+urbaj vulpoj
+ĉe la vulpoj en britujo, kiujn ne infektas la rabio, jam ekde la dua mondmilito oni povas observi la tendencon al urba vivo.
+vivas en la urboj sur unu kvadratkilometro ĉe ni l0 ĝis 20 vulpoj - dekoble  pli ol en la kamparo.  
+plej bone ekzamentitaj estas la urbovulpoj en svislando, kies nombro kreskis kvaroble ekde 1985. antaŭ dek jaroj zoologoj, parazitologoj kaj aliaj esploristoj en zuriko komencis la 'integran vulpo-projekton' kiu okupiĝis pri studado de aspektoj de vulpo-vivo.
+dum la meloj kaj ĉamoj ĝis nun kuraĝas eniri nur la antaŭurbojn, jam ĉirkaŭ mil vulpoj setlis en la zurika centro. la plej multaj vulpoj en zuriko ne estas enmigrintoj, sed naskiĝis tie.
+alie ol kamparaj vulpoj, kiuj sole aŭ duope ĉirkauvojas, la urbo vulpo vivas en grandaj familioj. dumtage ili dormetas en iu kaŝejo.
+se ili sin montras, tio estas por multaj homoj tre ĝojiga afero.
