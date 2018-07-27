@@ -1,3 +1,388 @@
+salutations
+hello!
+welcome!
+good  morning!
+good  evening!
+goodbye!
+everyday expressions
+yes.
+no.
+ok
+really?
+please.
+thank  you.
+thank  you very much.
+you're  welcome.
+i  don't know.
+i  think so.
+i  don't think so.
+what  do you think?
+why  not?
+are  you sure?
+its  fine.
+certainly.
+maybe.
+of  course.
+is  it possible?
+i'm  very grateful.
+it  doesn't matter.
+good  luck!
+be  careful.
+look  at this!
+listen  to this!
+come  here!
+come  with me!
+what  is that?
+what  is this?
+what  are you doing?
+how  do you say that in esperanto?
+what's  it like?
+do  you like it?
+it  is beautiful. delicious  wonderful  interesting  exciting
+where  is the bathroom?
+introductions
+my  name is karlo.
+what  is your name?
+what  is his name?
+what  is her name?
+pleased  to meet you.
+i've  heard much about you.
+how  are you?
+fine,  thanks, and you?
+how  are things?
+here  is my card.
+where  are you from?
+i  am from the u.s.a. britain  england  scotland  wales  canada  australia  ireland  new  zealand
+where  do you live?
+i  live in chicago.
+do  you speak esperanto? english?
+yes,  a little.
+please  speak slowly.
+do  you understand?
+i  don't understand.
+please  repeat.
+excuse  me.
+are  you mrs. king?
+let  me introduce mr. king.  my  colleague my  colleagues my  friend my  friends
+i  am here on business as  a tourist to  study
+where  are you staying?
+i  am at the green hotel.
+have  you been in germany before?
+this  is my first visit to italy.
+are  you married?
+how  is your wife? husband  mother  father  daughter  son  sister  brother
+best  wishes to your family!
+would  you like to come to my house on saturday?
+would  you like to come for lunch?  dinner tea
+where  are you going?
+i'm  going to work.  shopping
+could  i come with?
+are  you ready?
+were  in a hurry.
+is  stefano home?
+she's  not here.
+he's  not here.
+when  will he be back?
+when  will she be back?
+who  is it?
+come  in.
+have  a seat.
+make  yourself at home.
+would  you like something to eat drink?
+do  you smoke?
+i  don't smoke.
+could  you please not smoke?
+thank  you for your hospitality.
+please  come again.
+stay  in touch.
+inquiries on the street
+where  is the park? u.s.  embassy
+which  way to the temple?  church  mosque
+what  is the name of this street?
+how  far away is the eiffel tower?
+which  way is north? south  east  west
+i'm  lost.
+where  am i?
+please  write it down.
+turn  right.
+turn  left.
+go  straight.
+go  back.
+numbers
+zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
+twenty-one
+twenty-two
+thirty
+forty
+fifty
+sixty
+seventy
+eighty
+ninety
+one  hundred
+two  hundred
+one  thousand
+two  thousand
+one  million
+two  million
+once
+twice
+ten  percent
+how  old are you?
+i  am 28.
+time
+a  second
+a  minute
+an  hour
+three  hours
+what  time is it?
+it  is two oclock.
+it's  ten to five.
+it's  quarter past nine.
+it's  half past one.
+it's  midnight.
+it's  noon.
+it's  early.
+it's  late.
+shall  we meet tomorrow at noon? at  ten in  the afternoon this  evening
+days of the week
+monday
+tuesday
+wednesday
+thursday
+friday
+saturday
+sunday
+everyday
+i  leave today.  tomorrow  the  day after tomorrow next week
+i  arrived yesterday. the  day before yesterday  last  week the  other day
+months of the year
+january
+february
+march
+april
+may
+june
+july
+august
+september
+october
+november
+december
+what  day is it today?
+what  is today's date?
+it  is the third of may.
+this  year
+next  year
+last  year
+this  month
+next  month
+last  month
+it's  spring. summer  autumn  winter
+weather
+how  is the weather?
+its  hot today. sunny  cold  windy
+how  will the weather be tomorrow?
+tomorrow  it will be cloudy. cool
+it's  raining.
+it's  snowing.
+it's  drizzling.
+colors
+what  color is it?
+it's  black. blue  brown  gray  green  pink  purple  red  white  yellow
+i  like this color.
+at a hotel or house
+i  would like to reserve a room
+i  have a reservation.
+do  you have a double room? single
+do  you have a room with a bath?
+does  the room have a shower? air  conditioning twin  beds
+what  is the rate per day?
+is  dinner included?
+i  will be staying for two nights.
+do  you have a better room? cheaper  larger  smaller  quiter
+please  wake me at 6 a.m.
+could  i have the key please?
+on  what floor is my room?
+take  the elevator.
+go  up the stairs. down
+there  is no hot water.
+could  you get me some ice?  another  blanket  some  drinking water  a  drinking glass  an  electric fan  a  heater  an  iron  a  pillow  some  shampoo  some  soap  some  toilet paper  a  towel
+can  we still order breakfast?
+is  it possible to have these clothes washed?
+please  have these clothes dry-cleaned.
+may  i have the bill please?
+i  wish to speak to the manager.
+please  call for a taxi.
+personal comfort
+what's  the matter?
+is  everything all right?
+i'm  cold. hot  thirsty  hungry  tired  angry  fine  happy  sad
+please  leave me alone.
+money
+where  is the bank?
+where  can i find an atm machine?
+i  need to get some money from an atm machine
+where  can i exchange foreign currency?
+what  is today's dollar exchange rate?
+please  change this into euros. forints  francs  pesos  pounds  rubles  yen  złoty  coins
+do  you accept credit cards? travelers  checks
+food and drink
+where  is the supermarket? store  butcher  shop bakery
+where  can i buy fruit? apples  bananas  cherries  figs  grapes  grapefruit  lemons  limes  mangoes  oranges  papaya  peaches  pears  pineapples  plums  raisins  strawberries  watermelon
+i  prefer vegetables. beans  broccoli  cabbage  carrots  cauliflower  cucumbers  eggplant  garlic  green  bell peppers lettuce  mushrooms  olives  onions  peas  potatoes  tomatoes
+i  would like to buy some beef. bacon  chicken  ham  lamb  mutton  pork  sausage  veal  venison
+i  like seafood.  clams  crab  lobster  oysters  shrimp
+i  need bread. butter  a  cake candy  cheese  chocolate  cookies  cream  milk  noodles  nuts  pasta  peanuts  rice  a  sandwich yogurt
+where  can i buy soda water? a  bottle of water
+i  prefer non-carbonated water.
+i'd like eggs.
+may  i have tea? coffee
+with  sugar
+with  milk
+with  non-dairy creamer
+with  lemon
+with  honey
+with  cream
+black
+would  you like some lemonade? fruit  juice orange  juice  apple  juice soda
+i'd  like a beer, please. white wine red  wine champagne  irish  cream liquor vodka  whiskey
+on  the rocks
+straight  up
+with  a twist
+and  cola
+at the restaurant
+could  you recommend an inexpensive restaurant?
+could  you bring me another bowl of rice?
+may  i see a menu?
+do  they have vegetarian dishes?
+enjoy!
+i  need a knife. a  fork a  spoon chopsticks  a  plate a  napkin a  cup a  bowl a  glass of water a  wine glass salt  pepper  mustard  vinegar
+i  would like to order some soup.
+check,  please.
+i'll  pay for it.
+i'll  leave a tip.
+shopping
+can  i help you?
+where  can i buy souvenirs? camera  film videotape  magazines  an  english newspaper a  book stationery
+i  am going to the florist. book  store pharmacy  department  store
+how  much does it cost?
+i  bought a jacket. some  pants a  shirt/a blouse a  sweater a  skirt a  dress a  coat a  raincoat a  bathing suit a  pair of shoes
+leisure
+would  you like to see the city?
+i  will take you on a tour.
+i  will drive you there.
+i  would like to go to the mountains. beach  pool  country  caves
+could  you take a photo of us?
+i'd  like to get two tickets to the ballet. concert  opera
+they  are out of tickets.
+i  like the theater.  the  cinema movies  the  circus to  watch t.v. to  go to museums
+at  what time does the play begin? tour
+what  film is playing tonight?
+where  is the ticket office?
+is there a bar  nearby? discotheque
+where do i register?
+i will provide for my own logding.
+i am a member of uea.
+what is the fee?
+how much do i owe?
+where is the message board?
+when does that meeting begin?
+at what time does the food hall open? close
+please don't speak other languages!
+post office
+where is the post  office?
+how much is it to send a  letter to the usa?
+can i have money wired  to me here?
+i'd like to buy stamps,  please  postcards  an envelope
+i'd like to send this by registered mail. by air mail by express mail overnight
+i'd like to send money.
+when will the mail  arrive?
+where is there a  mailbox?
+this contains printed  matter.  fragile material
+at the office
+where can i make  photocopies?
+may i use the computer?  fax machine cellular telephone
+how much do you charge  per page?
+could i send a fax?
+the telephone
+may i use the telephone?
+where is the telephone  directory?
+how do i make a call to  washington?
+i'd like to make a  collect call. an international a long-distance
+what is the area code  for havana?
+the line is busy.
+hello?
+who's speaking?
+it's sven.
+may i speak to maria?
+could you take a  message?
+transportation
+have a good trip!
+where can i rent a car? bicycle  motorcycle
+where can i board the  ferry? board the boat
+where is the subway  station?  train station train stop bus stop
+i need a porter. luggage cart
+i'd like a schedule,  please.
+how much is a one-way  ticket?  round-trip
+how much is a first  class ticket? second-class  sleeper
+could you tell me when  we reach tokyo?
+is there a dining car? sleeping car
+when does the train  leave istanbul?
+when does the train  arrive in barcelona?
+it is on time?
+does this train go to allahabad?
+how long will we be  stopped here?
+at the airport
+which is the gate for domestic  flights? international
+how long will the flight  to nairobi be delayed?
+i'd like to sit in the smoking  section non-smoking
+please call the flight attendant.
+at customs
+this is my luggage.  handbag  briefcase
+i have nothing to  declare.
+please open your  bag.  close
+i have some perfume. cigarettes gifts personal belongings
+in the car
+how many kilometers to  oslo?
+can you direct me to the  highway? a gas station  downtown
+this doesn't work.
+please repair the tire.
+where is the hospital?
+call an ambulance.  a doctor  the police  the fire department
+fire!
+help!
+this is an emergency!
+it's dangerous!
+i'm sick.
+i need an interpreter.
+i've lost my family.  child  passport
+my wallet has been  stolen.
+i'm allergic to  penicillin.
+i'm diabetic.
+my arm hurts.  back  foot  hand  head  leg  neck  stomach
+my knees hurt.  ankles  eyes
+thank you for your help.
 from students' essays
 his thoughts tumbled in his head, making and breaking alliances like underpants in a washing machine.
 the little boat slowly drifted across the pond in exactly the same way a bowling ball wouldn't.

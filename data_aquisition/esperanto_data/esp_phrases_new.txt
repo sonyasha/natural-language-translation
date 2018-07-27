@@ -1,3 +1,388 @@
+salutoj
+saluton!
+bonvenon!
+bonan  matenon!
+bonan  vesperon!
+ĝis  la revido!
+ĉiutagaj esprimoj
+jes.
+ne.
+bone.
+ĉu?
+bonvole.
+dankon.
+multan  dankon.
+ne  dankinde.
+mi  ne scias.
+mi  pensas ke jes.
+mi  pensas ke ne.
+kion  vi pensas?
+kial  ne?
+ĉu  vi certas?
+ĝi  estas bona.
+certe.
+eble.
+kompreneble.
+ĉu  vere?
+mi  estas ege dankema.
+ne  gravas.
+bonan  ŝancon!
+estu  singarda.
+vidu  ĉi tion!
+aŭskultu  ĉi tion!
+venu!
+venu  kun mi!
+kio  estas tio?
+kio  estas tio ĉi?
+kion  vi faras?
+kiel  oni diras tion en esperanto?
+kia  ĝi estas?
+ĉu  vi ŝatas ĝin?
+ĝi  estas bela.  bongusta  bonega  interesa  ekscita
+kie  estas la necesejo?
+interkonatiĝoj
+mi  nomiĝas karlo.
+kiel  vi nomiĝas?
+kiel  li nomiĝas?
+kiel  ŝi nomiĝas?
+estas  plezuro renkonti vin.
+mi  aŭdis multon pri vi.
+kiel  vi fartas?
+bone,  kaj vi?
+kiel  fartas aferoj?
+jen  mia karto.
+de  kie vi estas?
+mi  estas de usono.  britio  anglio  skotio  kimrio  kanado  aŭstralio  irlando  nov-zelando
+kie  vi loĝas?
+mi  loĝas en ĉikago.
+ĉu  vi parolas esperanton? la anglan?
+jes,  iomete.
+bonvolu  paroli malrapide.
+ĉu  vi komprenas?
+mi  ne komprenas.
+ripetu,  bonvole.
+pardonu.
+ĉu  vi estas sinjorino king?
+mi  prezentu sinjoron king. mian kolegon  miajn kolegojn  mian amikon  miajn amikojn
+mi  estas ĉi tie por komerco.  turisme  por studi
+kie  vi gastas?
+mi  gastas ĉe la verda hotelo.
+ĉu  vi iam antaŭe estis en germanio?
+jen  mia unua vizito en italio.
+ĉu  vi estas edziĝinta?
+kiel fartas via edzino?  edzo  patrino  patro  filino  filo  fratino  frato
+ĉion  bonan al via familio!
+ĉu  vi ŝatus veni al mia domo ĉi-sabate?
+ĉu  vi volas veni por tagmanĝi?  vespermanĝi  teumi
+kien  vi iras?
+mi  iras al laborejo.  butikumi
+ĉu  mi povas iri kun vi?
+ĉu  vi pretas?
+ni  devas rapidumi.
+ĉu  stefano ĉe-hejmas?
+ŝi  ne estas ĉi tie.
+li  ne estas ĉi tie.
+kiam  li revenos?
+kiam  ŝi revenos?
+kiu  estas?
+envenu.
+bonvolu  sidiĝi.
+sentigu  vin hejme.
+ĉu  vi volas ion por manĝi?  trinki
+ĉu  vi fumas?
+mi  ne fumas.
+bonvolu  ne fumi, mi petas.
+dankon  pro via gastamo.
+bonvolu  reveni!
+restu  en kontakto.
+enketoj
+kie  estas la parko?  ambasadorejo usona?
+kiel  atingi la templon?  preĝejon  moskeon
+kiel  nomiĝas tiu ĉi strato?
+kiom  longe for estas la ejfel-turo?
+kiu  vojo iras norden?  suden  orienten  okcidenten
+mi  perdiĝis.
+kie  mi estas?
+bonvolu  skribi ĝin.
+turnu  dekstren.
+turnu  maldekstren.
+iru antaŭen.
+iru  malantaŭen.
+numeroj
+nulo
+unu
+du
+tri
+kvar
+kvin
+ses
+sep
+ok
+naŭ
+dek
+dek  unu
+dek  du
+dek  tri
+dek  kvar
+dek  kvin
+dek  ses
+dek  sep
+dek  ok
+dek  naŭ
+du  dek
+du  dek unu
+du  dek du
+tri  dek
+kvar  dek
+kvin  dek
+ses  dek
+sep  dek
+ok  dek
+naŭ  dek
+cent
+du  cent
+mil
+du  mil
+miliono
+du  milionoj
+unufoje
+dufoje
+dek  procente
+kiom  vi aĝas?
+mi  aĝas du dek ok jarojn.
+la horo
+sekundo
+minuto
+horo
+tri  horoj
+kioma  estas (la horo)?
+estas  la dua.
+estas  dek antaŭ la kvina.
+estas  kvarono antaŭ la naŭa.
+estas  la unua kaj duono.
+estas  noktomezo.
+estas  tagmezo.
+estas  frue.
+estas  malfrue.
+ĉu  ni renkontu morgaŭ je tagmezo?  je la deka  posttagmeze  ĉi-vespere
+tagoj de l semajno
+lundo
+mardo
+merkredo
+ĵaŭdo
+vendredo
+sabato
+dimanĉo
+ĉiutage
+mi  foriros hodiaŭ.  morgaŭ  postmorgaŭ  venont-semajne
+mi  alvenis hieraŭ.  antaŭhieraŭ  pasint-semajne  antaŭ kelkaj tagoj
+monatoj de l jaro
+januaro
+februaro
+marto
+aprilo
+majo
+junio
+julio
+aŭgusto
+septembro
+oktobro
+novembro
+decembro
+kiu  tago estas hodiaŭ?
+kio  estas la dato?
+estas  la tria de majo.
+ĉi-jare
+venont-jare
+pasint-jare
+ĉi-monate
+venont-monate
+pasint-monate
+estas  printempo.  somero  aŭtuno  vintro
+vetero
+kia  estas la vetero?
+estas  varme hodiaŭ  sune  malvarme  vente
+kia  estos la vetero morgaŭ?
+morgaŭ  estos nube.  milde
+pluvas.
+neĝas.
+pluvetas.
+koloroj
+kiakolora  ĝi estas?
+ĝi  estas nigra.  blua  bruna  griza  verda  roza  purpura  ruĝa  blanka  flava
+mi  ŝatas tiun koloron.
+ĉe  hotelo aŭ domo
+mi volas rezervi ĉambron.
+mi rezervis ĉambron.
+ĉu vi havas dulitan ĉambron?  unulitan
+ĉu vi havas ĉambron kun banejo?
+ĉu la ĉambro havas duŝejon? klimatizilon  unulokajn litojn
+kiom estas la portaga kosto?
+ĉu vespermanĝo estas inkludita?
+mi gastos du noktojn.
+ĉu vi havas pli bonan ĉambron?  malpli kostan  pli grandan  malpli grandan  pli trankvilan
+bonvolu vekigi mi je la sesa antaŭtagmeze.
+donu la ŝlosilon, mi petas.
+sur kioma etaĝo estas mia ĉambro?
+iru per lifto.
+iru supren per ŝtuparo.  malsupren
+mankas varma akvo.
+ĉu vi bonvolus doni iom da glacio?  alian kovrilon  iom da trinkakvo  glason  ventumilon  hejtilon  gladilon  kusenon  iom da ŝampuo  iom da sapo  necesej-paperon  tukon
+ĉu ni ankoraŭ povas mendi matenmanĝon?
+ĉu oni povas lavi tiujn ĉi vestaĵojn?
+bonvolu sendi tiujn ĉi vestaĵojn por sek-lavado.
+la fakturon, mi petas.
+mi volas paroli kun la hotelestro.
+bonvolu alvoki taksion.
+persona  komforto
+kio estas la problemo?
+ĉu ĉio estas en ordo?
+mi estas malvarma.  varma  soifa  malsata  laca  kolera  bona  feliĉa  malfeliĉa
+bonvolu lasi min.
+mono
+kie estas la banko?
+kie troviĝas bankmaŝino?
+mi devas elmurigi monon.
+kie mi povas ŝanĝi monon?
+kiom estas la kurzo?
+bonvolu ŝanĝi por eŭroj.  forintoj  frankoj  pesoj  pundoj  rubloj  enoj  zlotoj  moneroj
+ĉu vi akceptas kredit-kartojn?  vojaĝ-ĉekojn
+manĝaĵoj  kaj trinkaĵoj
+kie estas la superbazaro? vendejo  viandejo  bakistejo
+kie mi povas aĉeti fruktojn? pomojn  bananojn  ĉerizojn  figojn  vinberojn  grapfruktojn  citronojn  limonojn  mangojn  oranĝojn  papajojn  persikojn  pirojn  ananasojn  prunojn  sekvinberojn  fragojn  akvomelonojn
+mi preferas legomojn.  fazeolojn  brokolon  brasikon  karotojn  florbrasikon  kukumojn  melongenon  ajlon  paprikojn  laktukon  fungojn  olivojn  cepojn  pizojn  terpomojn  tomatojn
+mi volas aĉeti bovaĵon.  lardon  kokinaĵon  ŝinkon  ŝafidaĵon  ŝafaĵon  porkaĵon  kolbasojn  bovidaĵon  cervaĵon
+mi ŝatas marmanĝaĵojn.  pektenojn  krabaĵon  omaron  ojstrojn  salikokojn
+mi bezonas panon.  buteron  kukon  dolĉaĵojn  fromaĝon  ĉokolaton  keksojn  or biskvitojn  kremon  lakton  nudlojn  nuksojn  pastaĵon  ternuksojn  or  arakidojn  rizojn  sandviĉon  johurton
+kie mi povas aĉeti sodakvon?  botelon da akvo
+mi preferas akvon sen gaso.
+mi volas ovojn.
+teon,  mi petas  kafon
+kun sukero
+kun lakto
+kun lakto-polvoro
+kun citrono
+kun mielo
+kun kremo
+negran
+ĉu vi deziras iom da limonado?  frukto-suko  oranĝsuko  pomsuko  sodo
+bieron,  mi petas  blankan vinon  ruĝan vinon  ĉampanon  irlandan kremlikvoron  vodkon  viskion
+kun glacio
+sen glacio
+kun citron-ŝelero
+kun kolao
+ĉe  restoracio
+ĉu vi povus rekomendi malaltkostan restoracion?
+bonvolu alporti alian bovlon da rizoj.
+ĉu mi povas vidi menuon?
+ĉu ili havas vegetaranajn manĝaĵojn?
+bonan apetiton!
+mi bezonas tranĉilon.  forkon  kuleron  manĝbastonetojn  teleron  mantukon  tason  bovlon  glason da akvo  vinglason  salon  paprikaĵon  mustardon  vinagron
+mi volas mendi iom da supo.
+la fakturon, mi petas.
+mi pripagos.
+mi lasos trinkmonon.
+butikumado
+ĉu mi povas helpi vin?
+kie mi povas aĉeti memoraĵojn?  foto-filmon  vidbendon  gazetojn  ĵurnalon en la angla  libron  papervarojn
+mi iras al florejo.  librovendejo  apoteko  magazeno
+kiom ĝi kostas?
+mi aĉetis jakon.  pantalonon  ĉemizon  puloveron  jupon  robon  mantelon  pluvjakon  bankostumo  paron da ŝuoj
+distre
+ĉu vi ŝatus vidi la urbon?
+mi ĉiĉeronos vin.
+mi ŝoferos vin tien.
+mi volas iri al la montoj. plaĝo  naĝejo  kamparo  kavoj
+ĉu vi fotus nin?
+du biletojn al la baledo, mi petas.  koncerto  opero
+ne plu aĉeteblas biletojn.
+mi ŝatas la teatron. la kinon  filmojn  la cirkon  spekti televidon  iri al muzeoj
+je kioma horo komenciĝas la teatraĵo?  rondvojaĝo
+kiu filmo spekteblas ĉi-nokte?
+kie estas la biletejo?
+ĉu troviĝas drinkejo proksime?  diskoteko
+kie mi enregistriĝas?
+mi estas memzorganto.
+mi estas ano de uea.
+kiom estas la kotizo?
+kiom mi ŝuldas?
+kie estas la mesaĝtabulo?
+kiam komenciĝos tiu programero?
+je kioma horo malfermiĝos la manĝejo?  fermiĝos
+ne krokodilu!
+poŝtoficejo
+kie estas la  poŝtoficejo?
+kiom kostas sendi  leteron al usono?
+ĉu mi povas kolekti  elektronikan montranssendon ĉi tie?
+mi volas aĉeti poŝtmarkojn.  poŝtkartojn  koverton
+mi volas sendi tiun ĉi  per registropoŝto. per aerpoŝto per eksprespoŝto transnokte
+mi volas transsendi  monon.
+kiam alvenos la poŝto?
+kie estas poŝtkesto?
+ĝi enhavas elpresaĵojn.  delikataĵojn.
+ĉe oficejo
+kie mi povas fotokopii?
+ĉu mi povas uzi la komputilon? faksmaŝinon  or telekopiilon poŝtelefonon
+kiom estas la porpaĝa  kosto?
+ĉu mi povas sendi fakson?
+la telefono
+ĉu mi povas uzi la  telefonon?
+kie estas telefonlibro?
+kiel mi povas telefoni  al vaŝingtono?
+mi volas fari  rembursan vokon. internacian  longdistancan
+kio estas la regionkodo  por havano?
+la linio estas okupata.
+ha lo?
+kiu parolas?
+estas sven.
+ĉu mi povas paroli kun  maria?
+ĉu vi bonvolus doni  mesaĝon?
+transporto
+bonan vojaĝon!
+kie mi povas lui aŭton? biciklon  motorciklon
+kie mi povas surpramiĝi?  surŝipiĝi
+kie estas la metrohaltejo?  stacidomo  trajnhaltejo  aŭtobushaltejo
+mi bezonas portiston.  ĉaron
+horaron, mi petas.
+kiom kostas bileto unudirekta?  tien-reen
+kiom kostas unuaklasan  bileton?  duaklasan  dorman
+bonvolu informi min kiam  ni atingas tokion.
+ĉu estas manĝvagono?  dormvagono
+kiam la trajno ekos el  istanbulo?
+kiam la trajno alvenos  en barcelono?
+ĉu ĝi estas akurata?
+ĉu tiu ĉi trajno iras al  alahabado?
+kiom longe ni haltos ĉi  tie?
+ĉe flughaveno
+kie estas la pordo por enlandaj  flugoj?  internaciaj
+kiom longe prokrastiĝos  la flugo al najrobio?
+mi volas sidi en la  sekcio por fumantoj.  nefumantoj
+bonvolu alvoki la  serviston.
+ĉe dogano
+jen mia valizo. mansako  portoteko
+mi havas nenion por  deklari.
+bonvolu malfermi  vian sakon. fermi
+mi havas parfumon.  cigaredojn donacojn personajn posedaĵojn
+en aŭto
+kiom da kilometroj ĝis  oslo?
+bonvolu direkti min al ŝoseo.  benzinejo  la urbocentro
+tiu ĉi ne funkcias.
+bonvolu ripari la  pneŭon.
+kie estas la  malsanulejo?
+alvoku krizaŭton.  doktoron  la policon  la fajrobrigadon
+fajro!
+helpu!
+estas krizo!
+estas danĝere!
+mi estas malsana.
+mi bezonas tradukiston.
+mi perdis mian familion.  infanon  pasporton
+iu ŝtelis mian  monbilujon.
+mi estas alergia al  penicilino.
+mi estas diabeta.
+dolorigas min mia brako.  dorso  piedo  mano  kapo  gambo  kolo  stomako
+dolorigas min miaj genuoj.  maleoloj  okuloj
+dankon pro via helpo.
 el eseoj de studentoj
 liaj pensoj kunfalis en la kapo, farante kaj rompante aliancojn kiel kalsono en lavmaŝino
 la malgranda boato malrapide drivis trans la lageto, samkiel keglopilko ne drivus.
