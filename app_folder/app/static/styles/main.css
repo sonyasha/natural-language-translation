@@ -36,7 +36,7 @@ footer {
 
 .wrapper {
     display: grid;
-    grid-template-rows: 200px calc(100vh - 220px - 6px) 20px;
+    grid-template-rows: 150px calc(100vh - 170px - 6px) 20px;
     height: calc(100vh - 6px);
     grid-template-areas: 
         "header"
@@ -56,18 +56,43 @@ footer {
     grid-area: foutput;
 }
 
+#graph {
+    grid-area: graph;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.toolTip {
+    position: absolute;
+    display: none;
+    width: auto;
+    height: auto;
+    padding: 2px;
+    background: none repeat scroll 0 0 white;
+    border-radius: 3px;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+
 .fields {
     display: grid;
     grid-template-columns: 2fr 0.7fr 2fr;
     grid-template-areas:
-        'finput fbutton foutput';
+        'finput fbutton foutput'
+        'graph graph graph';
 }
 
-.fbutton, .foutput, #translate-form {
+.fbutton, .foutput, #translate-form, #graph {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.fbutton, .foutput, .finput {
+    padding-bottom: 20px;
 }
 
 .baton {
@@ -129,6 +154,10 @@ input:focus {
             "finput"
             "fbutton"
             'foutput';
+    }
+
+    #graph {
+        display: none;
     }
 
     .fbutton, .foutput, .finput {
