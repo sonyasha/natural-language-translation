@@ -1,0 +1,75 @@
+*{  box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Hanalei Fill', cursive;
+    font-family: 'Lato', sans-serif;
+    font-size: 15pt;
+    color: rgb(27, 50, 54);
+    background-color: rgb(216, 250, 250);
+}
+
+header {
+    grid-area: header;
+
+    background: url('../styles/img/thank.jpg') center no-repeat;
+    background-size: cover;
+}
+
+main {
+    grid-area: main;
+    padding: 20px;
+    
+}
+
+footer {
+    grid-area: footer;
+    
+}
+
+.foot {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(54, 109, 110);
+    color: aliceblue;
+    font-family: 'Hanalei Fill';
+}
+
+.wrapper {
+    display: grid;
+    grid-template-rows: 200px calc(100vh - 220px - 10px) 20px;
+    height: calc(100vh - 10px);
+    grid-template-areas: 
+        "header"
+        "main"
+        'footer';
+}
+
+.finput {
+    grid-area: finput;
+    /* display: flex;
+    justify-content: space-around; */
+}
+
+.fbutton {
+    grid-area: fbutton;
+}
+
+.foutput {
+    grid-area: foutput;
+}
+
+.fields {
+    display: grid;
+    grid-template-columns: 2fr 0.7fr 2fr;
+    grid-template-areas:
+        'finput fbutton foutput'
+}
+
+.fbutton, .foutput, #translate-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
