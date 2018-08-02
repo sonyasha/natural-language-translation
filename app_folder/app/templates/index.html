@@ -10,7 +10,7 @@
         <!-- <link rel="stylesheet" type="text/css" media="screen" href='../static/styles/main.css'> -->
         <link rel="stylesheet" type="text/css" media="screen" href="{{ url_for('static', filename='styles/main.css') }}"/>
         <link rel="shortcut icon" href="{{ url_for('static', filename='styles/img/favicon.ico') }}">
-            
+              
     </head>
 
     <body>
@@ -30,8 +30,8 @@
                         </form>
                     </div>
                     <div class="field fbutton">
-                        <div>{{lang.english.button}}</div>
-                        <button id="submitForm" type="button" class="btn btn-secondary">{{lang.english.button}}</button>
+                        
+                        <button id="submitForm" type="button" class="baton">{{lang.english.button}}</button>
                     </div>
                     <div class="field foutput">   
                         
@@ -54,5 +54,8 @@
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
         
         <script src="{{ url_for('static', filename='js/logic.js') }}"></script>
+        <script type="text/javascript">
+            myVar = myFunc({{lang|tojson}})
+        </script>
     </body>
 </html>

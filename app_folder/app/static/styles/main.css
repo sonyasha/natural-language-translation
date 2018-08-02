@@ -46,8 +46,6 @@ footer {
 
 .finput {
     grid-area: finput;
-    /* display: flex;
-    justify-content: space-around; */
 }
 
 .fbutton {
@@ -62,7 +60,7 @@ footer {
     display: grid;
     grid-template-columns: 2fr 0.7fr 2fr;
     grid-template-areas:
-        'finput fbutton foutput'
+        'finput fbutton foutput';
 }
 
 .fbutton, .foutput, #translate-form {
@@ -72,4 +70,37 @@ footer {
     align-items: center;
 }
 
+.baton {
+    display: inline-block;
+    padding: 3px 3px;
+    margin: 0 3px 3px 0;
+    border-radius: 7px;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family: 'Hanalei Fill', sans-serif;
+    font-weight:100;
+    color:#FFFFFF;
+    background-color:#27cc50;
+    text-align:center;
+    transition: all 0.2s;
+}
 
+.baton:hover{
+    background-color:#1279b4;
+}
+
+@media all and (max-width: 880px) {
+
+    .fields {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+            "finput"
+            "fbutton"
+            'foutput';
+    }
+
+    .fbutton, .foutput, .finput {
+        padding-bottom: 15px;
+    }
+}

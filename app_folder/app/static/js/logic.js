@@ -10,3 +10,7 @@ $("#submitForm").click(function(event) {
 });
 
 // $(outputlang).val($(outputlang).val() + 'hello')
+
+function myFunc(vars) {
+    return vars
+}
