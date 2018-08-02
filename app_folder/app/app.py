@@ -35,8 +35,6 @@ def load_model():
     graph = K.get_session().graph
 
 
-
-
 @app.route('/')
 def index():
 
@@ -47,8 +45,7 @@ def form():
 
     if request.method == "POST":
 
-        if request.form['input-text'] != '':
-            print(request.form['input-text'])
+        if request.form.get('input-text'):
 
             input_text = request.form["input-text"]
             print(input_text)
@@ -57,25 +54,27 @@ def form():
             with graph.as_default():
 
                 output_text = get_prediction(model, input_text)
-                print(output_text)
 
-                languages = {
-                    'english': {
-                    'input': input_text,
-                    'output': output_text,
-                    'button': 'Eng - Spa'
-                    },
-                    'another': {
-                    'input': 'Olala',
-                    'output': 'Heyheyhey',
-                    'button': 'Eng - Ola'
+                if output_text:
+
+                    languages = {
+                        'english': {
+                        'input': input_text,
+                        'output': output_text,
+                        'button': 'Eng - Spa'
+                        },
+                        'another': {
+                        'input': 'Olala',
+                        'output': 'Heyheyhey',
+                        'button': 'Eng - Ola'
+                        }
                     }
-                }
+                    
+                    return render_template("index.html", lang = languages)
 
-        # fillings = {'input': input_text, 'output': output_text}
-        
-        return render_template("index.html", lang = languages)    
     return redirect('/', code=302)
+
+
 
 if __name__ == "__main__":
     load_model()
