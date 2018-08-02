@@ -6,9 +6,9 @@ from functions import get_prediction
 
 languages = {
     'english': {
-        'input': 'Enter Text',
-        'output': 'Translation',
-        'button': 'Eng - Spa'
+        'input': '',
+        'output': '',
+        'button': 'to Spanish'
     },
     'another': {
         'input': 'Olala',
@@ -61,7 +61,7 @@ def form():
                         'english': {
                         'input': input_text,
                         'output': output_text,
-                        'button': 'Eng - Spa'
+                        'button': 'to Spanish'
                         },
                         'another': {
                         'input': 'Olala',
