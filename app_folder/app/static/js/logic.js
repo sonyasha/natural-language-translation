@@ -11,9 +11,6 @@ $(window).resize(createChart);
 
 createChart();
 
-var inputdata = $('#inputlang').val();
-var outputdata = $('#outputlang').val();
-
 
 function createChart() {
     if ($('#inputlang').val() != '') {
@@ -27,10 +24,10 @@ function createChart() {
 
         selection.append('option')
             .attr('value', 'engl')
-            .text('left')
+            .text('input')
         selection.append('option')
             .attr('value', 'other')
-            .text('right')
+            .text('output')
 
         var inputdata = $('#inputlang').val();
         var outputdata = $('#outputlang').val();
@@ -46,24 +43,26 @@ function createChart() {
 }
 
 function changeData(value) {
-    switch (value) {
-    case "engl":
-      data = getLetters(inputdata);
-      break;
-    case "other":
-      data = getLetters(outputdata);
-      break;
-    
-    // default:
-    //   data = getLetters(inputdata);
+    if ($('#inputlang').val() != '') {
+
+        var inputdata = $('#inputlang').val();
+        var outputdata = $('#outputlang').val();
+        switch (value) {
+        case "engl":
+        data = getLetters(inputdata);
+        break;
+        case "other":
+        data = getLetters(outputdata);
+        break;
+        }
+        renderChart(data);
     }
-    renderChart(data);
 }
 
 function renderChart(data) {
-
-    (!$('svg').is(':empty')) ? $('svg').empty() : $('svg').empty()
-
+    
+    $('svg').remove()
+    
     var svgWidth = window.innerWidth/2.5;
     var svgHeight = window.innerHeight/3;
 
