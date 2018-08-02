@@ -36,8 +36,8 @@ footer {
 
 .wrapper {
     display: grid;
-    grid-template-rows: 200px calc(100vh - 220px - 10px) 20px;
-    height: calc(100vh - 10px);
+    grid-template-rows: 200px calc(100vh - 220px - 6px) 20px;
+    height: calc(100vh - 6px);
     grid-template-areas: 
         "header"
         "main"
@@ -71,25 +71,56 @@ footer {
 }
 
 .baton {
-    display: inline-block;
-    padding: 3px 3px;
-    margin: 0 3px 3px 0;
-    border-radius: 7px;
-    box-sizing: border-box;
-    text-decoration:none;
+    height: 110px;
+    width: 110px;
+    padding: 5px;
+    border-radius: 100%;
+    border: solid 5px #FFFFFF;
+    box-shadow: 0px 0px 3px rgb(92, 105, 112);
     font-family: 'Hanalei Fill', sans-serif;
-    font-weight:100;
     color:#FFFFFF;
     background-color:#27cc50;
     text-align:center;
-    transition: all 0.2s;
 }
+
+
 
 .baton:hover{
     background-color:#1279b4;
+    border: solid 5px rgb(86, 250, 94);
+    cursor: pointer;
+}
+
+button:focus {
+    outline: none;
+}
+
+input:focus {
+    outline: none;
+    box-shadow: 0px 0px 3px rgb(146, 160, 167);
+}
+
+.form-field {
+    width: 95%;
+    height: 65px;
+    background-color: #FFFFFF;
+    border: solid 1px #a2b4b4;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 45px;
+    box-shadow: 1px;
+}
+
+.form-label {
+    margin-bottom: 30px;
 }
 
 @media all and (max-width: 880px) {
+
+    .wrapper {
+        grid-template-rows: 130px calc(100vh - 150px - 6px) 20px;
+        height: calc(100vh - 6px); 
+    }
 
     .fields {
         display: grid;
@@ -102,5 +133,16 @@ footer {
 
     .fbutton, .foutput, .finput {
         padding-bottom: 15px;
+    }
+
+    .baton {
+        height: 65px;
+        width: 130px;
+        border-radius: 45%;
+    }
+
+    .form-field {
+        height: 60px;
+        font-size: 40px;
     }
 }

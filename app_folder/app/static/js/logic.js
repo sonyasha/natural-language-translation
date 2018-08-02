@@ -14,3 +14,6 @@ $("#submitForm").click(function(event) {
 function myFunc(vars) {
     return vars
 }
+
+// myVar = myFunc({{lang|tojson}})
+// console.log(myVar)
