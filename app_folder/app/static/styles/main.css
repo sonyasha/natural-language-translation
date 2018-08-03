@@ -175,3 +175,30 @@ input:focus {
         font-size: 40px;
     }
 }
+
+#plot-select {
+    outline: none;
+}
+
+#plot-select {
+    /* width: 95%; */
+    /* height: 65px; */
+    background-color: #FFFFFF;
+    border: solid 1px #a2b4b4;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 15px;
+    box-shadow: 1px;
+}
+
+/* select {
+    
+    -moz-appearance: none;
+    
+    -webkit-appearance: none;
+  }
+  
+  
+  select::-ms-expand {
+    display: none;
+  } */

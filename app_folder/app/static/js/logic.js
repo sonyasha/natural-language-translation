@@ -57,6 +57,7 @@ function changeData(value) {
         }
         renderChart(data);
     }
+    
 }
 
 function renderChart(data) {
@@ -151,4 +152,18 @@ function getLetters(inputs) {
     return dict    
 }
 
+$('#inputlang').each(function(){
+    var el = $(this);
+      var textLength = el.val().length;
+       if (textLength > 20) {
+           el.css('font-size', '0.99em');
+       }
+});
 
+$('#outputlang').each(function(){
+    var el = $(this);
+      var textLength = el.val().length;
+       if (textLength > 20) {
+           el.css('font-size', '0.99em');
+       }
+});
