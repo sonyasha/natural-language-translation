@@ -1,5 +1,5 @@
 
-def get_prediction(model, input_text):
+def get_prediction(model, folder, input_text):
 
 
     from sklearn.externals import joblib
@@ -8,10 +8,11 @@ def get_prediction(model, input_text):
     import os
 
     file_path = os.path.abspath(os.getcwd()) + "/models"
+    # folder = '/fra'
 
-    eng_tokenizer = joblib.load(file_path + '/eng_tokenizer.pkl')
-    eng_length = joblib.load(file_path + '/eng_length.pkl')
-    targ_tokenizer = joblib.load(file_path + '/targ_tokenizer.pkl')
+    eng_tokenizer = joblib.load(file_path + folder + '/eng_tokenizer.pkl')
+    eng_length = joblib.load(file_path + folder + '/eng_length.pkl')
+    targ_tokenizer = joblib.load(file_path + folder + '/targ_tokenizer.pkl')
 
 
     def encode_input(input_text, tokenizer=eng_tokenizer, leng=eng_length):
