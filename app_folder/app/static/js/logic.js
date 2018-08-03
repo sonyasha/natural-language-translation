@@ -1,12 +1,14 @@
 $( document ).ready(function() {
-    console.log( "i'm ready!" );
+    console.log( "how's going?" );
 });
 
+// submit Form
 $("#submitForm").click(function(event) {
         event.preventDefault();
         $("#translate-form").submit();		
 });
 
+// responsive behaviour
 $(window).resize(createChart);
 
 createChart();
@@ -15,9 +17,11 @@ createChart();
 function createChart() {
     if ($('#inputlang').val() != '') {
 
-        (!$('#graph').is(':empty')) ? $('#graph').empty() : $('#graph').empty()
+        // (!$('#graph').is(':empty')) ? $('#graph').empty() : $('#graph').empty()
+        $('#graph').empty()
+        $('#arrow').empty()
 
-        var selection = d3.select('#graph')
+        var selection = d3.select('#arrow')
             .append('select')
             .attr('id', 'plot-select')
             .attr('onchange', 'changeData(this.value)')
@@ -29,35 +33,26 @@ function createChart() {
             .attr('value', 'other')
             .text('output')
 
-        var inputdata = $('#inputlang').val();
-        var outputdata = $('#outputlang').val();
-
-        var plotdata = getLetters(inputdata);
-
-        plotdata.forEach(el => {
-            el.value = +el.value;     
-        });
-
-        renderChart(plotdata); 
+        // default chart
+        renderChart(getLetters($('#inputlang').val())); 
     }      
 }
+
+// change chart based on text source
 
 function changeData(value) {
     if ($('#inputlang').val() != '') {
 
-        var inputdata = $('#inputlang').val();
-        var outputdata = $('#outputlang').val();
         switch (value) {
         case "engl":
-        data = getLetters(inputdata);
+        data = getLetters($('#inputlang').val());
         break;
         case "other":
-        data = getLetters(outputdata);
+        data = getLetters($('#outputlang').val());
         break;
         }
         renderChart(data);
-    }
-    
+    }   
 }
 
 function renderChart(data) {
@@ -121,7 +116,7 @@ function renderChart(data) {
     var tooltip = d3.select("#graph").append("div").attr("class", "toolTip");
 
     d3.selectAll("path").on("mouseover", function(d) {
-	    tooltip.style("left", d3.event.pageX+10+"px");
+	    tooltip.style("left", d3.event.pageX+15+"px");
         tooltip.style("top", d3.event.pageY-25+"px");
         tooltip.style("display", "inline-block");
 

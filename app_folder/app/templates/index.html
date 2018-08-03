@@ -16,32 +16,33 @@
             <header>
                 
             </header>
-            <main>
                 
-                <div class="fields">
-                    <div class="finput">
-                        <form id="translate-form" action="/form" method="POST" role="form">
-                            
-                            <label class="form-label">Enter text in English</label>
-                            <input class="form-field" id="inputlang" name="input-text" value='{{lang.english.input}}' placeholder="Enter text">
-                            
-                        </form>
-                    </div>
-                    <div class="fbutton">
+            <div class="fields">
+                <div class="finput">
+                    <form id="translate-form" action="/form" method="POST" role="form">
                         
-                        <button id="submitForm" type="button" class="baton">{{lang.english.button}}</button>
-                    </div>
-                    <div class="foutput">   
+                        <label class="form-label">Enter text in English</label>
+                        <input class="form-field" id="inputlang" name="input-text" value='{{lang.english.input}}' placeholder="Enter text">
                         
-                        <label class="form-label">Translation</label>
-                        <input class="form-field" id="outputlang" value='{{lang.english.output}}'>
-                        
-                    </div>
-                    <div id="graph">
-                        
-                    </div>
+                    </form>
                 </div>
-            </main>
+                <div class="fbutton">
+                    
+                    <button id="submitForm" type="button" class="baton">{{lang.english.button}}</button>
+                </div>
+                <div class="foutput">   
+                    
+                    <label class="form-label">Translation</label>
+                    <input class="form-field" id="outputlang" value='{{lang.english.output}}'>
+                    
+                </div>
+                <div id="graph">
+                    
+                </div>
+                <div id="arrow">
+
+                </div>
+            </div>
             <footer>
                 <div class="foot">
                     &copy; The Best Team

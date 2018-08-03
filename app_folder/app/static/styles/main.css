@@ -10,12 +10,11 @@
 
 header {
     grid-area: header;
-
     background: url('../styles/img/thank.jpg') center no-repeat;
     background-size: cover;
 }
 
-main {
+.fields {
     grid-area: main;
     padding: 20px;
     
@@ -46,21 +45,27 @@ footer {
 
 .finput {
     grid-area: finput;
+    align-self: start;
 }
 
 .fbutton {
     grid-area: fbutton;
+    align-self: start;
 }
 
 .foutput {
     grid-area: foutput;
+    align-self: start;
 }
 
 #graph {
     grid-area: graph;
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
+    align-self: end;
+}
+
+#arrow {
+    grid-area: arrow;
+    align-self: end;
 }
 
 .toolTip {
@@ -79,20 +84,18 @@ footer {
 .fields {
     display: grid;
     grid-template-columns: 2fr 0.7fr 2fr;
+    align-items: stretch;
     grid-template-areas:
         'finput fbutton foutput'
-        'graph graph graph';
+        'graph graph graph'
+        '. arrow .';
 }
 
-.fbutton, .foutput, #translate-form, #graph {
+.fbutton, .foutput, #translate-form, #graph, #arrow {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-.fbutton, .foutput, .finput {
-    padding-bottom: 20px;
 }
 
 .baton {
@@ -107,8 +110,6 @@ footer {
     background-color:#27cc50;
     text-align:center;
 }
-
-
 
 .baton:hover{
     background-color:#1279b4;
@@ -156,7 +157,7 @@ input:focus {
             'foutput';
     }
 
-    #graph {
+    #graph, #arrow {
         display: none;
     }
 
@@ -181,8 +182,6 @@ input:focus {
 }
 
 #plot-select {
-    /* width: 95%; */
-    /* height: 65px; */
     background-color: #FFFFFF;
     border: solid 1px #a2b4b4;
     border-radius: 5px;
@@ -190,15 +189,3 @@ input:focus {
     font-size: 15px;
     box-shadow: 1px;
 }
-
-/* select {
-    
-    -moz-appearance: none;
-    
-    -webkit-appearance: none;
-  }
-  
-  
-  select::-ms-expand {
-    display: none;
-  } */
