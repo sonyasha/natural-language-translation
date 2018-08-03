@@ -12,6 +12,34 @@ header {
     grid-area: header;
     background: url('../styles/img/thank.jpg') center no-repeat;
     background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.change {
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+    border: solid 2px rgb(34, 107, 43);
+    background-color: rgb(30, 150, 21);
+    box-shadow: 0px 0px 5px rgb(41, 66, 41);
+}
+
+.change span {
+    background-color: rgb(30, 150, 21);
+    color: #FFFFFF;
+    font-family: 'Hanalei Fill';
+    font-size: 25px;
+}
+
+.spa:hover, .fra:hover {
+    color: rgb(71, 240, 240);
+    cursor: pointer;
+}
+
+.spa:active, .fra:active {
+    color: rgb(71, 240, 240);
 }
 
 .fields {
@@ -21,15 +49,14 @@ header {
 }
 
 footer {
-    grid-area: footer;
-    
+    grid-area: footer;  
 }
 
 .foot {
     display: flex;
     justify-content: center;
-    background-color: rgb(54, 109, 110);
-    color: aliceblue;
+    background-color: rgb(54, 110, 96);
+    color: rgb(246, 250, 253);
     font-family: 'Hanalei Fill';
 }
 
@@ -139,6 +166,8 @@ input:focus {
 
 .form-label {
     margin-bottom: 30px;
+    font-family: 'Hanalei Fill', sans-serif;
+    font-size: 25px; 
 }
 
 @media all and (max-width: 880px) {
