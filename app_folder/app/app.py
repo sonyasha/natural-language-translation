@@ -18,21 +18,28 @@ languages = {
 }
 
 file_path = os.path.abspath(os.getcwd()) + "/models"
-print(file_path)
+# print(file_path)
 
 UPLOAD_FOLDER = 'models/'
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
-model = None
-graph = None
+model_spa = None
+model_fra = None
+graph = K.get_session().graph
 
-def load_model():
-    global model
-    global graph
-    model = keras.models.load_model(os.path.join(file_path or app.config['UPLOAD_FOLDER'], "model_01081_32.h5"))
-    graph = K.get_session().graph
+def load_model_spa():
+    global model_spa
+    # global graph
+    model_spa = keras.models.load_model(os.path.join(file_path or app.config['UPLOAD_FOLDER'], "spa/model_01081_32.h5"))
+    # graph = K.get_session().graph
+
+def load_model_fra():
+    global model_fra
+    # global graph
+    model_fra = keras.models.load_model(os.path.join(file_path or app.config['UPLOAD_FOLDER'], "fra/fra_32.h5"))
+    # graph = K.get_session().graph
 
 
 @app.route('/')
@@ -53,7 +60,7 @@ def form():
             global graph
             with graph.as_default():
 
-                output_text = get_prediction(model, input_text)
+                output_text = get_prediction(model_fra, input_text)
 
                 if output_text:
 
@@ -77,5 +84,6 @@ def form():
 
 
 if __name__ == "__main__":
-    load_model()
+    load_model_spa()
+    load_model_fra()
     app.run(debug=True)
