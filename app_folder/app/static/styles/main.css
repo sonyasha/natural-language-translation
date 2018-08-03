@@ -18,7 +18,7 @@ header {
 }
 
 .change {
-    padding: 10px;
+    padding: 5px 10px;
     margin: 20px;
     border-radius: 5px;
     border: solid 2px rgb(34, 107, 43);
@@ -26,7 +26,7 @@ header {
     box-shadow: 0px 0px 5px rgb(41, 66, 41);
 }
 
-.change span {
+span {
     background-color: rgb(30, 150, 21);
     color: #FFFFFF;
     font-family: 'Hanalei Fill';
@@ -34,12 +34,17 @@ header {
 }
 
 .spa:hover, .fra:hover {
-    color: rgb(71, 240, 240);
+    color: #34e8f5;
     cursor: pointer;
 }
 
-.spa:active, .fra:active {
-    color: rgb(71, 240, 240);
+.active {
+    color: #34e8f5;
+    font-size: 30px;
+}
+
+.passive {
+    color: #FFFFFF;
 }
 
 .fields {
@@ -73,6 +78,10 @@ footer {
 .finput {
     grid-area: finput;
     align-self: start;
+}
+
+#invis {
+    display: none;
 }
 
 .fbutton {
@@ -203,6 +212,14 @@ input:focus {
     .form-field {
         height: 60px;
         font-size: 40px;
+    }
+
+    header {
+        justify-content: center;
+    }
+
+    span {
+        font-size: 23px;
     }
 }
 

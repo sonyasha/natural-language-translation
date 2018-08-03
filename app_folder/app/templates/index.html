@@ -27,25 +27,24 @@
                     <form id="translate-form" action="/form" method="POST" role="form">
                         
                         <label class="form-label">Enter text in English</label>
-                        <input class="form-field" id="inputlang" name="input-text" value='{{lang.english.input}}' placeholder="Enter text">
-                        
+                        <input class="form-field" id="inputlang" name="input-text" value='{{lang.input}}' placeholder="Enter text">
+                        <input id="invis" name="lang" value="">
+
                     </form>
                 </div>
                 <div class="fbutton">
                     
-                    <button id="submitForm" type="button" class="baton">{{lang.english.button}}</button>
+                    <button id="submitForm" type="button" class="baton"></button>
                 </div>
                 <div class="foutput">   
                     
-                    <label class="form-label">Translation</label>
-                    <input class="form-field" id="outputlang" value='{{lang.english.output}}'>
+                    <label class="form-label">Translation {{lang.trans}}</label>
+                    <input class="form-field" id="outputlang" value='{{lang.output}}'>
                     
                 </div>
-                <div id="graph">
-                    
+                <div id="graph">    
                 </div>
                 <div id="arrow">
-
                 </div>
             </div>
             <footer>

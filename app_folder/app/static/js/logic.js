@@ -147,6 +147,8 @@ function getLetters(inputs) {
     return dict    
 }
 
+
+// resize font size if more than 20 letters
 $('#inputlang').each(function(){
     var el = $(this);
       var textLength = el.val().length;
@@ -162,3 +164,29 @@ $('#outputlang').each(function(){
            el.css('font-size', '0.99em');
        }
 });
+
+
+// add classes to language choice
+$('.spa').addClass('active');
+$('.fra').addClass('passive');
+$('#invis').attr('value', 'spa');
+$('#submitForm').text('To Spanish')
+
+$('.spa').click(function(){
+    $('#invis').attr('value', 'spa');
+    $('#submitForm').text('To Spanish')
+    $('.spa').addClass('active');
+    $('.fra').removeClass('active');
+    $('.fra').addClass('passive');
+    $('.spa').removeClass('passive');
+})
+
+$('.fra').click(function(){
+    $('#invis').attr('value', 'fra');
+    $('#submitForm').text('To French')
+    $('.fra').addClass('active');
+    $('.spa').removeClass('active');
+    $('.spa').addClass('passive');
+    $('.fra').removeClass('passive');
+})
+
