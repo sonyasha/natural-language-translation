@@ -34,6 +34,7 @@ def load_model_fra():
 def index():
 
     return render_template("index.html", lang = language)
+    
 
 @app.route('/form', methods=["GET","POST"])
 def form():
@@ -52,7 +53,7 @@ def form():
 
                 if lang == 'spa':
 
-                    folder = '/spa'
+                    folder = '/' + lang
                     output_text = get_prediction(model_spa, folder, input_text)
 
                     if output_text:
@@ -67,7 +68,7 @@ def form():
 
                 if lang == 'fra':
 
-                    folder = '/fra'
+                    folder = '/' + lang
                     output_text = get_prediction(model_fra, folder, input_text)
 
                     if output_text:
