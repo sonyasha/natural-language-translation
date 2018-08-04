@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-    console.log( "how's going?" );
+    console.log( "Hey! Welcome to our website, hope you will enjoy it!" );
 });
 
 // submit Form
@@ -58,7 +58,7 @@ function changeData(value) {
 function renderChart(data) {
     
     $('svg').remove()
-    
+
     var svgWidth = window.innerWidth/2.5;
     var svgHeight = window.innerHeight/3;
 
@@ -83,8 +83,12 @@ function renderChart(data) {
         .attr("width", svgWidth)
         .attr("height", svgHeight)
         .append("g")
-        .attr("transform", 'translate(' + svgWidth / 2 + "," + svgHeight / 2 + ')')
-        .attr('class', 'chartG');
+        .attr("transform", 'translate(' + svgWidth / 2 + "," + svgHeight / 2 + ')');
+
+    svg.append("text")
+        .attr("text-anchor", "middle")
+        .attr("class", "donut-text")
+        .text(data.length);
 
     var g = svg.selectAll("arc")
         .data(pie)

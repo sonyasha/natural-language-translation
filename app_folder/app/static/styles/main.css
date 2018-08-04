@@ -4,7 +4,7 @@
     font-family: 'Hanalei Fill', cursive;
     font-family: 'Lato', sans-serif;
     font-size: 15pt;
-    color: rgb(27, 50, 54);
+    color: rgb(28, 54, 27);
     background-color: rgb(216, 250, 250);
 }
 
@@ -177,6 +177,11 @@ input:focus {
     margin-bottom: 30px;
     font-family: 'Hanalei Fill', sans-serif;
     font-size: 25px; 
+}
+
+.donut-text {
+    font-size: 30px;
+    font-weight: 900;
 }
 
 @media all and (max-width: 880px) {
