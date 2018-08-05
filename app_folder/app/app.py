@@ -3,6 +3,7 @@ import keras
 from keras import backend as K
 import os
 from functions import get_prediction
+# from functions import print_text
 
 language = {
     'input': '',
@@ -33,6 +34,10 @@ def load_model_fra():
 @app.route('/')
 def index():
 
+    # gtext = print_text().decode("utf-8")
+    # print(gtext)
+
+    # return render_template("index.html", lang = language, text = gtext)
     return render_template("index.html", lang = language)
     
 

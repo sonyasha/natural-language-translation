@@ -87,6 +87,7 @@ function renderChart(data) {
 
     svg.append("text")
         .attr("text-anchor", "middle")
+        .attr('y', 7)
         .attr("class", "donut-text")
         .text(data.length);
 
