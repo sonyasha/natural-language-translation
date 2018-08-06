@@ -42,13 +42,6 @@ def form():
 
     if request.method == "POST":
         
-        # haikus = request.form.get('haik-text')
-        # print(haikus)
-        # language = {
-        #     'input': '',
-        #     'output': '',
-        #     'trans': ''  
-        # }
         if request.form.get('input-text'):
 
             input_text = request.form["input-text"]
@@ -90,28 +83,31 @@ def form():
 
                         return render_template("index.html", lang = language, text = haikus)
     
-    # return render_template("index.html", lang = language, text = haikus)
     return redirect('/', code=302)
-    # return redirect(url_for('.index', text = texts))
 
 
 @app.route('/haiku', methods=["GET","POST"])
 def haiku():
+
     if request.method == "POST":
         
         haikus = print_text().decode("utf-8")
         input_text = request.form["eng"]
         output_text = request.form.get('other')
-        # trans = request.form.get('langg')
+        trans = request.form['langg']
 
+        if trans == 'spa':
+            trans = 'to Spanish'
+
+        if trans == 'fra':
+            trans = 'to French'
 
         language = {
             'input': input_text,
             'output': output_text,
-            # 'trans': trans 
+            'trans': trans 
         }
         
-
         return render_template("index.html", lang = language, text = haikus)
 
 
