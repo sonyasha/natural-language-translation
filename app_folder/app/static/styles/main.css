@@ -10,27 +10,67 @@
 
 header {
     grid-area: header;
-    background: url('../styles/img/thank.jpg') center no-repeat;
+    background: url('../styles/img/map.jpg') center no-repeat;
     background-size: cover;
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
+}
+
+.haiku-cont {
+    margin: 20px;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    background: transparent;
+}
+
+.gen-text {
+    padding: 7px;
+    color: rgb(165, 231, 248);
+    font-size: 25px;
+    background: transparent;
+    /* background-color: rgb(16, 182, 174); */
+    border: solid 2px rgb(216, 250, 220);
+    border-radius: 5px;
+    align-self: flex-end;
 }
 
 .change {
     padding: 5px 10px;
     margin: 20px;
+    margin-left: auto;
     border-radius: 5px;
     border: solid 2px rgb(34, 107, 43);
+    
     background-color: rgb(30, 150, 21);
     box-shadow: 0px 0px 5px rgb(41, 66, 41);
+    align-self: flex-end;
 }
 
-span {
-    background-color: rgb(30, 150, 21);
+.tr {
+    background: transparent;
+    /* background-color: rgb(30, 150, 21); */
     color: #FFFFFF;
     font-family: 'Hanalei Fill';
     font-size: 25px;
+}
+
+.gn {
+    background: transparent;
+    align-self: flex-start;
+    margin: auto;
+}
+
+.generate {
+    background: transparent;
+    font-family: 'Hanalei Fill';
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+.haiku {
+    background: transparent;
+    font-size: 25px;
+    color: #FFFFFF;
 }
 
 .spa:hover, .fra:hover {
@@ -80,7 +120,7 @@ footer {
     align-self: start;
 }
 
-#invis {
+.invis {
     display: none;
 }
 
@@ -187,7 +227,7 @@ input:focus {
 @media all and (max-width: 880px) {
 
     .wrapper {
-        grid-template-rows: 130px calc(100vh - 150px - 6px) 20px;
+        grid-template-rows: 180px calc(100vh - 200px - 6px) 20px;
         height: calc(100vh - 6px); 
     }
 
@@ -220,11 +260,22 @@ input:focus {
     }
 
     header {
+        flex-direction: column;
+        align-items: center;
         justify-content: center;
     }
 
-    span {
-        font-size: 23px;
+    .change {
+        margin: auto;
+        
+    }
+
+    .haiku-cont{
+        margin: 10px;
+    }
+
+    .tr {
+        font-size: 20px;
     }
 }
 

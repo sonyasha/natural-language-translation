@@ -1,11 +1,27 @@
 $( document ).ready(function() {
     console.log( "Hey! Welcome to our website, hope you will enjoy it!" );
+    $('.spa').addClass('active');
+    $('.fra').addClass('passive');
+    $('#invizlang').attr('value', 'spa');
+    $('#invizhaik').attr('value', ($('.gen-text').val()));
+    $('#submitForm').text('To Spanish');
+    var invinp = $('#inputlang').val();
+    console.log(invinp);
+    $('#invizeng').attr('value', invinp);
+    $('#invizother').attr('value', ($('#outputlang').val()));
+    $('#invilanng').attr('value', ($('#invizlang').val()));
 });
 
 // submit Form
 $("#submitForm").click(function(event) {
-        event.preventDefault();
-        $("#translate-form").submit();		
+    event.preventDefault();
+    $("#translate-form").submit();		
+});
+
+// generate Form
+$("#submitGen").click(function(event) {
+    event.preventDefault();
+    $("#generate-form").submit();		
 });
 
 // responsive behaviour
@@ -171,14 +187,11 @@ $('#outputlang').each(function(){
 });
 
 
-// add classes to language choice
-$('.spa').addClass('active');
-$('.fra').addClass('passive');
-$('#invis').attr('value', 'spa');
-$('#submitForm').text('To Spanish')
+// add classes to translate form
+
 
 $('.spa').click(function(){
-    $('#invis').attr('value', 'spa');
+    $('#invizlang').attr('value', 'spa');
     $('#submitForm').text('To Spanish')
     $('.spa').addClass('active');
     $('.fra').removeClass('active');
@@ -187,7 +200,7 @@ $('.spa').click(function(){
 })
 
 $('.fra').click(function(){
-    $('#invis').attr('value', 'fra');
+    $('#invizlang').attr('value', 'fra');
     $('#submitForm').text('To French')
     $('.fra').addClass('active');
     $('.spa').removeClass('active');
