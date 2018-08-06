@@ -4,34 +4,38 @@
     font-family: 'Hanalei Fill', cursive;
     font-family: 'Lato', sans-serif;
     font-size: 15pt;
-    color: rgb(28, 54, 27);
-    background-color: rgb(216, 250, 250);
+    color: rgb(0, 2, 51);
+    /* background-color: rgb(216, 250, 250); */
+}
+
+body {
+    background: url('../styles/img/map2.jpg') center no-repeat;
+    background-size: cover;
 }
 
 header {
     grid-area: header;
-    background: url('../styles/img/map.jpg') center no-repeat;
-    background-size: cover;
     display: flex;
+    justify-content: space-between;
 }
 
 .haiku-cont {
-    margin: 20px;
-    align-self: center;
+    margin: 10px;
+    width: 50%;
     display: flex;
     flex-direction: column;
     background: transparent;
+    align-self: flex-start;
 }
 
 .gen-text {
     padding: 7px;
-    color: rgb(165, 231, 248);
+    color: rgb(0, 2, 51);
+    text-align: center;
     font-size: 25px;
-    background: transparent;
-    /* background-color: rgb(16, 182, 174); */
+    background-color: rgb(224, 225, 227, 0.7);
     border: solid 2px rgb(216, 250, 220);
     border-radius: 5px;
-    align-self: flex-end;
 }
 
 .change {
@@ -40,15 +44,13 @@ header {
     margin-left: auto;
     border-radius: 5px;
     border: solid 2px rgb(34, 107, 43);
-    
     background-color: rgb(30, 150, 21);
     box-shadow: 0px 0px 5px rgb(41, 66, 41);
-    align-self: flex-end;
+    align-self: center;
 }
 
 .tr {
     background: transparent;
-    /* background-color: rgb(30, 150, 21); */
     color: #FFFFFF;
     font-family: 'Hanalei Fill';
     font-size: 25px;
@@ -56,21 +58,27 @@ header {
 
 .gn {
     background: transparent;
-    align-self: flex-start;
-    margin: auto;
+    display: flex;
+    flex-direction: column;
 }
 
 .generate {
     background: transparent;
     font-family: 'Hanalei Fill';
     font-size: 30px;
-    color: #FFFFFF;
+    color: rgb(38, 148, 34);
+    text-shadow: 1px 2px 2px rgb(2, 39, 1);
+}
+
+.generate:hover {
+    color: rgb(5, 100, 1);
+    cursor: pointer;
 }
 
 .haiku {
     background: transparent;
     font-size: 25px;
-    color: #FFFFFF;
+    color: rgb(38, 148, 34);
 }
 
 .spa:hover, .fra:hover {
@@ -94,14 +102,15 @@ header {
 }
 
 footer {
-    grid-area: footer;  
+    grid-area: footer;
+    background: transparent; 
 }
 
 .foot {
     display: flex;
     justify-content: center;
-    background-color: rgb(54, 110, 96);
-    color: rgb(246, 250, 253);
+    /* background-color: rgb(54, 110, 96); */
+    color: rgb(0, 2, 51);
     font-family: 'Hanalei Fill';
 }
 
@@ -183,7 +192,7 @@ footer {
     box-shadow: 0px 0px 3px rgb(92, 105, 112);
     font-family: 'Hanalei Fill', sans-serif;
     color:#FFFFFF;
-    background-color:#27cc50;
+    background-color:#27cc50e7;
     text-align:center;
 }
 
@@ -205,7 +214,7 @@ input:focus {
 .form-field {
     width: 95%;
     height: 65px;
-    background-color: #FFFFFF;
+    background-color: rgb(224, 225, 227, 0.8);
     border: solid 1px #a2b4b4;
     border-radius: 5px;
     text-align: center;
@@ -214,6 +223,8 @@ input:focus {
 }
 
 .form-label {
+    color: rgb(236, 236, 238);
+    text-shadow: 2px 1px 2px rgb(2, 17, 151);
     margin-bottom: 30px;
     font-family: 'Hanalei Fill', sans-serif;
     font-size: 25px; 
@@ -223,6 +234,7 @@ input:focus {
     font-size: 30px;
     font-weight: 900;
 }
+
 
 @media all and (max-width: 880px) {
 
@@ -271,7 +283,12 @@ input:focus {
     }
 
     .haiku-cont{
-        margin: 10px;
+        margin: auto;
+        width: 80%;
+    }
+
+    .gen-top {
+        margin: auto;
     }
 
     .tr {

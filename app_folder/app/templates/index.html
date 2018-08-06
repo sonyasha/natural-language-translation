@@ -15,18 +15,20 @@
         <div class="wrapper">
             <header>
                 <div class="haiku-cont">
-                    <form id="generate-form" class="gn" action="/haiku" method="POST">
+                    <div class='gen-top'>
                         <span id="submitGen" class="generate" type='button'>GENERATE</span>
                         <span class="haiku">Your Haiku</span>
-                    <!-- <div class="gen-text" name='gen-haik-text' value='{{text}}'>{{text}}</div> -->
+                    </div>
+                    <form id="generate-form" class="gn" action="/haiku" method="POST">
                         <input class="gen-text" name='gen-haik-text' value='{{text}}'>
                         <input id="invizeng" class="invis" name="eng" value="">
                         <input id="invizother" class="invis" name="other" value="">
                         <input id="invizlanng" class="invis" name="langg" value="">
                     </form>
+                    
                 </div>
                 <div class="change">
-                    <span class="tr">Translate to:</span>
+                    <!-- <span class="tr">Translate to:</span> -->
                     <span class="tr spa">Spanish</span>
                     <span class="tr fra">French</span>
                 </div>

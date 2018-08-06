@@ -2,14 +2,12 @@ $( document ).ready(function() {
     console.log( "Hey! Welcome to our website, hope you will enjoy it!" );
     $('.spa').addClass('active');
     $('.fra').addClass('passive');
-    $('#invizlang').attr('value', 'spa');
     $('#invizhaik').attr('value', ($('.gen-text').val()));
     $('#submitForm').text('To Spanish');
-    var invinp = $('#inputlang').val();
-    console.log(invinp);
-    $('#invizeng').attr('value', invinp);
+    $('#invizeng').attr('value', ($('#inputlang').val()));
     $('#invizother').attr('value', ($('#outputlang').val()));
-    $('#invilanng').attr('value', ($('#invizlang').val()));
+    $('#invizlanng').attr('value', ($('#invizlang').val()));
+    $('#invizlang').attr('value', 'spa');
 });
 
 // submit Form
@@ -103,8 +101,9 @@ function renderChart(data) {
 
     svg.append("text")
         .attr("text-anchor", "middle")
-        .attr('y', 7)
+        .attr('y', 8)
         .attr("class", "donut-text")
+        // .style('color: rgb(230, 231, 235')
         .text(data.length);
 
     var g = svg.selectAll("arc")
@@ -192,6 +191,7 @@ $('#outputlang').each(function(){
 
 $('.spa').click(function(){
     $('#invizlang').attr('value', 'spa');
+    $('#invizlanng').attr('value', 'spa');
     $('#submitForm').text('To Spanish')
     $('.spa').addClass('active');
     $('.fra').removeClass('active');
@@ -201,6 +201,7 @@ $('.spa').click(function(){
 
 $('.fra').click(function(){
     $('#invizlang').attr('value', 'fra');
+    $('#invizlanng').attr('value', 'fra');
     $('#submitForm').text('To French')
     $('.fra').addClass('active');
     $('.spa').removeClass('active');
