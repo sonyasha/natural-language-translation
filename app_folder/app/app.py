@@ -1,14 +1,14 @@
-from flask import Flask, render_template, jsonify, redirect, send_file, request
+from flask import Flask, render_template, jsonify, redirect, send_file, request, url_for, json, session
 import keras
 from keras import backend as K
 import os
 from functions import get_prediction
-# from functions import print_text
+from functions import print_text
 
 language = {
     'input': '',
     'output': '',
-    'trans': ''   
+    'trans': ''  
 }
 
 file_path = os.path.abspath(os.getcwd()) + "/models"
@@ -34,10 +34,6 @@ def load_model_fra():
 @app.route('/')
 def index():
 
-    # gtext = print_text().decode("utf-8")
-    # print(gtext)
-
-    # return render_template("index.html", lang = language, text = gtext)
     return render_template("index.html", lang = language)
     
 
@@ -45,13 +41,21 @@ def index():
 def form():
 
     if request.method == "POST":
-
+        
+        # haikus = request.form.get('haik-text')
+        # print(haikus)
+        # language = {
+        #     'input': '',
+        #     'output': '',
+        #     'trans': ''  
+        # }
         if request.form.get('input-text'):
 
             input_text = request.form["input-text"]
             print(input_text)
             lang = request.form.get('lang')
             print(lang)
+            haikus = request.form['haik-text']
 
             global graph
             with graph.as_default():
@@ -69,7 +73,7 @@ def form():
                             'trans': 'to Spanish'  
                         }
 
-                        return render_template("index.html", lang = language)
+                        return render_template("index.html", lang = language, text = haikus)
 
                 if lang == 'fra':
 
@@ -84,9 +88,31 @@ def form():
                             'trans': 'to French' 
                         }
 
-                        return render_template("index.html", lang = language)
-
+                        return render_template("index.html", lang = language, text = haikus)
+    
+    # return render_template("index.html", lang = language, text = haikus)
     return redirect('/', code=302)
+    # return redirect(url_for('.index', text = texts))
+
+
+@app.route('/haiku', methods=["GET","POST"])
+def haiku():
+    if request.method == "POST":
+        
+        haikus = print_text().decode("utf-8")
+        input_text = request.form["eng"]
+        output_text = request.form.get('other')
+        # trans = request.form.get('langg')
+
+
+        language = {
+            'input': input_text,
+            'output': output_text,
+            # 'trans': trans 
+        }
+        
+
+        return render_template("index.html", lang = language, text = haikus)
 
 
 
