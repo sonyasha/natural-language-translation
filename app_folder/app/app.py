@@ -34,7 +34,7 @@ def load_model_fra():
 @app.route('/')
 def index():
 
-    return render_template("index.html", lang = language)
+    return render_template("index.html", lang = language, text = '')
     
 
 @app.route('/form', methods=["GET","POST"])
@@ -48,7 +48,7 @@ def form():
             print(input_text)
             lang = request.form.get('lang')
             print(lang)
-            haikus = request.form['haik-text']
+            # haikus = request.form['haik-text']
 
             global graph
             with graph.as_default():
@@ -66,7 +66,7 @@ def form():
                             'trans': 'to Spanish'  
                         }
 
-                        return render_template("index.html", lang = language, text = haikus)
+                        return render_template("index.html", lang = language, text = '')
 
                 if lang == 'fra':
 
@@ -81,7 +81,7 @@ def form():
                             'trans': 'to French' 
                         }
 
-                        return render_template("index.html", lang = language, text = haikus)
+                        return render_template("index.html", lang = language, text = '')
     
     return redirect('/', code=302)
 
@@ -92,6 +92,9 @@ def haiku():
     if request.method == "POST":
         
         haikus = print_text().decode("utf-8")
+        # haikus = print_text()
+        # haikus = haikus.replace('\n', '<br>')
+
         input_text = request.form["eng"]
         output_text = request.form.get('other')
         trans = request.form['langg']
