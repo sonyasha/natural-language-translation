@@ -24,7 +24,9 @@
                         <!-- <input class="gen-text" name='gen-haik-text' value='{{text}}'> -->
                         <label id="label" class="gen-text">
                             {% for line in text.splitlines() %}
-                                {{line}}<br>
+                                {% if (loop.index < 4) %}
+                                    {{line}}<br>
+                                {% endif %}
                             {% endfor %}
                         </label>
                         <!-- <input class="invis" name='gen-haik-text' value=""> -->

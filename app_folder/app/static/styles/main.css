@@ -42,9 +42,11 @@ header {
 .gen-text {
     padding: 7px;
     color: rgb(0, 2, 51);
+    text-shadow: 0.5px 0px 0.5px rgb(250, 252, 250);
     text-align: left;
     font-size: 18px;
     font-family: cursive;
+    font-weight: 900;
     line-height: 1;
     background: transparent;
     outline: none;
@@ -76,10 +78,13 @@ header {
 
 .generate {
     background: transparent;
-    font-family: 'Hanalei Fill';
+    font-family: cursive;
     font-size: 20px;
     color: rgb(38, 148, 34);
-    text-shadow: 1px 2px 2px rgb(2, 39, 1);
+    text-align: center;
+    line-height: 1.5;
+    font-weight: 800;
+    text-shadow: 0px 1px 1px rgb(2, 39, 1);
 }
 
 .generate:hover {
@@ -90,6 +95,9 @@ header {
 .haiku {
     background: transparent;
     font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    line-height: 1.5;
     color: rgb(38, 148, 34);
 }
 
@@ -121,8 +129,8 @@ footer {
 .foot {
     display: flex;
     justify-content: center;
-    /* background-color: rgb(54, 110, 96); */
     color: rgb(0, 2, 51);
+    text-shadow: 1px 1px 1px rgb(243, 243, 248);
     font-family: 'Hanalei Fill';
 }
 
@@ -203,6 +211,7 @@ footer {
     border: solid 5px #FFFFFF;
     box-shadow: 0px 0px 3px rgb(92, 105, 112);
     font-family: 'Hanalei Fill', sans-serif;
+    text-shadow: 1px 2px 2px rgb(2, 39, 1);
     color:#FFFFFF;
     background-color:#27cc50e7;
     text-align:center;
