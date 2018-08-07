@@ -2,12 +2,14 @@ $( document ).ready(function() {
     console.log( "Hey! Welcome to our website, hope you will enjoy it!" );
     $('.spa').addClass('active');
     $('.fra').addClass('passive');
-    $('#invizhaik').attr('value', ($('.gen-text').val()));
     $('#submitForm').text('To Spanish');
     $('#invizeng').attr('value', ($('#inputlang').val()));
     $('#invizother').attr('value', ($('#outputlang').val()));
     $('#invizlanng').attr('value', ($('#invizlang').val()));
     $('#invizlang').attr('value', 'spa');
+    // $('#invizhaik').attr('value', ($('.gen-text').val()));
+    // $('.gen-text').attr('value', ($('#label').html()));
+    
 });
 
 // submit Form
