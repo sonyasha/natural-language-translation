@@ -92,9 +92,7 @@ def haiku():
     if request.method == "POST":
         
         haikus = print_text().decode("utf-8")
-        # haikus = print_text()
-        # haikus = haikus.replace('\n', '<br>')
-
+        
         input_text = request.form["eng"]
         output_text = request.form.get('other')
         trans = request.form['langg']
