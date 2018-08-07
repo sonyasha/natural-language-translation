@@ -81,7 +81,7 @@ def print_text():
                     formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('--save_dir', type=str, default='models/char_rnn',
                         help='model directory to store checkpointed models')
-    parser.add_argument('-n', type=int, default=50,
+    parser.add_argument('-n', type=int, default=100,
                         help='number of characters to sample')
     parser.add_argument('--prime', type=text_type, default=u'',
                         help='prime text')

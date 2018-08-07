@@ -2,12 +2,14 @@ $( document ).ready(function() {
     console.log( "Hey! Welcome to our website, hope you will enjoy it!" );
     $('.spa').addClass('active');
     $('.fra').addClass('passive');
-    $('#invizhaik').attr('value', ($('.gen-text').val()));
     $('#submitForm').text('To Spanish');
     $('#invizeng').attr('value', ($('#inputlang').val()));
     $('#invizother').attr('value', ($('#outputlang').val()));
     $('#invizlanng').attr('value', ($('#invizlang').val()));
     $('#invizlang').attr('value', 'spa');
+    // $('#invizhaik').attr('value', ($('.gen-text').val()));
+    // $('.gen-text').attr('value', ($('#label').html()));
+    
 });
 
 // submit Form
@@ -76,7 +78,8 @@ function renderChart(data) {
     var svgWidth = window.innerWidth/2.5;
     var svgHeight = window.innerHeight/3;
 
-    var color = d3.scaleOrdinal(d3.schemeCategory10);
+    
+    var color = d3.scaleOrdinal(d3.schemeYlGnBu[9]);
 
     var radius = Math.min(svgWidth, svgHeight) / 2;
 
@@ -103,7 +106,7 @@ function renderChart(data) {
         .attr("text-anchor", "middle")
         .attr('y', 8)
         .attr("class", "donut-text")
-        // .style('color: rgb(230, 231, 235')
+        .style("fill", "rgb(186, 197, 214)")
         .text(data.length);
 
     var g = svg.selectAll("arc")
@@ -130,7 +133,7 @@ function renderChart(data) {
         .transition()
 	    .delay(900)
         .text(function(d) { return d.data.name;})
-        .style("fill", "#fff");
+        .style("fill", "rgb(22, 53, 102)");
 
 
     var tooltip = d3.select("#graph").append("div").attr("class", "toolTip");
