@@ -75,22 +75,31 @@ def sample(args):
 def print_text():
     import argparse
 
-    from six import text_type
+    # from six import text_type
 
-    parser = argparse.ArgumentParser(
-                    formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument('--save_dir', type=str, default='models/char_rnn',
-                        help='model directory to store checkpointed models')
-    parser.add_argument('-n', type=int, default=100,
-                        help='number of characters to sample')
-    parser.add_argument('--prime', type=text_type, default=u'',
-                        help='prime text')
-    parser.add_argument('--sample', type=int, default=2,
-                        help='0 to use max at each timestep, 1 to sample at '
-                            'each timestep, 2 to sample on spaces')
+    # parser = argparse.ArgumentParser(
+    #                 formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    # parser.add_argument('--save_dir', type=str, default='models/char_rnn',
+    #                     help='model directory to store checkpointed models')
+    # parser.add_argument('-n', type=int, default=100,
+    #                     help='number of characters to sample')
+    # parser.add_argument('--prime', type=text_type, default=u'',
+    #                     help='prime text')
+    # parser.add_argument('--sample', type=int, default=2,
+    #                     help='0 to use max at each timestep, 1 to sample at '
+    #                         'each timestep, 2 to sample on spaces')
 
-    args = parser.parse_args()
 
+    args = argparse.Namespace()
+    args.save_dir = 'models/char_rnn'
+    args.n = 100
+    args.prime = u''
+    args.sample = 2
+    # args = parser.parse_args(['--save_dir', 'models/char_rnn'])
+    print(vars(args))
+
+    
+    # args = (n=100, prime='', sample=2, save_dir='models/char_rnn')
     new_txt = sample(args)
 
     return new_txt

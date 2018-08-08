@@ -24,7 +24,8 @@ graph = K.get_session().graph
 
 def load_model_spa():
     global model_spa
-    model_spa = keras.models.load_model(os.path.join(file_path or app.config['UPLOAD_FOLDER'], "spa/model_01081_32.h5"))
+    # model_spa = keras.models.load_model(os.path.join(file_path or app.config['UPLOAD_FOLDER'], "spa/model_01081_32.h5"))
+    model_spa = keras.models.load_model(os.path.join(file_path or app.config['UPLOAD_FOLDER'], "spa83/model_50K.h5"))
 
 def load_model_fra():
     global model_fra
@@ -55,7 +56,8 @@ def form():
 
                 if lang == 'spa':
 
-                    folder = '/' + lang
+                    # folder = '/' + lang
+                    folder = '/' + 'spa83'
                     output_text = get_prediction(model_spa, folder, input_text)
 
                     if output_text:
