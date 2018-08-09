@@ -1,0 +1,331 @@
+*{  box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Hanalei Fill', cursive;
+    font-family: 'Lato', sans-serif;
+    font-size: 15pt;
+    color: rgb(0, 2, 51);
+}
+
+body {
+    background: url('../styles/img/map2.jpg') center no-repeat;
+    background-size: cover;
+}
+
+header {
+    grid-area: header;
+    display: flex;
+    justify-content: space-between;
+}
+
+.haiku-cont {
+    margin: 10px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(224, 225, 227, 0.7);
+    border-radius: 5px;
+    align-self: flex-start;
+}
+
+.br {
+    color: #ffffff00;
+}
+
+.gen-top {
+    /* margin: auto; */
+    display: flex;
+    /* align-items: flex-end; */
+    justify-content: center;
+}
+
+.gen-text {
+    padding: 7px;
+    color: rgb(0, 2, 51);
+    text-shadow: 0.5px 0px 0.5px rgb(250, 252, 250);
+    text-align: left;
+    font-size: 18px;
+    font-family: cursive;
+    font-weight: 900;
+    line-height: 1;
+    background: transparent;
+    outline: none;
+    border: none;
+}
+
+.change {
+    padding: 5px 5px;
+    margin: 20px;
+    margin-left: auto;
+    border-radius: 5px;
+    /* border: solid 2px rgb(34, 107, 43); */
+    background-color: rgba(30, 150, 21, 0.897);
+    box-shadow: 0px 0px 5px rgb(41, 66, 41);
+    align-self: center;
+}
+
+.tr {
+    background: transparent;
+    color: #FFFFFF;
+    font-family: 'Hanalei Fill';
+    font-size: 20px;
+}
+
+.gn {
+    display: flex;
+    flex-direction: column;
+}
+
+.generate {
+    background: transparent;
+    font-family: cursive;
+    font-size: 20px;
+    color: rgb(39, 24, 177);
+    text-align: center;
+    line-height: 1.5;
+    font-weight: 800;
+    text-shadow: 0px 1px 1px rgb(5, 1, 39);
+}
+
+.generate:hover {
+    color: rgb(5, 100, 1);
+    cursor: pointer;
+}
+
+.haiku {
+    background: transparent;
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    line-height: 1.5;
+    color: rgb(39, 24, 177);
+}
+
+.spa:hover, .fra:hover {
+    color: #34e8f5;
+    cursor: pointer;
+}
+
+.active {
+    color: #34e8f5;
+    font-size: 30px;
+}
+
+.passive {
+    color: #FFFFFF;
+}
+
+.fields {
+    grid-area: main;
+    padding: 20px;
+    
+}
+
+footer {
+    grid-area: footer;
+    background: transparent; 
+}
+
+.foot {
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 2, 51);
+    text-shadow: 1px 1px 1px rgb(243, 243, 248);
+    font-family: 'Hanalei Fill';
+}
+
+.wrapper {
+    display: grid;
+    grid-template-rows: 170px calc(100vh - 190px - 6px) 20px;
+    height: calc(100vh - 6px);
+    grid-template-areas: 
+        "header"
+        "main"
+        'footer';
+}
+
+.finput {
+    grid-area: finput;
+    align-self: start;
+}
+
+.invis {
+    display: none;
+}
+
+.fbutton {
+    grid-area: fbutton;
+    align-self: start;
+}
+
+.foutput {
+    grid-area: foutput;
+    align-self: start;
+}
+
+#graph {
+    grid-area: graph;
+    align-self: end;
+}
+
+#arrow {
+    grid-area: arrow;
+    align-self: end;
+}
+
+.toolTip {
+    position: absolute;
+    display: none;
+    width: auto;
+    height: auto;
+    padding: 2px;
+    background: none repeat scroll 0 0 white;
+    border-radius: 3px;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+
+.fields {
+    display: grid;
+    grid-template-columns: 2fr 0.7fr 2fr;
+    align-items: stretch;
+    grid-template-areas:
+        'finput fbutton foutput'
+        'graph graph graph'
+        '. arrow .';
+}
+
+.fbutton, .foutput, #translate-form, #graph, #arrow {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.baton {
+    height: 110px;
+    width: 110px;
+    padding: 5px;
+    border-radius: 100%;
+    border: solid 5px #FFFFFF;
+    box-shadow: 0px 0px 3px rgb(92, 105, 112);
+    font-family: 'Hanalei Fill', sans-serif;
+    text-shadow: 1px 2px 2px rgb(2, 39, 1);
+    color:#FFFFFF;
+    background-color:#27cc50e7;
+    text-align:center;
+}
+
+.baton:hover{
+    background-color:#1279b4;
+    border: solid 5px rgb(86, 250, 94);
+    cursor: pointer;
+}
+
+button:focus {
+    outline: none;
+}
+
+.form-field:focus {
+    outline: none;
+    box-shadow: 0px 0px 3px rgb(146, 160, 167);
+}
+
+.form-field {
+    width: 95%;
+    height: 65px;
+    background-color: rgb(224, 225, 227, 0.8);
+    border: solid 1px #a2b4b4;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 45px;
+    box-shadow: 1px;
+}
+
+.form-label {
+    color: rgb(236, 236, 238);
+    text-shadow: 2px 1px 2px rgb(2, 17, 151);
+    margin-bottom: 30px;
+    font-family: 'Hanalei Fill', sans-serif;
+    font-size: 25px; 
+}
+
+.donut-text {
+    font-size: 25px;
+    font-weight: 900;
+}
+
+
+@media all and (max-width: 880px) {
+
+    .wrapper {
+        grid-template-rows: 190px calc(100vh - 210px - 6px) 20px;
+        height: calc(100vh - 6px); 
+    }
+
+    .fields {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+            "finput"
+            "fbutton"
+            'foutput';
+    }
+
+    #graph, #arrow {
+        display: none;
+    }
+
+    .fbutton, .foutput, .finput {
+        padding-bottom: 15px;
+    }
+
+    .baton {
+        height: 65px;
+        width: 130px;
+        border-radius: 45%;
+    }
+
+    .form-field {
+        height: 60px;
+        font-size: 40px;
+    }
+
+    header {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .change {
+        margin: auto;
+        
+    }
+
+    .haiku-cont{
+        margin: auto;
+        width: 80%;
+    }
+
+    .gen-top {
+        margin: auto;
+    }
+
+    .tr {
+        font-size: 20px;
+    }
+}
+
+#plot-select {
+    outline: none;
+}
+
+#plot-select {
+    background-color: #FFFFFF;
+    border: solid 1px #a2b4b4;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 15px;
+    box-shadow: 1px;
+}
