@@ -95,11 +95,8 @@ def print_text():
     args.n = 100
     args.prime = u''
     args.sample = 2
-    # args = parser.parse_args(['--save_dir', 'models/char_rnn'])
     print(vars(args))
 
-    
-    # args = (n=100, prime='', sample=2, save_dir='models/char_rnn')
     new_txt = sample(args)
 
     return new_txt

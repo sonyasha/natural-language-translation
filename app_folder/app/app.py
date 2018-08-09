@@ -1,6 +1,6 @@
-from flask import Flask, render_template, jsonify, redirect, send_file, request, url_for, json, session
-import keras
-from keras import backend as K
+from flask import Flask, render_template, redirect, request
+from keras.models import load_model
+from keras.backend import get_session
 import os
 from functions import get_prediction
 from functions import print_text
@@ -20,16 +20,16 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 model_spa = None
 model_fra = None
-graph = K.get_session().graph
+graph = get_session().graph
 
 def load_model_spa():
     global model_spa
     # model_spa = keras.models.load_model(os.path.join(file_path or app.config['UPLOAD_FOLDER'], "spa/model_01081_32.h5"))
-    model_spa = keras.models.load_model(os.path.join(file_path or app.config['UPLOAD_FOLDER'], "spa83/model_50K.h5"))
+    model_spa = load_model(os.path.join(file_path or app.config['UPLOAD_FOLDER'], "spa83/model_50K.h5"))
 
 def load_model_fra():
     global model_fra
-    model_fra = keras.models.load_model(os.path.join(file_path or app.config['UPLOAD_FOLDER'], "fra/fra_32.h5"))
+    model_fra = load_model(os.path.join(file_path or app.config['UPLOAD_FOLDER'], "fra/fra_32.h5"))
 
 
 @app.route('/')
