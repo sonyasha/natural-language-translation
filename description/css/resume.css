@@ -135,7 +135,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
+<<<<<<< HEAD
   color: rgb(44, 63, 150) !important;
+=======
+  color: rgb(9, 146, 170) !important;
+>>>>>>> ea76e0ff8e0bb2b92f589ccc0dde4edcfd275163
 }
 
 a {
