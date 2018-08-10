@@ -1,21 +1,36 @@
-*{  box-sizing: border-box;
+/* *{  box-sizing: border-box;
     padding: 0;
     margin: 0;
     font-family: 'Hanalei Fill', cursive;
     font-family: 'Lato', sans-serif;
     font-size: 15pt;
     color: rgb(0, 2, 51);
-}
+} */
 
 body {
-    background: url('../styles/img/map2.jpg') center no-repeat;
-    background-size: cover;
+    margin: 0;
+    font-family: 'Ubuntu';
 }
 
 header {
-    grid-area: header;
+    height: 6rem;
+    font-size: 26px;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(to bottom, rgb(42, 14, 110) 0%, rgb(26, 12, 96) 100%);
+}
+
+.logo {
+    height: 4rem;
     display: flex;
-    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+
+.change {
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .haiku-cont {
@@ -118,12 +133,12 @@ header {
 .fields {
     grid-area: main;
     padding: 20px;
-    
+
 }
 
 footer {
     grid-area: footer;
-    background: transparent; 
+    background: transparent;
 }
 
 .foot {
@@ -138,7 +153,7 @@ footer {
     display: grid;
     grid-template-rows: 170px calc(100vh - 190px - 6px) 20px;
     height: calc(100vh - 6px);
-    grid-template-areas: 
+    grid-template-areas:
         "header"
         "main"
         'footer';
@@ -248,7 +263,7 @@ button:focus {
     text-shadow: 2px 1px 2px rgb(2, 17, 151);
     margin-bottom: 30px;
     font-family: 'Hanalei Fill', sans-serif;
-    font-size: 25px; 
+    font-size: 25px;
 }
 
 .donut-text {
@@ -261,13 +276,13 @@ button:focus {
 
     .wrapper {
         grid-template-rows: 190px calc(100vh - 210px - 6px) 20px;
-        height: calc(100vh - 6px); 
+        height: calc(100vh - 6px);
     }
 
     .fields {
         display: grid;
         grid-template-columns: 1fr;
-        grid-template-areas: 
+        grid-template-areas:
             "finput"
             "fbutton"
             'foutput';
@@ -300,7 +315,7 @@ button:focus {
 
     .change {
         margin: auto;
-        
+
     }
 
     .haiku-cont{
@@ -322,10 +337,10 @@ button:focus {
 }
 
 #plot-select {
-    background-color: #FFFFFF;
-    border: solid 1px #a2b4b4;
-    border-radius: 5px;
-    text-align: center;
     font-size: 15px;
     box-shadow: 1px;
+    border-radius: 5px;
+    text-align: center;
+    border: solid 1px #a2b4b4;
+    background-color: rgb(255, 255, 255);
 }
