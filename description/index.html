@@ -35,7 +35,7 @@
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
         <!-- <span class="d-block d-lg-none">Start Bootstrap</span> -->
         <span class="d-none d-lg-block">
-          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/img.png" alt="">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/img.png" alt="brain">
         </span>
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -47,10 +47,10 @@
             <a class="nav-link js-scroll-trigger" href="#about">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#experience">Data Preparation</a>
+            <a class="nav-link js-scroll-trigger" href="#experience">Preprocessing Data</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#education">Encoding Data</a>
+            <a class="nav-link js-scroll-trigger" href="#education">Define Models</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#skills">Define Model</a>
@@ -110,7 +110,7 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
         <div class="my-auto">
-          <h2 class="mb-5">Data Preparation</h2>
+          <h2 class="mb-5">Preprocessing Data</h2>
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-3">Data Sources:</h3>
@@ -124,9 +124,9 @@
               <h3 class="mb-3">Data Obtaining</h3>
               <p>A function for downloading and unpacking ZIP file, returns a name of txt file for the further processing.<br>
                 <script src="https://gist.github.com/Gryazzz/903154e757e0ab572b5eb5f80af5d533.js"></script>
-                In this example we used Enlgish - French sentence pairs from <a href='http://www.manythings.org/anki/fra-eng.zip' target="blank">Tatoeba Project</a><br>
-                Run the function and get the link to the downloaded file: <br><br>
-                <pre><code>path = 'data/' + get_data('http://www.manythings.org/anki/fra-eng.zip')</code></pre>
+                Enlgish - French sentence pairs from <a href='http://www.manythings.org/anki/fra-eng.zip' target="blank">Tatoeba Project</a> were used in this example.<br>
+                <!-- Run the function and get the link to the downloaded file: <br><br> -->
+                <!-- <pre><code>path = 'data/' + get_data('http://www.manythings.org/anki/fra-eng.zip')</code></pre> -->
               </p>
             </div>
           </div>
@@ -134,33 +134,72 @@
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-3">Data Cleaning</h3>
-              <p>Sentense pairs need some cleaning - remove punctuation, numbers and nonprintable characters and also change to lower case.<br>
-                <script src="https://gist.github.com/Gryazzz/84fb6044a64ce61f7a591ccad3f356c1.js"></script>
-                Then wrap it into another function that works with the txt file, removes duplicates and empty entries.<br><br>
-                <script src="https://gist.github.com/Gryazzz/e1cfaf720d490dc3fb6e40776edacffc.js"></script>
-                Run the function and get a numpy array that can be used by Keras:<br><br>
-                <pre><code>clean_data = clean_data(path)</code></pre>
-                <pre><code>array([['have fun', 'amusetoi bien'],
-                    ['he tries', 'il essaye'],
-                    ['hes wet', 'il est mouille'],
-                    ['hi guys', 'salut les mecs'],
-                    ['how cute', 'comme cest mignon'],
-                    ['how deep', 'quelle profondeur'],
-                    ['how nice', 'comme cest chouette'],
-                    ['humor me', 'faismoi rire'],
-                    ['hurry up', 'depechetoi'],
-                    ['i am fat', 'je suis gras']])</code></pre>
+              <p>
+                The dataset contains tab-separated English - French sentence pairs, one pair per line:<br>
+                <img class="img-fluid" src="img/initial_data.png" alt="initial data"><br>
+                Data need some cleaning - punctuation, numbers and nonprintable characters removing, as well as setting everything to lower case.
+                Also there are duplicating lines and empty entries that need to be excluded.<br>
+                After performing cleanin we get a two dimensional numpy array that can be used by Keras:
+                <pre><code>
+    array([['have fun', 'amusetoi bien'],
+          ['he tries', 'il essaye'],
+          ['hes wet', 'il est mouille'],
+          ['hi guys', 'salut les mecs'],
+          ['how cute', 'comme cest mignon'],
+          ['how deep', 'quelle profondeur'],
+          ['how nice', 'comme cest chouette'],
+          ['humor me', 'faismoi rire'],
+          ['hurry up', 'depechetoi'],
+          ['i am fat', 'je suis gras']])</code></pre><br>
+                Array shape for English-French pairs is (96518, 2).<br><br>
+                Then data is ready to be splitted into training and testing sets (80/20).
               </p>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-3">Split Dataset in Train and Test</h3>
-              <p>The whole dataset is about 100 000 rows, but for our purposes we use only 10 000. Note that dataset is sorted - phrases length increases by the end.
-                We split our data:  80% train and 20% test.<br>
-                <script src="https://gist.github.com/Gryazzz/3e995f89e4c27bfc06bfe9fcbd3f5e34.js"></script>
-                The output is two numpy arrays, also these sets are saved on the disk with joblib for the future model evaluation.
+              <h3 class="mb-3">Tokenize data</h3>
+              <p>
+                The both languages sets are tokenized (the whole datasets). Tokenizers give some insights on the data:
+                <ul>
+                  <li>a number of unique words in english dataset - 13547</li>
+                  <li>max sentence size in english dataset - 44</li>
+                  <li>a number of unique words in target dataset - 23556</li>
+                  <li>max sentence size in target dataset - 54</li>
+                </ul>
+                Since the number of unique words in not very large, all the tokens were used for training. 
+              </p>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-3">Data encoding</h3>
+              <p>
+                Sentences from each language dataset were transformed into sequences based on tokenizer indices and then padded to the maximum sentence length.<br>
+                At this step it is probably better to use median length and shrink all the sentences above it.<br>
+                The first two sentenses of the English dataset after padding:
+                <pre><code>
+    array([[ 85,  55, 193,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,
+          0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,
+          0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,
+          0,   0,   0,   0,   0],
+      [ 49, 105, 103, 361,   8,  17,   0,   0,   0,   0,   0,   0,   0,
+          0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,
+          0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,
+          0,   0,   0,   0,   0]], dtype=int32)</code></pre>
+              </p>
+              <p>
+                In addition we apply one hot encoding on the target datatets (both train and test):
+                <pre><code>
+    array([[0., 0., 0., ..., 0., 0., 0.],
+          [0., 0., 0., ..., 0., 0., 0.],
+          [0., 0., 0., ..., 0., 0., 0.],
+          ...,
+          [1., 0., 0., ..., 0., 0., 0.],
+          [1., 0., 0., ..., 0., 0., 0.],
+          [1., 0., 0., ..., 0., 0., 0.]], dtype=float32)</code></pre>
               </p>
             </div>
           </div>
@@ -169,26 +208,51 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
         <div class="my-auto">
-          <h2 class="mb-5">Encoding Data</h2>
+          <h2 class="mb-5">Define Models</h2>
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-3">Create Tokenizers</h3>
-              <p>We need to create tokenizers for English and French languages, we use the whole dataset for this.<br>
-                <script src="https://gist.github.com/Gryazzz/a885985adda1f8bad3e41d602b37dbd7.js"></script><br>
-                Tokenizers are saved on disk together with the values of the maximum sentence lengths for each language.<br>
-              </p>
+              <h3 class="mb-5">Long Short-Term Memory</h3>
+              <div class="row">
+                <div class="col-md-6">
+                  <img class="img-fluid" src="img/lstm.png" alt="lstm"><br>
+                </div>
+                <div class="col-md-6">
+                  <img class="img-fluid" src="img/lstm_sum.png" alt="lstm summary"><br>
+                </div>
+              </div>
             </div>
           </div>
 
           <div class="resume-item d-flex flex-column flex-md-row">
             <div class="resume-content mr-auto">
-              <h3 class="mb-3">One-hot encoding</h3>
-              <p>Encode training and testing datasets.<br>
-                <script src="https://gist.github.com/Gryazzz/88699142a6acbd26c3dc7842fda07718.js"></script>
-              </p>
+              <h3 class="mb-5">Gated Recurrent Unit</h3>
+              <img class="img-fluid mb-4" src="img/gru.png" alt="gru"><br>
+              <img class="img-fluid mb-5" src="img/gru_sum.png" alt="gru summary"><br>
             </div>
           </div>
 
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-5">Models Training</h3>
+              <p>
+                After hours of training LSTM model and playing with different settings (batch size, number of neurons, number of epochs), we were able to achieve the following results:
+                <div class="row">
+                  <div class="col-md-9">
+                    <img class="img-fluid mb-4" src="img/french_results.png" alt="french results">
+                  </div>
+                </div>
+                The minimum test loss is 1.11437 test accuracy is 0.8089.
+              </p>
+              <p>
+                GRU model was trained on 100 000 rows and 10 000 tokens for four days, below are some translation examples:
+                <div class="row">
+                  <div class="col-md-8">
+                      <img class="img-fluid mb-4" src="img/gru_translate.png" alt="gru translate">
+                  </div>
+                </div>  
+              </p>  
+            </div>
+          </div>
         </div>
       </section>
 
@@ -205,8 +269,7 @@
               </p>
             </div>
           </div>
-
-
+        </div>
       </section>
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
