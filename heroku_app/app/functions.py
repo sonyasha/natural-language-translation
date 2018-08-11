@@ -1,11 +1,10 @@
 from sklearn.externals import joblib
 import os
+file_path = os.path.abspath(os.getcwd()) + "/app/models"
 
 def prepare_model(model_name):
     
     from keras.models import model_from_json
-
-    file_path = os.path.abspath(os.getcwd()) + "/app/models"
     
     json_file = open(file_path + '/' + model_name + '/model.json', 'r')
     loaded_model_json = json_file.read()
@@ -21,17 +20,13 @@ def get_prediction(model, folder, input_text):
 
     from keras.preprocessing.sequence import pad_sequences
     from numpy import argmax
-    
-
-    file_path = os.path.abspath(os.getcwd()) + "/app/models"
 
     eng_tokenizer = joblib.load(file_path + folder + '/eng_tokenizer.pkl')
     eng_length = joblib.load(file_path + folder + '/eng_length.pkl')
     targ_tokenizer = joblib.load(file_path + folder + '/targ_tokenizer.pkl')
 
     def encode_input(input_text, tokenizer=eng_tokenizer, leng=eng_length):
-        input_text = [input_text]
-        token = tokenizer.texts_to_sequences(input_text)
+        token = tokenizer.texts_to_sequences([input_text])
         token = pad_sequences(token, maxlen=leng, padding='post')
         return token
 
@@ -80,7 +75,9 @@ def sample(args):
     #Use most frequent char if no prime is given
     if args.prime == '':
         args.prime = chars[0]
+        
     model = Model(saved_args, training=False)
+
     with tf.Session() as sess:
 
         def get_tensors_in_checkpoint_file(file_name,all_tensors=True,tensor_name=None):
@@ -91,9 +88,7 @@ def sample(args):
                 var_to_shape_map = reader.get_variable_to_shape_map()
                 for key in sorted(var_to_shape_map):
                     varlist.append(key)
-                    # print("checkpoint_var: ", key)
                     var_value.append(reader.get_tensor(key))
-                # print(40 * '-')
             else:
                 varlist.append(tensor_name)
                 var_value.append(reader.get_tensor(tensor_name))
@@ -102,11 +97,11 @@ def sample(args):
         def build_tensors_in_checkpoint_file(loaded_tensors):
             full_var_list = list()
             for i, tensor_name in enumerate(loaded_tensors[0]):
+                # print(tensor_name)
                 try:
-                    
-                    tensor_aux = tf.get_default_graph().get_tensor_by_name(tensor_name+":0")
+                    tensor_aux = tf.get_default_graph().get_tensor_by_name(tensor_name +":0")
                 except:
-                    print('Not found: '+tensor_name)
+                    print('Not found: '+ tensor_name)
                 full_var_list.append(tensor_aux)
             return full_var_list
 
@@ -121,11 +116,14 @@ def sample(args):
 
 def print_text():
     import argparse
+    # from random import SystemRandom
+    # rand = SystemRandom()
 
     args = argparse.Namespace()
     args.save_dir = 'app/models/char_rnn'
     args.n = 100
-    args.prime = u''
+    # args.prime = rand.choice(l)
+    args.prime = ''
     args.sample = 2
 
     new_txt = sample(args)

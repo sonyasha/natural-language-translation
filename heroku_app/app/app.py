@@ -13,19 +13,14 @@ language = {
     'trans': ''  
 }
 
-file_path = os.path.abspath(os.getcwd()) + "/app/models"
-
-UPLOAD_FOLDER = '/app/models/'
-
 app = Flask(__name__)
-app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
 
 model_spa = prepare_model('spanish')
 model_fra = prepare_model('french')
+
 graph = get_session().graph
-
 print('models are loaded')
-
 
 @app.route('/')
 def index():
@@ -51,7 +46,6 @@ def form():
 
                 if lang == 'spa':
 
-                    # folder = '/' + lang
                     folder = '/' + 'spanish'
                     output_text = get_prediction(model_spa, folder, input_text)
 
@@ -67,7 +61,6 @@ def form():
 
                 if lang == 'fra':
 
-                    # folder = '/' + lang
                     folder = '/' + 'french'
                     output_text = get_prediction(model_fra, folder, input_text)
 
