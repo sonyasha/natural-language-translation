@@ -36,19 +36,21 @@ Print ```heroku local``` in terminal.\
 Open ```http://0.0.0.0:5000 (random_port_number)```\
 If Everything works, the app is ready to be deployed on Heroku.
 
-## On WEB
+## On the WEB
 
-The app is located on https://trainslator.herokuapp.com/
+The application is located on https://trainslator.herokuapp.com/ <sup>*</sup>
+
+<sup>*</sup> Please notice that it takes 1 - 3 minutes to load the app, and sometimes you can see ```Application Error``` on the screen. The reason is that Heroku has memory restrictions - 500GB per application and this application is larger (after importing all the dependencies and loading models). We are aware that Heroku is not a proper platform for deploying the machine learning applications and working on this issue.
 
 The project description and web-presentation is located on https://gryazzz.github.io/nlt-presentation/
 
 **Team Members:**
 
-- Christina Park
-- Malvica Mathur
-- Ed Ali
-- Sonya Smirnova
-- Abubeker Ali
+- Christina Park: idea, language model training
+- Malvica Mathur: language model training, design, web-presentation
+- Ed Ali: language model training, AWS machine learning application
+- Sonya Smirnova: data preparation, haiku model training, application developing, front-end, back-end, deployment to Heroku
+- Abubeker Ali: language model adjusting, web-presentation
 
 
 **Tools:**
