@@ -5,6 +5,11 @@
 - Implement a haiku generator using character-level multi-layer Recurrent Neural Network model.
 - Deploy the application to Heroku.
 
+***Results:***
+- Language Model was trained on 100 000 pairs for each language (English - Spanish and English - French) and is able to translate short phrases like 'where is the bathroom', 'give me a fork', 'I like to swim' etc.
+- Haiku Model generates haiku, that sound close to the haiku rules.
+- Application was deployed to Heroku, see (<sup>*</sup>) below.
+
 ## Requirements
 
 ```Python==3.6```\
@@ -40,7 +45,7 @@ If Everything works, the app is ready to be deployed on Heroku.
 
 The application is located on https://trainslator.herokuapp.com/ <sup>*</sup>
 
-<sup>*</sup> Please notice that it takes 1 - 3 minutes to load the app, and sometimes you can see ```Application Error``` on the screen. The reason is that Heroku has memory restrictions - 500GB per application and this application is larger (after importing all the dependencies and loading models). We are aware that Heroku is not a proper platform for deploying the machine learning applications and working on this issue.
+<sup>*</sup> Please notice that it takes **3 - 5 minutes!!** to load the app, and sometimes you can see ```Application Error``` on the screen. The reason is that Heroku has memory restrictions - 500GB per application and this application is larger (after importing all the dependencies and loading models). We are aware that Heroku is not a proper platform for deploying the machine learning applications and working on this issue.
 
 The project description and web-presentation is located on https://gryazzz.github.io/nlt-presentation/
 
