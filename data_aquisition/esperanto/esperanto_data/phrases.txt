@@ -1,0 +1,670 @@
+salutations	salutoj
+hello!	saluton!
+welcome!	bonvenon!
+good  morning!	bonan  matenon!
+good  evening!	bonan  vesperon!
+goodbye!	ĝis  la revido!
+everyday expressions	ĉiutagaj esprimoj
+yes.	jes.
+no.	ne.
+ok	bone.
+really?	ĉu?
+please.	bonvole.
+thank  you.	dankon.
+thank  you very much.	multan  dankon.
+you're  welcome.	ne  dankinde.
+i  don't know.	mi  ne scias.
+i  think so.	mi  pensas ke jes.
+i  don't think so.	mi  pensas ke ne.
+what  do you think?	kion  vi pensas?
+why  not?	kial  ne?
+are  you sure?	ĉu  vi certas?
+its  fine.	ĝi  estas bona.
+certainly.	certe.
+maybe.	eble.
+of  course.	kompreneble.
+is  it possible?	ĉu  vere?
+i'm  very grateful.	mi  estas ege dankema.
+it  doesn't matter.	ne  gravas.
+good  luck!	bonan  ŝancon!
+be  careful.	estu  singarda.
+look  at this!	vidu  ĉi tion!
+listen  to this!	aŭskultu  ĉi tion!
+come  here!	venu!
+come  with me!	venu  kun mi!
+what  is that?	kio  estas tio?
+what  is this?	kio  estas tio ĉi?
+what  are you doing?	kion  vi faras?
+how  do you say that in esperanto?	kiel  oni diras tion en esperanto?
+what's  it like?	kia  ĝi estas?
+do  you like it?	ĉu  vi ŝatas ĝin?
+it  is beautiful. delicious  wonderful  interesting  exciting	ĝi  estas bela.  bongusta  bonega  interesa  ekscita
+where  is the bathroom?	kie  estas la necesejo?
+introductions	interkonatiĝoj
+my  name is karlo.	mi  nomiĝas karlo.
+what  is your name?	kiel  vi nomiĝas?
+what  is his name?	kiel  li nomiĝas?
+what  is her name?	kiel  ŝi nomiĝas?
+pleased  to meet you.	estas  plezuro renkonti vin.
+i've  heard much about you.	mi  aŭdis multon pri vi.
+how  are you?	kiel  vi fartas?
+fine,  thanks, and you?	bone,  kaj vi?
+how  are things?	kiel  fartas aferoj?
+here  is my card.	jen  mia karto.
+where  are you from?	de  kie vi estas?
+i  am from the u.s.a. britain  england  scotland  wales  canada  australia  ireland  new  zealand	mi  estas de usono.  britio  anglio  skotio  kimrio  kanado  aŭstralio  irlando  nov-zelando
+where  do you live?	kie  vi loĝas?
+i  live in chicago.	mi  loĝas en ĉikago.
+do  you speak esperanto? english?	ĉu  vi parolas esperanton? la anglan?
+yes,  a little.	jes,  iomete.
+please  speak slowly.	bonvolu  paroli malrapide.
+do  you understand?	ĉu  vi komprenas?
+i  don't understand.	mi  ne komprenas.
+please  repeat.	ripetu,  bonvole.
+excuse  me.	pardonu.
+are  you mrs. king?	ĉu  vi estas sinjorino king?
+let  me introduce mr. king.  my  colleague my  colleagues my  friend my  friends	mi  prezentu sinjoron king. mian kolegon  miajn kolegojn  mian amikon  miajn amikojn
+i  am here on business as  a tourist to  study	mi  estas ĉi tie por komerco.  turisme  por studi
+where  are you staying?	kie  vi gastas?
+i  am at the green hotel.	mi  gastas ĉe la verda hotelo.
+have  you been in germany before?	ĉu  vi iam antaŭe estis en germanio?
+this  is my first visit to italy.	jen  mia unua vizito en italio.
+are  you married?	ĉu  vi estas edziĝinta?
+how  is your wife? husband  mother  father  daughter  son  sister  brother	kiel fartas via edzino?  edzo  patrino  patro  filino  filo  fratino  frato
+best  wishes to your family!	ĉion  bonan al via familio!
+would  you like to come to my house on saturday?	ĉu  vi ŝatus veni al mia domo ĉi-sabate?
+would  you like to come for lunch?  dinner tea	ĉu  vi volas veni por tagmanĝi?  vespermanĝi  teumi
+where  are you going?	kien  vi iras?
+i'm  going to work.  shopping	mi  iras al laborejo.  butikumi
+could  i come with?	ĉu  mi povas iri kun vi?
+are  you ready?	ĉu  vi pretas?
+were  in a hurry.	ni  devas rapidumi.
+is  stefano home?	ĉu  stefano ĉe-hejmas?
+she's  not here.	ŝi  ne estas ĉi tie.
+he's  not here.	li  ne estas ĉi tie.
+when  will he be back?	kiam  li revenos?
+when  will she be back?	kiam  ŝi revenos?
+who  is it?	kiu  estas?
+come  in.	envenu.
+have  a seat.	bonvolu  sidiĝi.
+make  yourself at home.	sentigu  vin hejme.
+would  you like something to eat drink?	ĉu  vi volas ion por manĝi?  trinki
+do  you smoke?	ĉu  vi fumas?
+i  don't smoke.	mi  ne fumas.
+could  you please not smoke?	bonvolu  ne fumi, mi petas.
+thank  you for your hospitality.	dankon  pro via gastamo.
+please  come again.	bonvolu  reveni!
+stay  in touch.	restu  en kontakto.
+inquiries on the street	enketoj
+where  is the park? u.s.  embassy	kie  estas la parko?  ambasadorejo usona?
+which  way to the temple?  church  mosque	kiel  atingi la templon?  preĝejon  moskeon
+what  is the name of this street?	kiel  nomiĝas tiu ĉi strato?
+how  far away is the eiffel tower?	kiom  longe for estas la ejfel-turo?
+which  way is north? south  east  west	kiu  vojo iras norden?  suden  orienten  okcidenten
+i'm  lost.	mi  perdiĝis.
+where  am i?	kie  mi estas?
+please  write it down.	bonvolu  skribi ĝin.
+turn  right.	turnu  dekstren.
+turn  left.	turnu  maldekstren.
+go  straight.	iru antaŭen.
+go  back.	iru  malantaŭen.
+numbers	numeroj
+zero	nulo
+one	unu
+two	du
+three	tri
+four	kvar
+five	kvin
+six	ses
+seven	sep
+eight	ok
+nine	naŭ
+ten	dek
+eleven	dek  unu
+twelve	dek  du
+thirteen	dek  tri
+fourteen	dek  kvar
+fifteen	dek  kvin
+sixteen	dek  ses
+seventeen	dek  sep
+eighteen	dek  ok
+nineteen	dek  naŭ
+twenty	du  dek
+twenty-one	du  dek unu
+twenty-two	du  dek du
+thirty	tri  dek
+forty	kvar  dek
+fifty	kvin  dek
+sixty	ses  dek
+seventy	sep  dek
+eighty	ok  dek
+ninety	naŭ  dek
+one  hundred	cent
+two  hundred	du  cent
+one  thousand	mil
+two  thousand	du  mil
+one  million	miliono
+two  million	du  milionoj
+once	unufoje
+twice	dufoje
+ten  percent	dek  procente
+how  old are you?	kiom  vi aĝas?
+i  am 28.	mi  aĝas du dek ok jarojn.
+time	la horo
+a  second	sekundo
+a  minute	minuto
+an  hour	horo
+three  hours	tri  horoj
+what  time is it?	kioma  estas (la horo)?
+it  is two oclock.	estas  la dua.
+it's  ten to five.	estas  dek antaŭ la kvina.
+it's  quarter past nine.	estas  kvarono antaŭ la naŭa.
+it's  half past one.	estas  la unua kaj duono.
+it's  midnight.	estas  noktomezo.
+it's  noon.	estas  tagmezo.
+it's  early.	estas  frue.
+it's  late.	estas  malfrue.
+shall  we meet tomorrow at noon? at  ten in  the afternoon this  evening	ĉu  ni renkontu morgaŭ je tagmezo?  je la deka  posttagmeze  ĉi-vespere
+days of the week	tagoj de l semajno
+monday	lundo
+tuesday	mardo
+wednesday	merkredo
+thursday	ĵaŭdo
+friday	vendredo
+saturday	sabato
+sunday	dimanĉo
+everyday	ĉiutage
+i  leave today.  tomorrow  the  day after tomorrow next week	mi  foriros hodiaŭ.  morgaŭ  postmorgaŭ  venont-semajne
+i  arrived yesterday. the  day before yesterday  last  week the  other day	mi  alvenis hieraŭ.  antaŭhieraŭ  pasint-semajne  antaŭ kelkaj tagoj
+months of the year	monatoj de l jaro
+january	januaro
+february	februaro
+march	marto
+april	aprilo
+may	majo
+june	junio
+july	julio
+august	aŭgusto
+september	septembro
+october	oktobro
+november	novembro
+december	decembro
+what  day is it today?	kiu  tago estas hodiaŭ?
+what  is today's date?	kio  estas la dato?
+it  is the third of may.	estas  la tria de majo.
+this  year	ĉi-jare
+next  year	venont-jare
+last  year	pasint-jare
+this  month	ĉi-monate
+next  month	venont-monate
+last  month	pasint-monate
+it's  spring. summer  autumn  winter	estas  printempo.  somero  aŭtuno  vintro
+weather	vetero
+how  is the weather?	kia  estas la vetero?
+its  hot today. sunny  cold  windy	estas  varme hodiaŭ  sune  malvarme  vente
+how  will the weather be tomorrow?	kia  estos la vetero morgaŭ?
+tomorrow  it will be cloudy. cool	morgaŭ  estos nube.  milde
+it's  raining.	pluvas.
+it's  snowing.	neĝas.
+it's  drizzling.	pluvetas.
+colors	koloroj
+what  color is it?	kiakolora  ĝi estas?
+it's  black. blue  brown  gray  green  pink  purple  red  white  yellow	ĝi  estas nigra.  blua  bruna  griza  verda  roza  purpura  ruĝa  blanka  flava
+i  like this color.	mi  ŝatas tiun koloron.
+at a hotel or house	ĉe  hotelo aŭ domo
+i  would like to reserve a room	mi volas rezervi ĉambron.
+i  have a reservation.	mi rezervis ĉambron.
+do  you have a double room? single	ĉu vi havas dulitan ĉambron?  unulitan
+do  you have a room with a bath?	ĉu vi havas ĉambron kun banejo?
+does  the room have a shower? air  conditioning twin  beds	ĉu la ĉambro havas duŝejon? klimatizilon  unulokajn litojn
+what  is the rate per day?	kiom estas la portaga kosto?
+is  dinner included?	ĉu vespermanĝo estas inkludita?
+i  will be staying for two nights.	mi gastos du noktojn.
+do  you have a better room? cheaper  larger  smaller  quiter	ĉu vi havas pli bonan ĉambron?  malpli kostan  pli grandan  malpli grandan  pli trankvilan
+please  wake me at 6 a.m.	bonvolu vekigi mi je la sesa antaŭtagmeze.
+could  i have the key please?	donu la ŝlosilon, mi petas.
+on  what floor is my room?	sur kioma etaĝo estas mia ĉambro?
+take  the elevator.	iru per lifto.
+go  up the stairs. down	iru supren per ŝtuparo.  malsupren
+there  is no hot water.	mankas varma akvo.
+could  you get me some ice?  another  blanket  some  drinking water  a  drinking glass  an  electric fan  a  heater  an  iron  a  pillow  some  shampoo  some  soap  some  toilet paper  a  towel	ĉu vi bonvolus doni iom da glacio?  alian kovrilon  iom da trinkakvo  glason  ventumilon  hejtilon  gladilon  kusenon  iom da ŝampuo  iom da sapo  necesej-paperon  tukon
+can  we still order breakfast?	ĉu ni ankoraŭ povas mendi matenmanĝon?
+is  it possible to have these clothes washed?	ĉu oni povas lavi tiujn ĉi vestaĵojn?
+please  have these clothes dry-cleaned.	bonvolu sendi tiujn ĉi vestaĵojn por sek-lavado.
+may  i have the bill please?	la fakturon, mi petas.
+i  wish to speak to the manager.	mi volas paroli kun la hotelestro.
+please  call for a taxi.	bonvolu alvoki taksion.
+personal comfort	persona  komforto
+what's  the matter?	kio estas la problemo?
+is  everything all right?	ĉu ĉio estas en ordo?
+i'm  cold. hot  thirsty  hungry  tired  angry  fine  happy  sad	mi estas malvarma.  varma  soifa  malsata  laca  kolera  bona  feliĉa  malfeliĉa
+please  leave me alone.	bonvolu lasi min.
+money	mono
+where  is the bank?	kie estas la banko?
+where  can i find an atm machine?	kie troviĝas bankmaŝino?
+i  need to get some money from an atm machine	mi devas elmurigi monon.
+where  can i exchange foreign currency?	kie mi povas ŝanĝi monon?
+what  is today's dollar exchange rate?	kiom estas la kurzo?
+please  change this into euros. forints  francs  pesos  pounds  rubles  yen  złoty  coins	bonvolu ŝanĝi por eŭroj.  forintoj  frankoj  pesoj  pundoj  rubloj  enoj  zlotoj  moneroj
+do  you accept credit cards? travelers  checks	ĉu vi akceptas kredit-kartojn?  vojaĝ-ĉekojn
+food and drink	manĝaĵoj  kaj trinkaĵoj
+where  is the supermarket? store  butcher  shop bakery	kie estas la superbazaro? vendejo  viandejo  bakistejo
+where  can i buy fruit? apples  bananas  cherries  figs  grapes  grapefruit  lemons  limes  mangoes  oranges  papaya  peaches  pears  pineapples  plums  raisins  strawberries  watermelon	kie mi povas aĉeti fruktojn? pomojn  bananojn  ĉerizojn  figojn  vinberojn  grapfruktojn  citronojn  limonojn  mangojn  oranĝojn  papajojn  persikojn  pirojn  ananasojn  prunojn  sekvinberojn  fragojn  akvomelonojn
+i  prefer vegetables. beans  broccoli  cabbage  carrots  cauliflower  cucumbers  eggplant  garlic  green  bell peppers lettuce  mushrooms  olives  onions  peas  potatoes  tomatoes	mi preferas legomojn.  fazeolojn  brokolon  brasikon  karotojn  florbrasikon  kukumojn  melongenon  ajlon  paprikojn  laktukon  fungojn  olivojn  cepojn  pizojn  terpomojn  tomatojn
+i  would like to buy some beef. bacon  chicken  ham  lamb  mutton  pork  sausage  veal  venison	mi volas aĉeti bovaĵon.  lardon  kokinaĵon  ŝinkon  ŝafidaĵon  ŝafaĵon  porkaĵon  kolbasojn  bovidaĵon  cervaĵon
+i  like seafood.  clams  crab  lobster  oysters  shrimp	mi ŝatas marmanĝaĵojn.  pektenojn  krabaĵon  omaron  ojstrojn  salikokojn
+i  need bread. butter  a  cake candy  cheese  chocolate  cookies  cream  milk  noodles  nuts  pasta  peanuts  rice  a  sandwich yogurt	mi bezonas panon.  buteron  kukon  dolĉaĵojn  fromaĝon  ĉokolaton  keksojn  or biskvitojn  kremon  lakton  nudlojn  nuksojn  pastaĵon  ternuksojn  or  arakidojn  rizojn  sandviĉon  johurton
+where  can i buy soda water? a  bottle of water	kie mi povas aĉeti sodakvon?  botelon da akvo
+i  prefer non-carbonated water.	mi preferas akvon sen gaso.
+i'd like eggs.	mi volas ovojn.
+may  i have tea? coffee	teon,  mi petas  kafon
+with  sugar	kun sukero
+with  milk	kun lakto
+with  non-dairy creamer	kun lakto-polvoro
+with  lemon	kun citrono
+with  honey	kun mielo
+with  cream	kun kremo
+black	negran
+would  you like some lemonade? fruit  juice orange  juice  apple  juice soda	ĉu vi deziras iom da limonado?  frukto-suko  oranĝsuko  pomsuko  sodo
+i'd  like a beer, please. white wine red  wine champagne  irish  cream liquor vodka  whiskey	bieron,  mi petas  blankan vinon  ruĝan vinon  ĉampanon  irlandan kremlikvoron  vodkon  viskion
+on  the rocks	kun glacio
+straight  up	sen glacio
+with  a twist	kun citron-ŝelero
+and  cola	kun kolao
+at the restaurant	ĉe  restoracio
+could  you recommend an inexpensive restaurant?	ĉu vi povus rekomendi malaltkostan restoracion?
+could  you bring me another bowl of rice?	bonvolu alporti alian bovlon da rizoj.
+may  i see a menu?	ĉu mi povas vidi menuon?
+do  they have vegetarian dishes?	ĉu ili havas vegetaranajn manĝaĵojn?
+enjoy!	bonan apetiton!
+i  need a knife. a  fork a  spoon chopsticks  a  plate a  napkin a  cup a  bowl a  glass of water a  wine glass salt  pepper  mustard  vinegar	mi bezonas tranĉilon.  forkon  kuleron  manĝbastonetojn  teleron  mantukon  tason  bovlon  glason da akvo  vinglason  salon  paprikaĵon  mustardon  vinagron
+i  would like to order some soup.	mi volas mendi iom da supo.
+check,  please.	la fakturon, mi petas.
+i'll  pay for it.	mi pripagos.
+i'll  leave a tip.	mi lasos trinkmonon.
+shopping	butikumado
+can  i help you?	ĉu mi povas helpi vin?
+where  can i buy souvenirs? camera  film videotape  magazines  an  english newspaper a  book stationery	kie mi povas aĉeti memoraĵojn?  foto-filmon  vidbendon  gazetojn  ĵurnalon en la angla  libron  papervarojn
+i  am going to the florist. book  store pharmacy  department  store	mi iras al florejo.  librovendejo  apoteko  magazeno
+how  much does it cost?	kiom ĝi kostas?
+i  bought a jacket. some  pants a  shirt/a blouse a  sweater a  skirt a  dress a  coat a  raincoat a  bathing suit a  pair of shoes	mi aĉetis jakon.  pantalonon  ĉemizon  puloveron  jupon  robon  mantelon  pluvjakon  bankostumo  paron da ŝuoj
+leisure	distre
+would  you like to see the city?	ĉu vi ŝatus vidi la urbon?
+i  will take you on a tour.	mi ĉiĉeronos vin.
+i  will drive you there.	mi ŝoferos vin tien.
+i  would like to go to the mountains. beach  pool  country  caves	mi volas iri al la montoj. plaĝo  naĝejo  kamparo  kavoj
+could  you take a photo of us?	ĉu vi fotus nin?
+i'd  like to get two tickets to the ballet. concert  opera	du biletojn al la baledo, mi petas.  koncerto  opero
+they  are out of tickets.	ne plu aĉeteblas biletojn.
+i  like the theater.  the  cinema movies  the  circus to  watch t.v. to  go to museums	mi ŝatas la teatron. la kinon  filmojn  la cirkon  spekti televidon  iri al muzeoj
+at  what time does the play begin? tour	je kioma horo komenciĝas la teatraĵo?  rondvojaĝo
+what  film is playing tonight?	kiu filmo spekteblas ĉi-nokte?
+where  is the ticket office?	kie estas la biletejo?
+is there a bar  nearby? discotheque	ĉu troviĝas drinkejo proksime?  diskoteko
+where do i register?	kie mi enregistriĝas?
+i will provide for my own logding.	mi estas memzorganto.
+i am a member of uea.	mi estas ano de uea.
+what is the fee?	kiom estas la kotizo?
+how much do i owe?	kiom mi ŝuldas?
+where is the message board?	kie estas la mesaĝtabulo?
+when does that meeting begin?	kiam komenciĝos tiu programero?
+at what time does the food hall open? close	je kioma horo malfermiĝos la manĝejo?  fermiĝos
+please don't speak other languages!	ne krokodilu!
+post office	poŝtoficejo
+where is the post  office?	kie estas la  poŝtoficejo?
+how much is it to send a  letter to the usa?	kiom kostas sendi  leteron al usono?
+can i have money wired  to me here?	ĉu mi povas kolekti  elektronikan montranssendon ĉi tie?
+i'd like to buy stamps,  please  postcards  an envelope	mi volas aĉeti poŝtmarkojn.  poŝtkartojn  koverton
+i'd like to send this by registered mail. by air mail by express mail overnight	mi volas sendi tiun ĉi  per registropoŝto. per aerpoŝto per eksprespoŝto transnokte
+i'd like to send money.	mi volas transsendi  monon.
+when will the mail  arrive?	kiam alvenos la poŝto?
+where is there a  mailbox?	kie estas poŝtkesto?
+this contains printed  matter.  fragile material	ĝi enhavas elpresaĵojn.  delikataĵojn.
+at the office	ĉe oficejo
+where can i make  photocopies?	kie mi povas fotokopii?
+may i use the computer?  fax machine cellular telephone	ĉu mi povas uzi la komputilon? faksmaŝinon  or telekopiilon poŝtelefonon
+how much do you charge  per page?	kiom estas la porpaĝa  kosto?
+could i send a fax?	ĉu mi povas sendi fakson?
+the telephone	la telefono
+may i use the telephone?	ĉu mi povas uzi la  telefonon?
+where is the telephone  directory?	kie estas telefonlibro?
+how do i make a call to  washington?	kiel mi povas telefoni  al vaŝingtono?
+i'd like to make a  collect call. an international a long-distance	mi volas fari  rembursan vokon. internacian  longdistancan
+what is the area code  for havana?	kio estas la regionkodo  por havano?
+the line is busy.	la linio estas okupata.
+hello?	ha lo?
+who's speaking?	kiu parolas?
+it's sven.	estas sven.
+may i speak to maria?	ĉu mi povas paroli kun  maria?
+could you take a  message?	ĉu vi bonvolus doni  mesaĝon?
+transportation	transporto
+have a good trip!	bonan vojaĝon!
+where can i rent a car? bicycle  motorcycle	kie mi povas lui aŭton? biciklon  motorciklon
+where can i board the  ferry? board the boat	kie mi povas surpramiĝi?  surŝipiĝi
+where is the subway  station?  train station train stop bus stop	kie estas la metrohaltejo?  stacidomo  trajnhaltejo  aŭtobushaltejo
+i need a porter. luggage cart	mi bezonas portiston.  ĉaron
+i'd like a schedule,  please.	horaron, mi petas.
+how much is a one-way  ticket?  round-trip	kiom kostas bileto unudirekta?  tien-reen
+how much is a first  class ticket? second-class  sleeper	kiom kostas unuaklasan  bileton?  duaklasan  dorman
+could you tell me when  we reach tokyo?	bonvolu informi min kiam  ni atingas tokion.
+is there a dining car? sleeping car	ĉu estas manĝvagono?  dormvagono
+when does the train  leave istanbul?	kiam la trajno ekos el  istanbulo?
+when does the train  arrive in barcelona?	kiam la trajno alvenos  en barcelono?
+it is on time?	ĉu ĝi estas akurata?
+does this train go to allahabad?	ĉu tiu ĉi trajno iras al  alahabado?
+how long will we be  stopped here?	kiom longe ni haltos ĉi  tie?
+at the airport	ĉe flughaveno
+which is the gate for domestic  flights? international	kie estas la pordo por enlandaj  flugoj?  internaciaj
+how long will the flight  to nairobi be delayed?	kiom longe prokrastiĝos  la flugo al najrobio?
+i'd like to sit in the smoking  section non-smoking	mi volas sidi en la  sekcio por fumantoj.  nefumantoj
+please call the flight attendant.	bonvolu alvoki la  serviston.
+at customs	ĉe dogano
+this is my luggage.  handbag  briefcase	jen mia valizo. mansako  portoteko
+i have nothing to  declare.	mi havas nenion por  deklari.
+please open your  bag.  close	bonvolu malfermi  vian sakon. fermi
+i have some perfume. cigarettes gifts personal belongings	mi havas parfumon.  cigaredojn donacojn personajn posedaĵojn
+in the car	en aŭto
+how many kilometers to  oslo?	kiom da kilometroj ĝis  oslo?
+can you direct me to the  highway? a gas station  downtown	bonvolu direkti min al ŝoseo.  benzinejo  la urbocentro
+this doesn't work.	tiu ĉi ne funkcias.
+please repair the tire.	bonvolu ripari la  pneŭon.
+where is the hospital?	kie estas la  malsanulejo?
+call an ambulance.  a doctor  the police  the fire department	alvoku krizaŭton.  doktoron  la policon  la fajrobrigadon
+fire!	fajro!
+help!	helpu!
+this is an emergency!	estas krizo!
+it's dangerous!	estas danĝere!
+i'm sick.	mi estas malsana.
+i need an interpreter.	mi bezonas tradukiston.
+i've lost my family.  child  passport	mi perdis mian familion.  infanon  pasporton
+my wallet has been  stolen.	iu ŝtelis mian  monbilujon.
+i'm allergic to  penicillin.	mi estas alergia al  penicilino.
+i'm diabetic.	mi estas diabeta.
+my arm hurts.  back  foot  hand  head  leg  neck  stomach	dolorigas min mia brako.  dorso  piedo  mano  kapo  gambo  kolo  stomako
+my knees hurt.  ankles  eyes	dolorigas min miaj genuoj.  maleoloj  okuloj
+thank you for your help.	dankon pro via helpo.
+from students' essays	el eseoj de studentoj
+his thoughts tumbled in his head, making and breaking alliances like underpants in a washing machine.	liaj pensoj kunfalis en la kapo, farante kaj rompante aliancojn kiel kalsono en lavmaŝino
+the little boat slowly drifted across the pond in exactly the same way a bowling ball wouldn't.	la malgranda boato malrapide drivis trans la lageto, samkiel keglopilko ne drivus.
+john and mary had never met. they were like two humming-birds who had also never met.	johano kaj maria neniam jam renkontiĝis.  ili similis al du kolibroj, kiuj ankaŭ neniam jam renkontiĝis.
+she had a deep, throaty laugh, like the sound a dog makes just before it throws up.	ŝi havis malaltan, ĝorĝan ridon, kiel tiu sono kiun faras hundo ĵus antaŭ ol ĝi vomas.
+the red brick wall was the color of a brick-red crayon.	la ruĝa brika muro havis la koloron de brik-ruĝa paŝtelo.
+he was deeply in love.  when she spoke, he thought he heard bells, as if she were a truck reversing.	li ege enamiĝis.  kiam ŝi parolis, li pensis, ke li aŭdas sonorilojn, kvazaŭ ŝi estus ŝarĝaŭto retroiranta.
+he fell twelve stories and hit the pavement like a paper bag filled with vegetable soup.	li falis dekdu etaĝojn kaj trafis la trotuaron kiel papersako plena de legomsupo.
+he was as lame as a duck.  not the metaphorical lame duck, but a real duck that was actually lame.  maybe from stepping on a landmine or something.	li estis tiel lama kiel anaso.  ne la metafora lama anaso, sed reala anaso, kiu vere lamis.  eble pro tretado sur kontaktmino aŭ io.
+granddad had a mind like a steel trap - one that had been left out so long it had rusted shut.	avo havis menson kiel ŝtalkaptilon – lasitan ekstere tiom longe ke ĝi fermiĝis pro rusto.
+disappearing languages	lingvoj malaperantaj
+some linguists complain about the unprecedented disappearance of minority languages throughout the world.  the phenomenon is compared with the recent mass extermination of animals.  although parallels undoubtedly exist, as a biologist i want to comment on important differences between these two phenomena.	kelkaj lingvistoj plendas pri la neprecedenta malapero de minoritataj lingvoj tra la mondo.  oni komparas tiun fenomenon kun la lastatempa amasa ekstermo de bestoj.  kvankam sendube ekzistas paraleloj, mi, kiel biologo, deziras komenti pri gravaj malsimilecoj inter la du fenomenoj.
+we should accept that in general biological extinction represents a completely irretrievable loss of unique, sometimes beautiful or certainly interesting animals and consequently a decrease in biodiversity.  and biodiversity influences the stability of the ecosystem.	ni akceptu, ke ĝenerale biologiaj estingoj reprezentas tute neretroveblajn perdojn de unikaj, kelkfoje belaj, utilaj aŭ certe interesaj plantoj aŭ bestoj kaj sekve malpliigon de biodiverseco.  kaj biodiverseco influas la stabilecon de ekosistemoj.
+however when one discusses the diversity of languages that means only the one recognizes the existence of various languages.  it would be difficult to support the idea that linguistic diversity would help the stability of anything at all.	tamen kiam oni diskutas pri la diversaj lingvoj, tio signifas nur ke oni agoskas la ekziston de diversaj lingvoj.  estus malfacile subteni la ideon ke lingva diverseco helpos je stabiligo de io ajn.
+if a language disappears, that doesn't mean that the human concepts and way of thinking disappear as well.	se lingvo malaperas, tio ne signifas ke la homaj konceptoj kaj pensmanieroj samtempe malaperas.
+language inequality in international relations	lingva neegaleco en internaciaj aferoj
+any information about esperanto is pointless if the target group is unaware of the existence of linguistic inequality and the undemocratic nature of the present international linguistic order.	ĉia informado pri esperanto estas senperspektiva, se la celgrupo ne konscias pri la ekzisto de lingva neegaleco kaj la nedemokratieco de la nuna internacia lingva ordo.
+it follows that the first aim of information must be to reveal to the general public the fundamental lack of democracy in a communication system which gives lifelong privilege to some while demanding from others years of effort to acquire an imperfect knowledge of a particular language.	la unua celo de la informado devas sekve esti ke generala publiko malkovru la fundamentan nedemokratiecon de komunika sistemo, kiu tutvive privilegias iujn sed postulas de aliaj jarojn da penoj por atingi tamen malperfektan lingoscion.
+in attempting to start a discussion on linguistic inequality and language rights, many potential allies with similar aims can be found.	en la strebado estigi diskuton pri lingva egaleco kaj lingvaj rajtoj troveblas multaj potencialaj aliancanoj kun similaj celoj.
+there are many scientific works on the effects of linguistic inequality at international, local and individual levels.	ekzistas multaj sciencaj verkoj pri la efikoj de lingva neegaleco je tutmonda, loka kaj individua niveloj.
+for those responsible for information, the subject is worth studying carefully.  to change reality it is first necessary to get to know it in depth.	indas, ke respondeculoj pri informado bone trastudu la temon.  por ŝanĝi la realaĵojn necesas unue ĝisfunde ekkoni ilin.
+diversity: opportunity or threat?	diverseco:  ŝanco aŭ minaco?
+the world wide polemic about globalization shows up the tension between two different concepts about our world.	la tutmonda polemiko pri tutmondismo reliefigas la streĉitecon inter du malsamaj konceptoj de nia mondo.
+in the opinion of some, the integration of the world caused by advances in technology, particularly in communication, cannot be stopped:  the opening of markets, the creation of an ever larger class of educated people whose perspective extends beyond national boundaries, the gradual appearance of an internationalized culture and internationalized language, all of this is inevitable, even desirable.	laŭ ies opinio la avanco de teknologio, precipe en komunikado, ne haltigeble integrigas la mondon: la malfermiĝo de merkatoj, la kreiĝo de ĉiam pli granda edukita klaso de homoj, kies perspektivo etendiĝis preter la naciaj limoj, la iompostioma apero de internaciigita kulturo kaj internaciigita lingvo, ĉio ĉi estas neevitebla, eĉ dezirinda.
+ili krome asertas, ke la homoj havas rajton ĝui la propran kulturon, paroli la propran lingvon kaj vivi la propran vivon laŭ valoroj ne nepre similaj al tiuj de ĉiuj aliaj.	aliaj opinias, ke tiu tutmonda, globala socio, alportas grandajn negativajn elementojn.  ili argumentas, ke la avantaĝoj de kelakj estas aĉetataj je la kosto de multaj, kiuj restas malriĉaj kaj ekspluataj.
+cats - a new therapy?	katoj - ĉu nova terapio?
+sonic communication from tigers and giraffes may be the new wave of alternative medicine.  a study from the usa, fauna communications, has proven that animals communicate infrasonically .  .	sona komunikado de tigroj kaj ĝirafoj eble estos la nova modo de alternativa medicino.  studaĵo el usono, faŭna komunikado, pruvis, ke bestoj interkomunikas infrasone.  .
+most interesting to some may be the finding that a cat's purr matches vibrations and frequencies that promote bone growth, healing of fractures, ligaments and torn muscles, reduction of swelling and alleviation of pain.	plej interese al iuj eble estas la eltrovo ke la ronronado de kato agordiĝas kun vibradoj kaj frekvencoj kiuj akcelas ostokreskadon, resaniĝon de rompoj, ligamentoj kaj ŝiritaj muskoloj, malpliigon de ŝvelado kaj mildigon de doloroj.
+the larger of the felines emit strong harmonics said to generate muscle strength, increase joint mobility and relieve pain.  is this why they have nine lives?	la plej grandaj el la feledoj eligas fortajn harmonojn kiuj, laŭ onidiro, produktas muskolan forton, pliigas artikan moviĝeblon kaj mildigas doloron.  ĉu pro tio ili havas naŭ vivojn?
+scientists are looking for ways to incorporate these findings into therapies for osteoporosis and to promote bone growth in the elderly.	sciencistoj serĉas manierojn enkorpigi tiujn eltrovojn en terapiojn por osteoporozo kaj akceli ostokreskon en gemaljunuloj.
+so, if you want a healthy old age, get a cat!	do, se vi volas sanan maljunecon, akiru katon!
+advice for translating songs	konsiloj pri tradukado de kantoj
+one should pay careful attention to each syllable having its own place in the music.  several syllables should not be twisted and forced together into a single note.  on the other hand, if in the original a syllable is sung over several notes, additional syllables can sometimes be added.	oni zorge atentu, ke ĉiu silabo havu sian lokon en la muziko.  oni ne torde kunpremu plurajn silabojn en unu solan noton.  aliflanke, se en la originalo unu silabo estas kantita per pluraj notoj, oni kelkfoje povus aldoni silabojn.
+in pop/rock music the use of syllables is often rather less rigid: the singer varies the number of syllables in musically identical places.  then the translator too can allow himself to play around with the number of syllables and not rigorously follow the capriciousness of the original..	en pop-roka muziko oni ofte emas silabumi iom malpli strikte: la kantisto variigas la silabonombron en muzike identaj lokoj.  tiam ankaŭ la tradukisto povus permesi al si ludeti per la silabonombro kaj ne rigore sekvi la kapricojn de la originalo….
+with songs, one should first of all pay attention to the rhythm and rhyme. the content is less rigid. the same ideas can often be expressed with different words.	ĉe kantoj plej unue atentu ritmon kaj rimon.  la enhavo estas pli fleksebla.  per aliaj vortoj oni ofte povas esprimi la samajn ideojn.  oni evitu tro da signife malplenaj vortoj .
+in songs, as far as possible one should use language which is used in normal prose. if that is obviously impossible, be aware that in songs the use of language can be more liberal than in ordinary situations.	en kantoj oni laŭeble uzu lingvaĵon kiun oni uzas ankaŭ en normala prozo.  se tio montriĝas neebla, oni konsciu, ke en kantoj la lingvouzo povas esti pli libera ol en normalaj kuntekstoj.
+no longer snow on kilimanjaro	ne plu neĝo sur kilimanĝaro
+the largest free-standing mountain in the world is losing its brilliant distinguishing feature by which it is recognized from afar.  since 1912 the ice cover at the top of the 5895 m tall, no longer active, volcano in northern tanzania has shriveled from an area of 12 km2 to the present two square kilometers.	la plej granda libere staranta monto de la mondo perdas sian longdistancan brilantan ekkonilon: la neĝo sur kilimanĝaro degelas.  ekde 1912 ŝrumpas la glacikovraĵo sur la montsupro de la 5895 m alta, ne plu aktiva, vulkano en la nordo de tanzanio de iama 12 km2 areo al nuntempaj nur du kvadratkilometroj.
+scientists view this as a global tendency.  in the past few years the many ice fields of the himalayas and across the andes as far as antarctica have been studied - and everywhere the ice is shrinking and regressing.  scientists think that global warming is to blame.	sciencistoj rigardas tion mondvasta tendenco.  dum la pasintaj jaroj oni studis la multnombrajn glaciejojn de himalajo, trans andoj ĝis antarktio - kaj ĉie malkreske regresas la glacio.  laŭ la sciencistoj kulpas pri tio la tergloba plivarmiĝado.
+if the greenhouse effect strengthens the snow-cap on the tallest african mountain will have vaporized away by the year 2020. the air temperature will be so high that the ice will not only liquidize, but will sublime directly into water vapor.  that also explains the fact that in spite of the melting ice many rivers in the region are carrying less and less water or completely drying up.	se la forceja efiko plifortiĝas la neĝkovraĵo de la plej alta afrika monto forvaporiĝos jam antaŭ la jaro 2020.  la aertemperaturo estos tiom plialtiĝinta, ke la glacio ne nur likviĝas, sed senpere sublimiĝas en akvovaporon.  tio klarigas ankaŭ la fakton, ke malgraŭ la glacia degelado multaj riveroj en la regiono kondukas ĉiam malpli da akvo aŭ tute sekiĝas.
+dust	polvo
+it moves relentlessly.  attack it, and it scatters and evades you, but the moment your guard is down, it silently regroups – on lampshades and ledges, in corners and crevices.  it charges out at you from under your bed.  no matter how often you shake a rag at it, dust always seems to have the upper hand.	ĝi moviĝas senkompate.  ataku ĝin kaj ĝi disiĝas kaj evitas vin, sed je la momento kiam vi ĉesas singardi, ĝi silente regrupiĝas - sur lampŝirmiloj kaj bretoj, en anguloj kaj fendetoj.  ĝi kuratakas vin el sub via lito.  kiom ajn ofte vi skuas ĉifonon kontraŭ ĝi, ŝajnas ke polvo ĉiam superregas.
+and that’s just in your home. imagine having to look after a larger place, somewhere packed with delicate knick-knacks that are on show day after day, with tens of thousands of people passing through each year.  so vexing is the battle against dust that the people who run historic homes and palaces have made it the subject of systematic scientific scrutiny.	kaj tio estas nur en via hejmo.  imagu ke vi devas prizorgi pli grandan lokon, lokon plenŝtopitan per delikataj bagatelaĵoj ekspoziciataj tagon post tago, kie trapasas kelkdek miloj da homoj ĉiujare.  tiom ĉagrenas la batalo kontraŭ polvo ke tiuj kiuj respondecas pri historiaj domoj kaj palacoj estigis pri ĝi temon de sistema scienca ekzamenado.
+several studies launched in the past few years are attempting to put the study of dust on a scientific footing.  what is it composed of?  how quickly does it accumulate? how damaging is it?  and what is the best way of keeping it under control?	kelkaj esploroj lanĉitaj dum lastatempaj jaroj provas bazi la studon de polvo sur la scienco.  el kio ĝi konsistas?  kiom rapide ĝi amasiĝas?  kiom ĝi difektas?  kaj kio estas la plej bona maniero ĝin regi?
+language and logic	lingvo kaj logiko
+a mathematically precise language presupposes:	matematike preciza lingvo supozigas:
+a strictly unemotional prose style - no figurative use of words;	severe senemocian prozan stilon - nenia figura uzado de vortoj;
+that each word should have just one meaning, strictly fixed within narrow limits;	ke ĉiu vorto havu nur unu signifon, severe fiksitan en malvastaj limoj;
+constant, fixed order of words within the sentence.	konstantan fiksitan ordon de la vortoj en la frazo.
+science needs this kind of precise language and scientists subject the languages used by them to these demands. for science this is not only justifiable, but also necessary. but for art such a language cannot be suitable.	tian precizan lingvon bezonas la scienco, kaj la sciencistoj aplikas la uzatan de ili lingvojn al tiaj postuloj.  por la scienco tio ĉi estas ne nur pravigenda, sed ankaŭ necesa.  sed por la arto tia lingvaĵo ne povas taŭgi.
+very early on zamenhof himself considered this question. this is how he saw the matter: "not only in natural languages, but also in an artificial language, everything used by the majority of good writers must be regarded as good, even if it is not absolutely logical, because if we always demand absolute logic, then the free use of an artificial language will become completely impossible, because the value of long practice will disappear and in the tenth year of using the language, just as in the first year, everyone would have to consider and weigh every word.	tre frue tiu ĉi demando ne estis malatentita de zamenhof mem.  jen kiel li vidis la aferon: "ne sole en la naturaj lingvoj, sed ankaŭ en lingvo artefarita ĉio, kio estas uzata de la plimulto da bonaj verkistoj, devas esti rigardata kiel bona, se ĝi eĉ ne estas absolute logika, ĉar se ni postulos ĉiam nur logikon absolutan, tiam la libera uzado de lingvo artefarita fariĝos tute neebla, ĉar tiam malaperos ĉiu utileco de longa ekzercado kaj en la deka jaro de uzado de la lingvo, kiel en la unua jaro, ĉiu devus konstante tro longe pripensadi kaj pesadi ĉiun sian vorton".
+for want of a dollar a year	pro manko de dolaro jare
+it is a lethal agent that kills more children under the age of five than measles, malaria or aids.  in fact, across the developing world it is the fourth biggest cause of death and disease.  yet you have probably never heard of the problem.	ĝi estas mortigaĵo kiu pli da infanoj malpli ol kvinjara mortigas ol morbilo, malario kaj aidoso.  fakte, tra la disvolviĝanta mondo ĝi estas la kvara plej granda kialo de morto kaj malsano.  tamen verŝajne vi neniam aŭdis pri la problemo.
+...more than a third of humanity have to cook every day on traditional stoves that burn wood, crop residues or dung. and cooking smoke, like cigarette smoke, is a cocktail of poisons including carbon monoxide, nitrogen oxides and carcinogens such as formaldehyde and benzene.  this explains why cooking smoke is thought to kill 1.6 million people every year, mostly women and young children. ....	...pli ol triono da homaro devas kuiri ĉiutage per tradiciaj fornoj kiuj bruligas lignon, plantrestaĵojn aŭ fekaĵon.  kaj kuirfumo, kiel cigaredfumo, estas miksaĵo de venenoj inkluzive de karbona monooksido, nitrogenaj oksidoj kaj kancerogenaĵo kiel formaldehido kaj benzeno.  tio klarigas kial oni pensas ke kuirfumo mortigas 1,6 milionojn da homoj ĉiujare, plejparte virinojn kaj junajn infanojn....
+ but they could afford a stove with a chimney that takes the smoke out of the house.  if the structure of the house makes a chimney impossible, a hood which takes the smoke up into the roof can be almost as good.	 sed ili povus toleri elspezon por forno kun kamentubo kiu kondukas fumon ekster la domon.   se la konstruo de la domo estas tia ke kamentubo ne eblas, preskaŭ egale bonas kapuĉo kun fumtubo kiu kondukas fumon supren en la tegmenton.
+it is estimated that $2.5 billion a year for 12 years would provide 2 billion people with a healthy indoor environment - about $1 a person a year.	oni taksas ke po 2.5 bilionoj da dolaroj jare dum 12 jaroj provizus al 2 bilionoj da homoj sanan endoman medion - ĉirkaŭ $1 por ĉiu homo jare.
+pretending to be stupid	ŝajnigi sin stulta
+it's said that this proverb, which means "to behave as if one doesn't understand anything", has a very amusing origin. after the crusades, when the first 'blacks'  came to venice for the first time, they were regarded in the same way that we would regard martians from our red planetary neighbor. it is understandable that their behavior and way of dressing would make them objects of curiosity.	tiu ĉi proverbo, kiu signifas "tiel fari, kvazaŭ oni tute ne komprenas", havas laŭdire vere amuzan devenon.  kiam post la krucmilitoj la unuaj 'negroj'  venis la unuan fojon en venecion, oni alrigardis ilin sammaniere kiel ni hodiaŭ verŝajne alrigardus iujn marsanojn de nia ruĝa najbarplanedo.  kompreneble, ke ilia konduto kaj vestiĝmaniero faris ilin objekto de scivolemo.
+that increased to a real thirst for knowledge when the 'blacks' didn't understand a single word and pretended that they had no understanding of what was around them. however, this was just a trick which they used to gain more freedom to continue their trading.	tio plialtiĝis al vera sci-avido kiam la 'negroj' tute ne komprenis iun ajn vorton kaj ŝajnigis ke ili nenion konceptas pri tio kio ĉirkaŭas ilin.  tio tamen estis nur ruzaĵo, kiun ili uzis por gajni pli da libero por daŭrigi la intertraktadon.
+is it possible that in a european union growing ever more closely integrated there exists a country which cunningly "pretends to be incapable, and so too stupid to learn any language other than that of its own country" so that other europeans would have to learn its language as "an international language spoken everywhere"?	ĉu eble ekzistas en la estonte pli kaj pli kunkreskanta eŭropa unio iu lando, kiu ruze "ŝajnigas sin nekapabla, do stulta, lerni alian lingvon krom la propranacian" - por ke ĉiuj alilingvaj eŭropanoj lernu ties lingvon kiel "ĉie parolatan internacian lingvon"?
+stone age cats	ŝtonepokaj katoj
+until now, historians thought that the ancient egyptians were the first to domesticate cats around 4000 years ago. but some evidence suggests cats were culturally important outside egypt long before that.  stone and clay figurines of cats up to 10,000 years old have turned up in syria, turkey and israel.  and archeologists have found 9000 to 9500-year-old cat bones in cyprus, which has no native feline species.	ĝis nun, historiistoj pensis, ke la antikvaj egiptoj estis la unuaj malsovaĝigi katojn antaŭ ĉirkaŭ 4000 jaroj.  sed iuj atestoj sugestas, ke katoj kulture gravis ekster egiptio longe antaŭ tiam.  ŝtonajn kaj argilajn figuretojn ĝis 10000 jar-aĝajn oni ektrovis en sirio, turkio kaj israelo.  kaj arkeologoj trovis katajn ostojn 9000-9500 jaraĝajn en kipro, kiu ne havas katan specion indiĝenan.
+people were keeping cats as pets almost 10,000 years ago, say researchers who stumbled on the grave of a prehistoric tabby in cyprus. the stone age cat lay close to the grave of a human, possibly its master.	homoj tenis katojn kiel dorlotbestojn antaŭ preskaŭ 10000 jaroj, diras esploristoj, kiuj ektrovis la tombon de antaŭhistoria tigrostria kato en kipro.  la ŝtonepoka kato kuŝis proksime al la tombo de homo, eble ĝia mastro.
+the cat belonged to the species felis silvestris, the wild cat from which domestic cats are descended. its remains lie just 40 centimeters from a 9500-year-old human grave. the proximity of the human skeleton suggests the person had a strong bond with the cat, which might have been killed to go to the afterlife with its master.	la kato estis de la specio felis silvestris, la sovaĝa kato de kiu devenis hejmaj katoj.  ĝiaj restaĵoj kuŝas nur 40 centimetrojn de 9500-jara homa tombo.  la proksimeco de la homa skeleto sugestas, ke la homo havis fortan ligon al la kato, kiun oni eble mortigis por ke ĝi iru al la postvivo kun la mastro.
+polar bears	arktaj ursoj
+polar bears migrate throughout their entire lives, every day except when sleeping or resting: from the southern point of greenland upwards along the east coast, going beyond the north pole, across into siberia, then continuing into alaska. from there, across the islands situated near canada on again to southern greenland. they migrate over these enormous distances with the ice, on whose floes they travel.	la blankaj ursoj migradas dum sia tuta vivo, ĉiun tagon : de la suda pinto de gronlando supren laŭ la orienta marbordo, preterire la nordan poluson, transe al siberio, poste pluen al alasko.  de tie, trans la insuloj troviĝantaj apud kanado reen al suda gronlando.  tiajn enormajn distancojn ili migradas kune kun la glacio, sur kies bankizoj ili vojaĝas.
+they survive the winter by sleeping.  at the beginning of november polar bears dig themselves into a snow cave and become locked in by piles of snow.  the heat of the bear itself balances at a body temperature just above 0o celsius - not even the severest storm can reach or disturb it.  when the bears emerge in march from their snow dens, they are so thin that the people in northern regions believed for a long time that there were two species of white bear.	la vintron ili travivas dormantaj.  komence de novembro la arktaj ursoj enfosas sin en neĝkavernon kaj iĝas enŝlositaj de neĝamasoj.  la propra varmeco de urso ekvilibriĝas je korpotemperaturo iom super 0o de celsio - eĉ la plej akra ŝtormo ĝin ne povas atingi kaj ĝeni.  kiam en marto la ursoj eliĝas el la dumvintra neglogejo, ili estas tiom maldikaj, ke la homoj en nordaj regionoj longan tempon kredis, ke ekzistas du specioj de blankaj ursoj.
+looking for lizards	ŝercante lacertojn
+between 1990 and 2002, the irish wildlife trust' conservation officer at the time, ferdia marnell, carried out the first survey of this unusual creature. working on reports from all but five counties, ferdia found out some very interesting things about 'lacerta vivipara'.  perhaps most importantly, he discovered that the lizard is more widespread than previously recorded.	inter 1990 kaj 2002, la tiamakonservadisto de la irlanda sovaĝnatura kuratoreco, ferdia marnell, efektivigis la unuan esploron de tiu nekutima besto.  uzante raportojn el ĉiuj krom kvin graflandoj, ferdia eltrovis iom da tre interesaj faktoj pri 'lacerta vivipara'.  eble ple grave, li eltrovis ke la lacerto estas pli disvastigita ol antaŭe registrita.
+most records come from places where people were actively looking for lizards, which means that in places where there were no records there could still be lizards aplenty.  hence this current campaign of reptile-tracking.  we want to hear about as many places where these shy little lizards hang out as possible.  you are most likely to see lizards when they are basking on rocks, stone walls, logs or exposed sunny areas.  if you see one, send us the details location, type of habitat, nearby   plants, weather conditions, etc.	plimultaj raportoj venas el lokojkie oni aktive serĉis lacertojn,kio signifas, ke en lokoj kie neestas raportoj povas estis multajlacertoj.  tial la nuna kampanjo dereptilio-spurado.  ni volas aŭdipri kiel eble plej multaj lokoj kieloĝadas tiuj sinĝenaj etaj lacertoj.  oni plej ofte vidas lacertojn kiamili ripozas sur rokoj, ŝtonmuroj,ŝtipoj aǔ malkovritaj sunaj lokoj.  se vi vidus, sendu al ni ladetalojn: loko, speco de loĝloko,apudaj plantoj, veter-kondiĉoj, ktp.
+aids	aidoso
+why didn't aids spread throughout the world, and particularly throughout africa, in antiquity as it does now?  to explain that let us look at the publications of travellers of the 19th and 20th centuries.  from those works it becomes understandable that until the end of the 19th century the majority of regions in the african continent were almost isolated from each other. dangerous tropical jungles, torrential rivers, wide deserts, attacks by aggressive tribes etc. were obstacles to migration.	kial jam ekde antikveco aidoso ne disvastiĝis tra la tuta terspaco, des pli tra tuta afriko, kiel nun?  por klarigi tion ni atentu la publikaĵojn de multaj vojaĝantoj en la 19a kaj 20a jarcentoj.  el tiuj verkoj iĝis komprenebla la fakto, ke ĝis la fino de la 19a jarcento la plimulto da regionoj en la afrika kontinento estis preskaŭ izolitaj unu de la alia.  migradojn obstaklis danĝeraj tropikaj arbaroj, impetegaj riveroj, vastaj dezertoj, atakoj de agresaj triboj, ktp.
+but the most important barriers were the many epidemic diseases: malaria, dysentery, smallpox, yellow fever and others.  it's possible that in separate tropical regions the inhabitants became ill and died as a result of aids, but the absence of constant ties to other regions would prevent the spread of the infection....	sed la plej gravaj bariloj estis multnobraj epidemiaj malsanoj: malario, disenterio, variolo, flava febro kaj aliaj.  eble en la apartaj tropikaj regionoj loĝantoj malsaniĝis kaj mortis kaŭze de aidoso, sed foresto de konstantaj ligoj kun aliaj regionoj malhelpus disvastiĝon de la infekto..
+in the 2nd half of the 20th century events occurred which could have accelerated the spread of aids.  the first was an explosion of migration.  according to unesco today around 100 million people live outside their homeland.	en la dua duono de la 20a jarcento okazis eventoj kiuj estus povintaj akceli la disvastiĝon de aidoso.  la unua estas migrada eksplodo.  laŭ unesko, nuntempe ĉirkaŭ100 milionoj da homoj loĝas ekster sia patrujo.
+fire	fajro
+it's hot, it makes you sweat and it's not curry.	ĝi estas varma, ŝvitigas onin kaj ne estas kareo.  jes, estas fajro.
+previously considered somewhat frightening, the amazing red stuff has become man's best friend. people across the world use it for cooking and scaring off wild animals.	antaŭe rigardita iom timiga, la mirinda ruĝaĵo jam iĝis la plej bona amiko de la homo.  tutmonde homoj uzas ĝin por kuiri, por varmiĝi kaj por timigi sovaĝajn bestojn.
+"there's nothing new about fire," said norris nik, president of the hearth trust.  "you can find it all over the place - bush fires, lightning strikes and volcanoes, for example.  but the breakthrough has been introducing it to the home." ....	"estas nenio nova pri fajro," diris norris nik, prezidanto de la fajreja trusto.  "oni povas trovi ĝin ĉie - ekzemple, vepra fajro, fulmobato kaj vulkanoj.  sed la trarompo estas enkonduki ĝin en la hejmon." ...
+"fire has lots of things going for it, the main one being that it gives us humans more control over our surroundings.  before, we depended on the sun for heat and light," enthused norris.  "now we can keep warm and dry wherever we are.  this not only spells an end to dark caves, but it means we can survive in cold places like eŭrope.  and if any ice age comes along we can just sit it out."	"la fajro havas multajn avantaĝojn, la ĉefa estas tio, ke ĝi ebligas nin homojn pli regi niajn ĉirkaŭajojn.  antaŭe ni dependis de la suno por varmo kaj lumo," entuziasmis norris.  "nun ni povas teni nin varmaj kaj sekaj kie ajn ni estas.  tio implicas ne nur la finon de mallumaj kavernoj, sed signifas ke ni povos travivi en malvarmaj lokoj kiel eŭropo.  kaj se venos ia glaciepoko, ni povos resti ĝis ĝia fino.
+garlic	ajlo
+although garlic is well known as a culinary herb, it has long had a merited reputation as a medicinal herb too.  originally native to siberia, garlic is now grown worldwide for food and medicine.  the value of garlic as a wound dressing and as a remedy for disorders of digestion has been established since ancient times.  it has antiseptic properties and has been used to treat both animals and humans.	kvankam oni bone konas ajlon kiel kulinaran aromherbon, ĝi ankaŭ jam delonge havas merititan reputacion kiel drogherbo.  origine indiĝena en siberio, ajlo nun estas kultivata mondskale por manĝaĵo kaj medikamento.  la valoron de ajlo kiel pansaĵo kaj kuracilo por digesto-malsanoj oni konstatis en antikvaj tempoj.  ĝi havas antibiotikan econ kaj oni uzis ĝin por kuraci kaj bestojn kaj homojn.
+the basis of its activity is thought to be a chemical compound called allicin, which is formed from a precursor called allin when the garlic clove is crushed or chewed.  however, it is thought that there may be up to one hundred other compounds in garlic that may contribute to its value.	oni pensas, ke la bazo de ĝia agado estas ĥemia kombinaĵo nomita alicino, kiu fariĝas el antaŭvenanto nomita alino kiam oni pistas aŭ maĉas la ajlonon. tamen, oni pensas, ke eble estas ĝis cent aliaj kombinaĵoj en ajlo kiuj kontribuas al ĝia valoro.
+allicin actively interferes with the enzyme pathways of bacteria and reduces their growth. these compounds also acts as a powerful anti-oxidant and have been hailed as significant anti-cancer agents.	alicino aktive entrudiĝas en la enzimaj reagoj de bakterioj kaj malpliigas ilian kreskon.  tiuj kombinaĵoj agas ankaŭ kiel forta kontraŭoksidilo kaj ili estas aklamitaj kiel gravaj kontraŭkanceriloj.
+photosynthesis	fotosintezo
+consequences for life as the ability to capture energy from sunlight.  photosynthesis has literally altered the planet, transforming the atmosphere and cooling earth in a protective shield against radiation.	malmultaj ŝanĝoj havis tiom profundajn konsekvencojn por la vivo kiel la kapablo kapti energion el sunlumo.  fotosintezo laŭlitere ŝanĝis la planedon, transformante la atmosferon kaj malvarmigante teron en ŝirmanta ŝildo kontraŭ radiado.
+without photosynthesis there would be little oxygen in the atmosphere, and no plants or animals - just microbes.	sen fotosintezo estus malmulte da oksigeno en la atmosfero, kaj neniuj plantoj nek bestoj - nur mikroboj.
+before photosynthesis, life consisted of single-celled microbes whose sources of energy were chemicals such as sulphur, iron and methane.  then a group of microbes developed the ability to capture energy from sunlight.  this early version used hydrogen sulphide and carbon dioxide as its starting ingredients, generating carbohydrates and sulphur as end products.	antaŭ fotosintezo la vivo konsistis el unu-ĉelaj mikroboj kies fontoj de energio estis kemiaĵoj kiel sulfuro, fero kaj metano.  tiam aro da mikroboj disvolvis la kapablon kapti energion el sunlumo.  tiu frua versio uzis hidrogendisulfidon kaj karbondioksidon kiel komencajn ingrediencojn, produktante karbonhidratojn kaj sulfuron kiel finproduktojn.
+some time later a new type of photosynthesis evolved that used water, generating oxygen as a by-product.  in those early days oxygen was poisonous, but some microbes evolved the ability to tolerate it and then to use it as a new, more efficient energy-source.	post iom da tempo evoluis nova speco de fotosintezo, kiu uzis akvon, produktante oksigenon kiel flank-produkton.  en tiuj fruaj tagoj oksigeno estis venena, sed iuj mikroboj evoluigis la kapablon toleri ĝin kaj poste uzi ĝin kiel novan, pli efikan energi-fonton.
+rabies	rabio
+today, according to information from the world health organization, over 50 thousand people a year become ill and perish from rabies, in spite of the fact that sufficiently reliable means of preventing rabies exist.	nuntempe, malgraŭ tio, ke ekzistas sufiĉe fidindaj rimedoj por preventado de rabio, ĉiujare en la mondo, laŭ informo en la monda organizo pri sano, malsaniĝas kaj pereas de rabio pli ol 50 miloj da homoj.
+the majority of them are inhabitants of africa, asia and latin america.	la plejparto el ili estas loĝantoj en afriko, azio kaj latina ameriko.
+the majority of those who became ill did not turn to medical personnel after a bite from a rabid or unknown dog, or did so too late when it was not possible for antibodies to form after vaccination.	la plimulto de la malsaniĝintoj ne turnis sin al medicinistoj post la morto de rabia aŭ nekonata hundo aŭ faris tion tro malfrue, kiam ne sukcesis formiĝi postvakcinaj antikorpoj.
+in some cases medical staff made serious mistakes, for example, applying just a vaccine to prevent rabies and not using the specific immunoglobulin, in spite of the fact that the victim had received a large number of bites.	en iuj kazoj medicinistoj faris seriozajn erarojn, ekzemple aplikante por preventado de rabio nur vakcinon kaj ne uzante la specifan imunoglobulinon malgraŭ tio, ke la viktimo havis multnombrajn mordojn.
+in those cases the symptoms of disease often appear after a short incubation period.	en tiuj okazoj la simptomoj de malsano ofte aperas post mallonga inkubacia periodo.
+it is therefore necessary to use, in addition to the vaccine, specific immunoglobulin containing existing antibodies.	tial necesas uzi krom vakcinon ankaŭ specifan imunoglobulinon entenantan la pretajn antikorpojn.
+three elephants	tri elefantoj
+genetic tests have confirmed that african savannah and forest elephants should be considered separate species. the two animals look different and experts had previously argued that they should be classed as two species, not variations of the same one.	genetikaj esploroj konfirmis ke afrikajn savanajn kaj arbarajn elefantojn oni devus rigardi kiel apartajn speciojn. la du bestoj aspektas malsame kaj fakuloj antaŭe argumentis ke oni klasifiku ilin kiel du speciojn, ne variantojn de unu.
+results of dna analysis support the argument that there are three species of elephant, two in africa and one in asia.	rezultoj de dna-analizo subtenas la argumenton ke estas tri elefantaj specioj, du en afriko kaj unu en azio.
+most african elephants seen on safari or in zoos are the savannah type, known as loxodonta africana, which has large ears and curving tusks.	la pli multo da elefantoj vidataj dum enafrika ferio aŭ en bestĝardenoj estas speco savana, nomita loxodonta africana, kiu havas grandajn orelojn kaj kurbajn dentegojn.
+the rarer forest or bush elephant, loxodonta cyclotis, is smaller with rounded ears, straighter, thinner tusks and a distinct head shape. it lives in densely forested areas of west africa and is much less commonly seen.	la pli malofta arbara aŭ vepreja elefanto, loxodonta cyclotis, estas pli malgranda kun rondecaj oreloj, pli rektaj, maldikaj dentegoj kaj aparta kapformo. ĝi loĝas en dense arbokovritaj regionoj de okcidenta afriko kaj ĝin oni vidas multe malpli ofte.
+researchers from the us and kenya published the new findings in the journal 'science'.	esploristoj el usono kaj kenjo eldonis la novajn informojn en la revuo 'scienco'.
+diseases of the nervous system in the hundred aere wood	malsanoj de la nervo sistemo en centhektara arbaro
+canadian doctors think that the teddy bear winnie-the-pooh suffers from attention-deficit disorder and hyperactivity. they are also disturbed by the little animal's obsessive behavior and psychological attachment to eating in general, and eating honey in particular. such behavior leads to obesity.	kanadaj kuracistoj opinias, ke la eta ludurso vini-la-pu, suferas pro sindromo de atentomanko kaj hiperaktiveco. ili maltrankiviliĝas ankaŭ pro la obseda konduto de la besteto kaj ties psika fiksiĝo al manĝado ĝenerale kaj aparte la manĝado de mielo. tia konduto kondukas al obezo.
+the authors wonder if the little bear is suffering from 'shaken cub' syndrome , the result of an ab­normal method of transport. christopher robin usually holds the pet by one stuffed arm and lets the bear's head hit the stairs.	la aŭtoroj demandas, ĉu la urseto suferas pro 'skuitursida' sindromo , la rezulto de nenormala metodo de transporto. kristoforo robin kutime tenas la dorlotbeston per unu pluŝbrako kaj permesas la urskapon frapi la ŝtuparon.
+the authors diagnosis for the donkey eeyore is depression caused by a shocking experience, in this case the amputation of his tail. they think that rabbit suffers from narcissism to a pathological degree.	la aŭtoroj diagnozas en la azeno, ior, sindromo de deprimo pro ŝoka sperto, en ĉi tiu kazo pro amputo de la vosto. ili opinias ke la kuniklo, rabit, suferas de narcisismo ĝis patologia grado.
+they notice that the kangaroo kanga is a single parent who is unemployed and abnormally overprotective of her baby.	ili rimarkas, ke la kangaruo, kanga, estas senpartnera patrino kiu estas senlabora kaj nenormale tro protektema al sia ido.
+for each member of the group of animals the writers not only reveal the diagnosis, but also prescribe suitable treatment.	por ĉiu ano de la bestaro la verkistoj ne nur malkovris diagnozon, ili ankaŭ preskribas taŭgan medikamenton.
+concerning museums ...	pri muzeoj ...
+in 1880 john ruskin wrote an article entitled 'a museum or picture gallery, its functions and its formations' stating:	en 1880 john ruskin verkis artikolon titolitan 'muzeo aŭ bildgalario, ĝiaj funkcioj kaj formiĝo' dirante:
+"the first function of a museum ... is to give example of perfect order and perfect elegance ... to the disorderly and rude populace. everything in its own place ... nothing crowded, nothing unnecessary, nothing puzzling. therefore, once a room has been arranged, there must be no change to it ...	"la unua funkcio de muzeo ... estas doni ekzemplon de perfekta ordo kaj perfekta eleganteco ... al la senordema kaj kruda popolo.  ĉio en sia loko ... nenio plenŝtopita, nenio nenecesa, nenio enigma. tial, post kiam ĉambro estas aranĝita, oni devas ŝanĝi nenion en ĝi...
+the original expenditure for building and fitting must be magnificent ... the current expenditure magnanimous; but a certain proportion of this current cost should be covered by small entrance fees, exacted, not for any miserly helping out of the floor- sweepers' salaries, but for the sake of the visitors themselves, that the rooms may not be encumbered by the idle, or disgraced by the disreputable.	la komenca elspezo por konstruado kaj garnituro devas esti grandioza ... la ĉiutaga elspezo grandanima; sed iun porcion de tiu ĉiutaga elspezo oni havigu per malgranda enirkosto, postulata ne por iom avare kontribui al salajroj de plankbalaistoj, sed por la vizitantoj mem, por ke la ĉambrojn ne plenigu mallaboremuloj nek malhonori malestiminduloj.
+you must not make your museum a refuge against rain or ennui, not let into the perfectly furnished ... palatial rooms, the utterly squalid and ill-bred portion of the people ..."	vi devas ne fari el via muzeo rifuĝejon kontraŭ pluvo aŭ enuo, ne enlasi en la perfekte ekipitajn ... palacajn ĉambrojn la tute mizeran kaĵ malnobelan porcion de la popolo ...
+from guidelines for informa­tion about esperanto	el gvidlinioj pri informado pri esperanto
+aims : to make the public aware of the problems	celoj : konsciigi la publikon pri la problemoj
+any information about esperanto is pointless if the target group is unaware of the existence of linguistic inequality and the undemocratic nature of the present linguistic order.	ĉia informado pri esperanto estas senperspektiva, se la celgrupo ne konscias pri la ekzisto de lingva neegaleco kaj la ne­demokratieco de la nuna internacia lingva ordo.
+it follows that the first aim of information must be to reveal to the general public the fundamental lack of democracy in a commu­nication system which gives life-long privilege to some while demanding from others years of effort to acquire an imperfect knowledge of a particular language.	la unua celo de la informado devas sekve esti ke la generala publiko malkovru la fundamentan nedemokratiecon de komunika sistemo, kiu tutvive privilegias iujn sed postulas de aliaj jarojn da penoj por atingi tamen malperfektan lingvoscion.
+in attempting to start a discussion on linguistic in­equality and language rights, many potential allies with simi­lar aims can be found. there are many scientific works on the ef­fects of linguistic inequality. at international, local and indi­vidual levels.	en la strebado estigi diskuton pri lingva egaleco kaj lingvaj rajtoj troveblas multaj potencialaj aliancanoj kun similaj celoj. ekzistas multaj sciencaj verkoj pri la efikoj de lingva neegaleco je tutmonda, loka kaj individua niveloj.
+for those responsible for information, the subject is worth studying carefully. to change reality it is first neces­sary to get to know it in depth.	indas, ke respondeculoj pri informado bone trastudu la temon. por ŝanĝi la realaĵojn necesas unue gisfunde ekkoni ilin.
+the most important color	la plej grava koloro
+in the grey dawn of time perhaps the first color which people of that time were aware of was that color which they could smell and taste: the color of greed, of a slain wild animal, of the triumph of a hunt, of life and death, of conquest and food, the color of blood - red!	en la griza pratempo eble la unua koloro, kiun perceptis la tiamaj homoj estis tiu koloro kiun oni povis flarsenti kaj gustumi: la koloro de avido, de mortigita sovaĝbesto,' de ĉastriumfo, de vivo kaj morto, de venko kaj nutraĵo, la koloro de sango - ruĝa!
+but blood quickly becomes brownish, consequently a replacement was immediately looked for and found: ochre. it does not become discolored, is not edible, can't be used to warm oneself - and it is close to red.	sed sango rapide fariĝas bruneta, konsekvence oni tuj serĉis kaj trovis anstataŭaĵon: okron. ĝi ne diskoloriĝas, ne estas manĝebla, ne estas uzebla por varmigi sin, kaj - ĝi estas proksima al la ruĝa.
+red  is the ori­gin of sanctity, is magic, a symbol of strength and power, strengthens the dead - and at the same time prevents their return to earth.	ruĝa  estas origino de sankteco, estas magia, simbolo de forto kaj potenco, plifortigas la mortintojn - samtempe ankaŭ malhelpilo por ties reveno surteren.
+up to 10kg of red ochre  was buried with them. 40000 years ago the first art galleries were dug and animated by ochre, and 10000 years ago ochre became the first substance to be traded by man.	ĝis 10 kg da ruĝa okro  oni entombigis kune kun ili. okro animis kaj efektivigis antaŭ 40000 jaroj la fosadon de la unuaj galerioj kaj antaŭ 10000 jaroj fariĝis la unua komercaĵo de la homaro.
+ethnologue	ethnologue
+ethnologue is the name of the big­gest  encyclopedia of languages in the world. it has information on 7299 languages, of which 6912 are living.	ethnologue estas la nomo de la plej granda prilingva enciklopedio en la mondo. ĝi raportas pri 7299 lingvoj el kiuj 6912 estas vivantaj.
+the newest, 15th, edition can be freely consulted on the internet:.	la plej nova 15a eldono estas senpage konsultebla en interreto.
+the work contains a mass of inter­esting facts. for example, we get to know that of those 6912 living languages, 2269 originate in asia, 2092 in africa, 1310 in oceania, 1002 in america and only 239 in europe.	la verko enhavas amason da interesaj faktoj. ni ekzemple ekscias ke el tiuj 6912 vivantaj lingvoj, 2269 originas el azio, 2092 el afriko, 1310 el oceanio, 1002 el ameriko kaj nur 239 el eŭropo.
+eight languages have more than 100 million native speakers, 24 languages have fewer than ten speakers. the state with the most languages is papua newguinea where 820 languages are spoken. it is followed by india with 742 and nigeria with 516 languages.	ok lingvoj havas pli ol 100 milionojn da denaskaj parolantoj, 204 lingvoj havas malpli ol dek parolantoj. la ŝtato kun la plej multaj lingvoj estas papuo-novgvineo, kie 820 lingvoj estas parolataj. sekvas barato kun 742 kaj niĝerio kun 516 lingvoj.
+there are several lines of descrip­tion for each language. we read where it is spoken, how many peo­ple speak it, how many dialects it has and what they are called, how it is classified, and much more.	pri ĉiu lingvo estas kelklinia priskribo. oni legas kie ĝi estas parolata, kiom da homoj parolas ĝin, kiom da dialektoj ĝi havas kaj kiel ili nomiĝas, kiel oni klasifikas ĝin kaj multe pli.
+moreover, the work explains why it is called a 'language' and not a 'dialect'. reasons can be, for example, that dictionaries and encyclopaedias exist, radio stations use it, the bible has been translated into it, etc.	krome la verko klarigas kial oni nomas ĝin 'lingvo' kaj ne 'dialekto'. kialoj povas esti ekzemple ke ekzistas vortaroj, enciklopedioj, radiostacioj uzantaj ĝin, traduko de la biblio, ktp.
+almroth wright	almroth wright
+the name alexander fleming is known throughout the world, but that of the man who was his chief and friend of 40 years is less familiar.	la nomo alexander fleming estas konata tra la mondo, sed tiu de la viro kiu estis lia estro kaj amiko dum 40 jaroj estas malpli konata.
+almroth wright was born in middleton tyre in yorkshire, the son of an irish presbyterian minister and a swedish mother whose father was governor of the royal mint in stockholm.	almroth wright naskiĝis en middleton tyre en jorkŝiro, la filo de irlanda presbiteriana pastro kaj sveda patrino, kies patro estis es­tro de la reĝa monfarejo en stokholmo.
+the family came to ireland when he was quite young. he was taught mainly by private tutors who seem to have done a very good job. he was fluent in several languages and could quote a quarter of a million lines of poetry.	la familio venis al irlando kiam li estis sufiĉe juna. lin instruis plejparte privataj guvernistoj, kiuj ŝajne tre bone sukcesis. li flue parolis kelkajn lingvojn kaj povis citi kvaronon da milionoj da linioj de poezio.
+he considered literature and law as careers but was advised to persist with his medical studies. he qualified in 1883 ....	li konsideris literaturon kaj juron kiel karieron, sed oni konsilis lin daŭre studi medicinon. li kvalifikiĝis en 1883...
+in 1902 he became professor of pathology at st. mary's hospital, where he was to rule for 45 years, starting in one small, ill-equipped room ....	en 1902 li iĝis profesoro de p­tologio ĉe malsanulejo de sankta maria, kie li regadis 45 jarojn, komencante en unu malgranda nebone ekipita ĉambro ....
+in 1906 alexander fleming joined the hospital. the relationship between the two men was good and wright gave fleming full credit for his work and findings.	en 1906 alexander fleming aliĝis al la malsanulejo. la rilatoj inter la du viroj estis bona kaj wright aljuĝis al fleming honoron por ties laboro kaj rezultoj.
+80. the drawings at nazca	80. la desegnaĵoj de naska
+the gigantic cornplex of drawings on the earth at nazca, peru, are a unique phenomenon. the drawings have become famous throughout the world because of their size, variety and quantity.	la giganta komplekso de ter­desegnaĵoj en naska, peruo, estas unika fenomeno. pro sia grandeco, vario kaj multnombreco la desegnaĵoj famiĝas tra la tuta mondo.
+although such drawings are known in other parts of the world, only in nazca was so much energy invested over many generations to draw hundreds of lines and shapes.	kvankam ter-desegnaĵoj estas konataj ankaŭ en aliaj mondpartoj, nur en naska oni investis tiom da energio dum multaj generacioj por desegni centojn da linioj kaj formoj.
+the village of nazca is found in the desert plain between the pacific ocean and the andes. here and there rivers flow through the desert steppes and take water from the snowy peaks of the andes to the ocean.	la urbeto naska troviĝas en dezerta ebenaĵo inter pacifika oceano kaj la andoj. jen kaj jen riveroj trafluas la dezertan stepon, kiuj kondukas akvon de la neĝaj pintoj de la andoj al la oceano.
+in the first millenium prehistoric cultures were active in the valleys beside these rivers. the nazca culture, which created the giant drawings existed between the 3rd and 9th centuries.	en la valoj apud tiuj riveroj viglis en la unua jarmilo prahistoriaj kulturoj. la naska kulturo, kiu kreis la gigantajn desegnaĵojn, ekzistis inter la tria kaj naŭa jarcentoj.
+under the lnca empire ancient traditions disappeared. as a consequence, and because of the lack of writing, the source and aim of the drawings remain a mystery	sub la inkaa imperio malaperis la antikvaj tradicioj. sekve, kaj pro la manko de skribo, la fonto kaj celo de la desegnaĵoj restas mistero.
+robotic hand	robota mano
+japanese scientists from the atr computational neuroscience laboratories in kioto have produced a robotic hand controlled only by the thoughts of the user. the hand imitates the movement of a natural hand by means of real-time analysis of brain activity.	japanaj sciencistoj de la laboratorioj atr computational neuroscience en kioto prezentis robotan manon tute regatan de la pensoj de la uzanto. tiu mano imitas la movadon de la natura mano pere de realtempa analizo de la cerba aktiveco.
+people taking part in the experiment made 'stone, paper or scissors' shape with the right hand. a scanner recorded the corresponding brain activity by measuring blood flow in the brain.	partoprenantoj en ekperimento faris 'ŝtonan, paperan aŭ tondilan figuron' per la dekstra mano. skanilo registris la respondan cerban aktivecon, mezurante sangan fluon en la cerbo.
+the information was forwarded to a computer which controlled the robotic hand. after a short period of training, the computer could associate the brain activity with the shape being made.	la informoj estas plusendataj al komputilo kiu regas la robotan manon.  post mallonga   trejnado la komputilo povas asocii la cerban aktivecon kun la farita figuro.
+when the person made a fist  the computer instructed the robotic hand to do the same, using only the signals from the brain.	kiam la homo faras pugnon  la komputilo instrukcias la robotan manon fari same, uzante nur la cerban signalon.
+although the method works slowly and is expensive, it represents an important milestone in the construction of prostheses controlled by the thoughts of the user.	kvankam la metodo funkcias malrapide kaj estas multekosta, ĝi reprezentas gravan mejlŝtonon en konstruado de protezoj regataj de la pensoj de la uzanto.
+academies and languages	akademioj kaj lingvoj
+ancient academies were meeting places for open discussion and the transmission of knowledge. more recent academies partly continue that tradition but have become more specialized in particular sciences and arts.	antikvaj akademioj estis renkontejoj por liberaj diskutoj kaj transdono de scioj. novtempaj akademioj parte daŭrigis tiun tradicion, sed pli kaj pli specialiĝis al unuopaj sciencoj kaj artoj.
+several academies were founded in florence during the rule of the medici family, among them the academia platonica , the accademia degli umidi , and the most famous of them the accadeia della crusca  which specialised in the tuscan-italian written language and became a model for similar organisations elsewhere in europe, for example the 'sprachpflege' groups in germany.	pluraj akademioj fondiĝis en florenco dum la regado de la familio medici, i.a. academia platonica , accademia degli umidi  kaj la plej fama el ili accademia della crusca, kiu specialiĝis pri toskana-itala skriblingvo kaj iĝis modelo por similaj organizaĵoj en eŭropo, ekzemple por lingvo-flegantaj rondetoj en gemanio.
+it is interesting to compare the working principles of the accademia della crusca with another famous european authority, the academie francais. planned languages users have also created their own linguistic societies and academics, whose aims are not always the same.	estas interese kompari la laborprincipojn de accademia della crusca kun la alia fama eŭropa instanco, academie francais. ankaŭ planlingvuloj kreis siajn lingvajn societojn kaj akademiojn, kies celoj ne ĉiam estis identaj.
+let us look at the history and aims of the volapuk academy, the interlingua academy, the academy of esperanto and several others.	ni konatiĝu kun historio kaj celoj de kadem bevŭnetik volapuka, academia pro interlingua, akademio de esperanto kaj kelkaj aliaj.
+euro notes in belgium	eŭrobiletoj en belgio
+according to the web-page www.eurobilltracker.com. a multilingual site, including esperanto, founded in 2002 to observe the movement of euro notes in the european union, at the beginning of july 2007 only 17.3% of euro notes in circulation in belgium were printed there, so really belgian.	laŭ la 'ttt-ejo www.eurobilltracker.com, multlingva, ankaŭ en esperanto, fondita en 2002 por observi la movojn de la eŭrobiletoj en la eŭropa unio, komence de julio 2007 nur 17.3% de la eŭrobiletoj kiu cirkulas en belgio estas presitaj tie, do vere belgaj.
+since the introduction of the euro some years ago the percentage has constantly fallen. in january 2002 80% of notes were still belgian. one year later that percentage had already fallen to 50%.	ekde la enkonduko de la eŭro antaŭ kelkaj jaroj la procentaĵo konstante malaltiĝis. en januaro 2002 ankoraŭ pli ol 80% de la biletoj estis belgaj. unu jaron poste tiu procentaĵo jam falis al 50%.
+according to eurotracker the percentage of spanish notes is almost as large as the percentage of belgian notes: 16.5%.	laŭ eŭrobilltracker la procentaĵo de hispanaj biletoj nun estas preskaŭ same granda kiel la procentaĵo de belgaj biletoj: 16,5%.
+apart from those, german , french , italian  and finnish  notes are often in circulation. less frequently austrian , irish  and greek  notes appear.	krom tiuj, ofte cirkulas germanaj , francaj , italaj  kaj finnaj  biletoj. malpli aperas aŭstraj , irlandaj  kaj grekaj .
+the web page allows members to record the notes which they have and also to check in which countries the notes have previously been used.	la ttt-ejo permesas al membroj registri la biletojn kiujn ili posedas, kaj ankaŭ kontroli en kiuj landoj la biletoj jam uziĝis.
+eastern astronomy	orienta astronomio
+chinese astronomy is one of the two most ancient mappings of the sky , and certainly the most long-lasting.	la ĉina astronomio estas unu el la du plej antikvaj , sed certe la plej longdaŭra registrado de la ĉielo.
+the earliest recorded eclipse of the sun was noted in china, in 2136 bc. chinese astronomical observations are uninterrupted for the last three millennia.	la plej frua konata registro de suneklipso venas de ĉinio, el la jaro 2136 ak. la ĉinaj astronomiaj observoj kovras seninterrompe preskaŭ tri jarmilojn ĝis la nuna tempo.
+the chinese calendar is nearly four thousand years old, and like the hebrew calendar it is a combination of lunar and solar calendars, based on precise astronomical observations. chinese astronomers did not register just regular phenomena, but also rare events such as comets and super-novae, one of which was the famous supernova in the crab nebula in 1054, which was not mentioned in european sources.	la ĉina kalendaro aĝas preskaŭ kvar jarmilojn kaj estas, kiel la hebrea, kombinita luna kaj suna, bazita je precizaj astronomiaj observoj. sed ĉinaj astronomoj registris ne nur la kalendarajn periodajn fenomenojn, sed ankaŭ rarajn okazaĵojn kiel kometojn kaj gasto-stelojn , unu el kiu estas la fama supernovao de la krabo en la jaro 1054, kiu ne estis menciita en eŭropaj fontoj.
+whilst in the dark ages the development of european astronomy was halted by the church, it blossomed in china, and later on in korea and japan.	kiam en mezepoka eŭropo la evoluo de astronomio estis bremsita de la eklezio, ĝi floris en ĉinio kaj sekve en koreio kaj japanio.
+salt	salo
+salts are ionic compounds which contain any negative ion except an hydroxyl ion  and any positive ion except a hydrogen ion .	saloj estas jonaj kombinaĵoj, kiuj enhavas ajnan negativan jonon krom hidroksida jono , kaj ajnan pozitivan jonon krom hidrogena jono .
+many salts are found in nature and myriads of others have been prepared in the laboratory. sodium chloride , cooking or table salt, is probably the best known of all salts. it is also the most frequent1y used salt, often used in cookery to improve the flavour or preserve food.	multaj saloj troviĝas en la naturo, kaj miriadoj da aliaj estis preparitaj en la laboratorio. natria klorido , kuir- aŭ tablo-salo, estas verŝajne la plej konata el ĉiuj saloj. ĝi estas ankaŭ la plej ofte uzata salo, ofte uzata en kuirarto por bongustigi aŭ konservi manĝaĵojn.
+it is not good for the health to eat too much sodium, because that can make your blood pressure too high. you can replace sodium salt with a version which contains potassium but which tastes similar because it still contains chloride.	ne estas bone por la sano manĝi tro da natrio, ĉar tio povas tro altigi vian sangopremion. vi povas anstataŭigi salon natrian per version kiu enhavas kalion sed kiu gustas simile ĉar ĝi ankoraŭ havas kloridon
+you can eat up to six grams of sodium daily, but many people eat more because a large amount is present in ready made foods. to avoid eating too much salt it is simplest to cook yourself, in that way you can control whether to add salt.	vi rajtas manĝi ĝis ses gramojn da natrio ĉiutage, sed multaj manĝas pli, ĉar ĝi enestas grandkvante en manĝaĵoj jam pretigitaj. por eviti manĝi tro multe da salo, estas plej simple kuiri mem, tiel ke vi povas regi ĉu vi enmetas salon.
+banana-shaped banana	banano bananforma
+it always looks the same and always tastes the same ­nevertheless we don't want to do without our cavendish-type banana. it is generally the most traded species on a global scale.	ĝi ĉiam aspektas same kaj ĉiam laŭguste samas - tamen ni ne volas malhavi nian bananon de la specio cavendish. ĝi estas la mondvaste ĝenerale komercata specio.
+it is currently doubly endangered. in the malay archipelago, indonesia and australia whole plantations have already been wiped out because of a mould causing 'panama-disease type 4' which infects the roots of the banana planto.	aktuale ĝi estas duoble endanĝerigita. en la malaja arkipelago, indonezio kaj aŭstralio jam tutaj plantejoj estas neniigitaj pro ŝimo kaŭzanta 'panamomalsamo-speco-4 " kiu infektas la radikojn de bananoplantoj.
+pesticides don't help at ali. although this disease has not yet reached central america or the caribbean - only a matter or time - the mould 'blacksignature' is already spreading there.	pesticidoj tute ne helpas. kvankam malsano tamen ankoraŭ ne atingis mezan amerikon kaj antilojn - nur afero de tempo - tie disvastiĝas jam la ŝimo 'nigrasignaturo' .
+experts believe that cavendish bananas will disappear in the next eight years. this problem has happened before. in 1960 a mould wiped out the then dominant variety grosmichel.	fakuloj opinias ke cavendish-pereo okazos dum la sekvaj ok jaroj. tiu ĉi problemo jam antaŭe okazis. en 1960 ŝimo neniigis la tiam dominan specion grosmichel.
+old people will certainly remember that bananas then were sweeter. and the next one-shape one-type one-taste banana?	maljunuloj certe memoras ke la tiamaj bananoj estis pli dolĉaj. kaj la sekva unuforma unuspeca unugusta banano?
+temperature rise in the tyrol	temperaturleviĝo en tirolo
+the austrian organisation for media protection global 2000 presented an alarming forecast of the climate in the tyrol up to 2100. the research shows that in the alpine region the consequence of warming will be very serious.	la aŭstra organizaĵo pri protekto de la naturmedio global 2000 prezentis alarman prognozon pri la klimato en tirolo ĝis 2100. la esploro montras, ke en la alpa regiono la sekvo de plivarmiĝo tre gravos.
+the alps react very sensitively to global climate change and therefore could be treated as an 'early warning system'. according to the forecast in the coming decades summers and autumns will be three degrees warmer.	la alpoj reagas tre senteme al la tutmonda klimatŝanĝiĝo kaj tial povus esti traktata kiel 'sistemo de frua averto'. laŭ la prognozo en la sekvaj jardekoj la someroj kaj aŭtunoj estos je tri gradoj pli varmaj.
+summers will be dryer but winters will experience more precipitation. at heights below 2000 m it will not snow, only rain. in the winter it will rain up to 30% more than now. by the end of the century all glaciers in austria will have melted.	la someroj estos pli sekaj, la vintroj tamen riĉa je precipitaĵoj. je alto sub 2000m ne neĝos, nur pluvos. en la vintro pluvos ĝis 30 procentojn pli ol nun. ĝis la fino de la jarcento ĉiuj glaciejoj degelos en aŭstrio.
+floods and avalanches in the high mountains will occur more often. the warming will also have an effect on energy production: hydroelectric power stations will face serious problems. there will be less water because of the dry summers.	inundoj kaj lavangoj en la alta montaro okazos pli ofte. la plivarmiĝo havos efikon ankaŭ al la energiproduktado. la akvoenergiaj centraloj havos gravajn problemojn. akvo malmultiĝos pro la longaj sekaj someroj.
+if we don't take care the energy system will be ruined.	se oni ne antaŭzorgos, la ruiniĝo de la energisistemo certe okazos.
+laughter	ridado
+it' s well known that laughter reduces mental stress and strengthens the body's immunity. however, how many laughs are necessary for good health?	estas bone konate, ke ridado malmultigas mensajn streĉojn kaj fortigas korpan imunecon. tamen, por sano, kiom da ridoj necesas?
+professor kimura jooji of kansai university, japan, has begun to explore the secret of laughter.	profesoro kimura jooĵi de la kansaja universitato, japanio, komencis esplori la sekreton de ridado.
+until now attention has only been paid to the expression and voice of the person laughing, but kimura studied the movements of the diaphragm. through experiments he found that when one laughs wholeheartedly the diaphragm shakes. profiting from this discovery he invented a portable laugh-measurer which he will be able to sell until the end of the year.	ĝis nun oni atentis nur mienojn kaj voĉojn de ridantoj, sed kimura esploris la movojn de la diafragmo. en eksperimentoj li trovis ke, kiam oni elkore ridas, la diafragmo tremas. profitante tiun eltrovon, li inventis porteblan ridmezurilon, kiun li povos vendi ĝis la fino de la jaro.
+he says "many people are too conscious of their health, taking medicines and worrying about blood-pressure and glucose". however, it's not those things we should be measuring, but the number of laughs.	li diras "multaj homoj estas tro konscia pri sia sano, prenante medikamentojn kaj maltrankviliĝante pro sangopremo kaj glukozo". tamen ne tiajn aferojn oni mezuru sed ridkvanton.
+according to the professor one should say to oneself " today i'm short of 500 ah . i should enjoy some funny stories and laugh".	laŭ la profesoro oni diru al si "hodiaŭ mankas 500 ah  al mi. mi ĝuu komikajn rakontojn kaj ridu".
+the blue miracle	la blua miraklo
+in northern tanzania between lake victoria and the serengeti nature reserve, is a group of five villages called 'salama' .	en norda tanzanio inter lago viktoria kaj la naturrezervejo serengeti estas aro da kvin vilaĝoj nomita "salama' .
+people there live in poverty. women get water from pools kilometres away. there are several hundred orphans without any livelihood.	homoj tie vivas en malriĉo. virinoj havigas akvon el flakoj kilometrojn foraj. plurcent orfoj estas sen vivrimedoj.
+the village leader, mramba samba, speaks esperanto and tried to use his contacts with europe to improve living conditions for the 14500 villagers. in 2008 he visited europe to look for support for the regional project 'mazingira' - a swahili word meaning: media, nature conservation - which organises the construction of wells and schools, collects money for micro-credit and takes care of orphans.	la vilaĝestro, mramba simba, parolas esperanton kaj klopodis uzi siajn kontaktojn kun eŭropo por plibonigi la vivkondiĉojn de la 145 000 vilaĝanoj. en 2008 li vizitis eŭropon kaj varbis por subteno de la regiona projekto 'mazingira' - svahila vorto kun signifo: medio, naturprotekto - kiu organizas konstruadon de putoj kaj lernejoj, kolektas monon por mikrokreditoj kaj subtenas orfojn.
+in the southern german town augsburg several thousand euro were collected for the project. with the donated money they could buy, among other things, equipment for drilling wells. a well previously cost €6000. now, drilling it themselves, they need a little less than €800	en sudgermana urbo aŭgsburgo oni tiucele kolektis kelkmilojn da eŭroj. per la donacita mono oni aĉetis interalie ekipaĵon por putoborado. unu puto antaŭe kostis 6000 eŭrojn. nun, borante mem, oni bezonas iom malpli ol 800 eŭrojn.
+artistic future	arta futuro
+three world famous architects took part in a competition for a project to build a new cultural centre in the lithuanian capital vilnius. the centre would be a branch of the new york guggenheim museum of modern art and the saint petersburg hermitage.	tri mondfamaj arkitekotoj partoprenis konkurson por la projekto de nova kultura centro en la litova ĉefurbo vilnius. la centro fariĝus filio de novjorka modern-arta muzeo guggenheim kaj sankta­peterburga ermitaĝo.
+it would house not only exhibitions from those museums, but also the jonas mekas art centre , a cultural centre for lithuanian jews, a youth education centre and two cinemas for non-commercial films.	en ĝi lokiĝos ne nur ekspozioj de tiuj muzeoj, sed ankaŭ arta centro de jonas mekas, litovdevena usona film­kreanto, artisto ofte nomata 'baptopatro de usona avangarda kino', kultura centro de litovdevenaj judoj, junulara edukcentro, kaj du kinejoj por nekomercaj filmoj.
+an international commission decided that the hest project was that of british architect z.hadid. her most famous works are the transport museum in glasgow, the aquatics centre for the 2012 olympic games in london, the museum of 21st century arts in rome and the guggenheim museum in taiwan	internacia komisiono decidis ke la plej bona proj ekto estas tiu de la brita arkitekto z. hadid. ŝiaj plej famaj verkoj estas la transporta muzeo en glasgovo, la centro aquatics por la olimpikaj ludoj de 2012 en londono, la muzeo de artoj de la 21a jarcento en romo kaj la muzeo guggenheim en tajvano.
+proportional result	rezulto proporcia
+a general election took place in albania 28th june. instead of a straight majority system they used a new system of election, proportional-regional, which had been approved in february.	la 28an de junio okazis ĝenerala balotado en albanio. oni uzis anstataŭ majoritata novan elekto-kodon, proporcian-regionan, aprobitan en februaro.
+the previous majority system aimed to reduce the number of parliamentary parties, but provoked strong protests. it particularly angered the socialist movement for integration, led by ilir meta, which five years ago split from the socialist party led by edi rama, mayor of tirana.	la antaŭa majoritata sistemo celis malpliigi parlamentajn partiojn, sed provokis fortajn protestojn. koleris aparte la socialista movado por integriĝo, estrata de ilir meta, kiu disiĝis antaŭ kvin jaroj de la socialista partio de edi rama, urbestro de tirano.
+as expected, the result was complicated. the rightwing democratic coalition gained 70 of 140 seats, so equalled the leftwing coalition.	kiel atendite, la rezulto estis komplika. la dekstra demokratia koalicio akiris 70 el 140 deputitoj, do egale al la koalicio maldekstra.
+therefore the socialist movement for integration, with four seats, accepted the proposal from sali berisha, current democratic prime minister, to jointly form a new government.	tial la socialista movado por integriĝo, kun kvar mandatoj, akceptis la proponon de sali berisha, la aktuala demokrata ĉefministro, por kune fondi novan registaron.
+thus the political crisis was solved and for the first time the new government, approved by the new parliament early in september, will have members from the right and the left.	tiel solviĝis la politika krizo kaj la nova registaro, aprobita de nova parlamento frue en septembro, unuafoje enhavos dekstrulojn kaj maldekstrulojn.
+the kingfisher	la alciono
+it is regarded as a "flying jewel". but it's not only its beautifully multicoloured plumage which attracts attention; the sparrow-sized bird is extraordinaryin other respects too.	oni rigardas ĝin "fluganta juvelŝtono". frapas la atenton ne nur ĝia belege bunta plumaro; ankaŭ alie la paserogranda birdo estas eksterordinara.
+it doesn't lay eggs in a nest, but in metre­long tunnel of earth, and swift as lightning it catches fish although it can't swim.	ĝi ne kovas ovojn en nesto, sed en metro­profunda tertubo, kaj ĝi fulmrapide ĉasas fiŝojn kvankam ĝi ne povas naĝi.
+the kingfisher is one of the few birds which catch prey underwater although, unlike the cormorant, it can't swim.	la alciono apartenas al la malmultaj birdoj, kiuj subakviĝe predas, kvankam ĝi, kontraŭe al la kormorano, ne povas naĝi.
+it can fish even in swift flowing water, and its immersion is helped by the very dense structure of its plumage. its german name eisvogel  in no way refers to a preference for snow or ice. very cold water is fatal for the bird because it can't fish in it.	eĉ en rapide fluantaj akvoj ĝi povas fiŝi, kaj la mergon favoras la tre densa strukturo de la plumaro. ĝia germana nomo eisvogel  tute ne rilatas al prefero de neĝo aŭ glacio. malvarmega akvo eĉ estas mortiga por la birdo ĉar tie ne eblas fiŝado.
+the name might come from the old-german eisen which means brilliant, scintillating, or from eisenfarbig  because of its blue back and rust-coloured chest feathers.	la nomo eble devenas de la malnovgermana eisen, kiu signifas brila aŭ scintila, aŭ de eisenfarbig  pro la blua dorso kaj rustruĝa ventroplumaro.
+worldwide there are over 100 species, but only one lives in germany alcedo atthis.	kvankam mondvaste ekzistas pli ol 100 specioj, en gemanio vivas nur unu specio alcedo atthis.
+current crisis	kurento-krizo
+60 million people in 18 of the 26 brazilian states suffered a blackout when the electricity system failed, 10th november 2009.	60 milionoj da homoj en 18 el la 26 brazilaj ŝtatoj spertis malheliĝon, kiam la loan de novembro 2009 paneis la elektrosistemo.
+the blackout lasted up to seven hours, depending on locality, and was caused by a breakdown at itaipu, the largest hydroelectric power station in the world. the power station operates on the river parana which flows from east to west in the southem region of brazil.	la malheliĝon, kiu daŭris depende de la loko ĝis sep horoj, kauzis paneo en itaipu, la plej granda hidroelektra centralo en la mondo. la centralo funkcias per la akvo de rivero parana, kiu fluas eloriente-okcidenten en la suda regiono de brazilo.
+with 18 generators, itaipu provi des a quarter of ali the electricity used in brazil, and almost ali of that used in paraguay, which was also greatly affected by the breakdown ....	pere de 18 generatoroj, itaipu liveras kvaronon de la tuta elektro de brazilo kaj preskaŭ la tutan elektron de paragvajo, lando ankaŭ forte trafita de la paneo ....
+the brazilian minister of mines and energy said that bad weather in the region of the power station had caused the catastrophe. lightning strikes there could damage delicate equipment. however, for no particular reason, some thought it was an attack on the power station's computer system.	la brazila ministro pri minoj kaj energio diris, ke kaŭzis la katastofon malbona vetero en la regiono de la centralo. tieaj fulmoj kapablis difekti delikatajn aparatojn. tamen sen apartaj kialoj kelkaj opniis, ke temis pri atako kontraŭ la komputila sistemo ĉe la centralo.
+there was no lack of jokes that the station was then under the control of homer simpson, the bungler of usa animation film.	ne mankis ŝerco, ke itaipu estis tiam regata de homer simpson, la fuŝulo de usona animacia filmo.
+concerning museums ...	pri muzeoj ...
+in 1880 john ruskin wrote an article entitled 'a museum or picture gallery, its functions and its formations' stating:	en 1880 john ruskin verkis artikolon titolitan 'muzeo aŭ bildgalario, ĝiaj funkcioj kaj formiĝo' dirante:
+"the first function of a museum ... is to give example of perfect order and perfect elegance ... to the disorderly and rude populace. everything in its own place ... nothing crowded, nothing unnecessary, nothing puzzling. therefore, once a room has been arranged, there must be no change to it ...	"la unua funkcio de muzeo ... estas doni ekzemplon de perfekta ordo kaj perfekta eleganteco ... al la senordema kaj kruda popolo.  ĉio en sia loko ... nenio plenŝtopita, nenio nenecesa, nenio enigma. tial, post kiam ĉambro estas aranĝita, oni devas ŝanĝi nenion en ĝi...
+the original expenditure for building and fitting must be magnificent ... the current expenditure magnanimous; but a certain proportion of this current cost should be covered by small entrance fees, exacted, not for any miserly helping out of the floor- sweepers' salaries, but for the sake of the visitors themselves, that the rooms may not be encumbered by the idle, or disgraced by the disreputable.	la komenca elspezo por konstruado kaj garnituro devas esti grandioza ... la ĉiutaga elspezo grandanima; sed iun porcion de tiu ĉiutaga elspezo oni havigu per malgranda enirkosto, postulata ne por iom avare kontribui al salajroj de plankbalaistoj, sed por la vizitantoj mem, por ke la ĉambrojn ne plenigu mallaboremuloj nek malhonori malestiminduloj.
+you must not make your museum a refuge against rain or ennui, not let into the perfectly furnished ... palatial rooms, the utterly squalid and ill-bred portion of the people ..."	vi devas ne fari el via muzeo rifuĝejon kontraŭ pluvo aŭ enuo, ne enlasi en la perfekte ekipitajn ... palacajn ĉambrojn la tute mizeran kaĵ malnobelan porcion de la popolo ...
+for want of a dollar a year	pro manko de dolaro jare
+it is a lethal agent that kills more children under the age of five than measles, malaria or aids.  in fact, across the developing world it is the fourth biggest cause of death and disease.  yet you have probably never heard of the problem.	ĝi estas mortigaĵo kiu pli da infanoj malpli ol kvinjara mortigas ol morbilo, malario kaj aidoso.  fakte, tra la disvolviĝanta mondo ĝi estas la kvara plej granda kialo de morto kaj malsano.  tamen verŝajne vi neniam aŭdis pri la problemo.
+...more than a third of humanity have to cook every day on traditional stoves that burn wood, crop residues or dung. and cooking smoke, like cigarette smoke, is a cocktail of poisons including carbon monoxide, nitrogen oxides and carcinogens such as formaldehyde and benzene.  this explains why cooking smoke is thought to kill 1.6 million people every year, mostly women and young children. ....	...pli ol triono da homaro devas kuiri ĉiutage per tradiciaj fornoj kiuj bruligas lignon, plantrestaĵojn aŭ fekaĵon.  kaj kuirfumo, kiel cigaredfumo, estas miksaĵo de venenoj inkluzive de karbona monooksido, nitrogenaj oksidoj kaj kancerogenaĵo kiel formaldehido kaj benzeno.  tio klarigas kial oni pensas ke kuirfumo mortigas 1,6 milionojn da homoj ĉiujare, plejparte virinojn kaj junajn infanojn....
+but they could afford a stove with a chimney that takes the smoke out of the house.  if the structure of the house makes a chimney impossible, a hood which takes the smoke up into the roof can be almost as good.	 sed ili povus toleri elspezon por forno kun kamentubo kiu kondukas fumon ekster la domon.   se la konstruo de la domo estas tia ke kamentubo ne eblas, preskaŭ egale bonas kapuĉo kun fumtubo kiu kondukas fumon supren en la tegmenton.
+it is estimated that $2.5 billion a year for 12 years would provide 2 billion people with a healthy indoor environment - about $1 a person a year.	oni taksas ke po 2.5 bilionoj da dolaroj jare dum 12 jaroj provizus al 2 bilionoj da homoj sanan endoman medion - ĉirkaŭ $1 por ĉiu homo jare.
+looking for lizards	ŝercante lacertojn
+between 1990 and 2002, the irish wildlife trust' conservation officer at the time, ferdia marnell, carried out the first survey of this unusual creature. working on reports from all but five counties, ferdia found out some very interesting things about 'lacerta vivipara'.  perhaps most importantly, he discovered that the lizard is more widespread than previously recorded.	inter 1990 kaj 2002, la tiamakonservadisto de la irlanda sovaĝnatura kuratoreco, ferdia marnell, efektivigis la unuan esploron de tiu nekutima besto.  uzante raportojn el ĉiuj krom kvin graflandoj, ferdia eltrovis iom da tre interesaj faktoj pri 'lacerta vivipara'.  eble ple grave, li eltrovis ke la lacerto estas pli disvastigita ol antaŭe registrita.
+most records come from places where people were actively looking for lizards, which means that in places where there were no records there could still be lizards aplenty.  hence this current campaign of reptile-tracking.  we want to hear about as many places where these shy little lizards hang out as possible.  you are most likely to see lizards when they are basking on rocks, stone walls, logs or exposed sunny areas.  if you see one, send us the details location, type of habitat, nearby   plants, weather conditions, etc.	plimultaj raportoj venas el lokojkie oni aktive serĉis lacertojn,kio signifas, ke en lokoj kie neestas raportoj povas estis multajlacertoj.  tial la nuna kampanjo dereptilio-spurado.  ni volas aŭdipri kiel eble plej multaj lokoj kieloĝadas tiuj sinĝenaj etaj lacertoj.  oni plej ofte vidas lacertojn kiamili ripozas sur rokoj, ŝtonmuroj,ŝtipoj aǔ malkovritaj sunaj lokoj.  se vi vidus, sendu al ni ladetalojn: loko, speco de loĝloko,apudaj plantoj, veter-kondiĉoj, ktp.
+fire	fajro
+it's hot, it makes you sweat and it's not curry.	ĝi estas varma, ŝvitigas onin kaj ne estas kareo.  jes, estas fajro.
+previously considered somewhat frightening, the amazing red stuff has become man's best friend. people across the world use it for cooking and scaring off wild animals.	antaŭe rigardita iom timiga, la mirinda ruĝaĵo jam iĝis la plej bona amiko de la homo.  tutmonde homoj uzas ĝin por kuiri, por varmiĝi kaj por timigi sovaĝajn bestojn.
+"there's nothing new about fire," said norris nik, president of the hearth trust.  "you can find it all over the place - bush fires, lightning strikes and volcanoes, for example.  but the breakthrough has been introducing it to the home." ....	"estas nenio nova pri fajro," diris norris nik, prezidanto de la fajreja trusto.  "oni povas trovi ĝin ĉie - ekzemple, vepra fajro, fulmobato kaj vulkanoj.  sed la trarompo estas enkonduki ĝin en la hejmon." ...
+"fire has lots of things going for it, the main one being that it gives us humans more control over our surroundings.  before, we depended on the sun for heat and light," enthused norris.  "now we can keep warm and dry wherever we are.  this not only spells an end to dark caves, but it means we can survive in cold places like eŭrope.  and if any ice age comes along we can just sit it out."	"la fajro havas multajn avantaĝojn, la ĉefa estas tio, ke ĝi ebligas nin homojn pli regi niajn ĉirkaŭajojn.  antaŭe ni dependis de la suno por varmo kaj lumo," entuziasmis norris.  "nun ni povas teni nin varmaj kaj sekaj kie ajn ni estas.  tio implicas ne nur la finon de mallumaj kavernoj, sed signifas ke ni povos travivi en malvarmaj lokoj kiel eŭropo.  kaj se venos ia glaciepoko, ni povos resti ĝis ĝia fino.
+the drawings at nazca	80. la desegnaĵoj de naska
+the gigantic cornplex of drawings on the earth at nazca, peru, are a unique phenomenon. the drawings have become famous throughout the world because of their size, variety and quantity.	la giganta komplekso de ter­desegnaĵoj en naska, peruo, estas unika fenomeno. pro sia grandeco, vario kaj multnombreco la desegnaĵoj famiĝas tra la tuta mondo.
+although such drawings are known in other parts of the world, only in nazca was so much energy invested over many generations to draw hundreds of lines and shapes.	kvankam ter-desegnaĵoj estas konataj ankaŭ en aliaj mondpartoj, nur en naska oni investis tiom da energio dum multaj generacioj por desegni centojn da linioj kaj formoj.
+the village of nazca is found in the desert plain between the pacific ocean and the andes. here and there rivers flow through the desert steppes and take water from the snowy peaks of the andes to the ocean.	la urbeto naska troviĝas en dezerta ebenaĵo inter pacifika oceano kaj la andoj. jen kaj jen riveroj trafluas la dezertan stepon, kiuj kondukas akvon de la neĝaj pintoj de la andoj al la oceano.
+in the first millenium prehistoric cultures were active in the valleys beside these rivers. the nazca culture, which created the giant drawings existed between the 3rd and 9th centuries.	en la valoj apud tiuj riveroj viglis en la unua jarmilo prahistoriaj kulturoj. la naska kulturo, kiu kreis la gigantajn desegnaĵojn, ekzistis inter la tria kaj naŭa jarcentoj.
+under the lnca empire ancient traditions disappeared. as a consequence, and because of the lack of writing, the source and aim of the drawings remain a mystery	sub la inkaa imperio malaperis la antikvaj tradicioj. sekve, kaj pro la manko de skribo, la fonto kaj celo de la desegnaĵoj restas mistero.
+current crisis	kurento-krizo
+60 million people in 18 of the 26 brazilian states suffered a blackout when the electricity system failed, 10th november 2009.	60 milionoj da homoj en 18 el la 26 brazilaj ŝtatoj spertis malheliĝon, kiam la l0an de novembro 2009 paneis la elektrosistemo.
+the blackout lasted up to seven hours, depending on locality, and was caused by a breakdown at itaipu, the largest hydroelectric power station in the world. the power station operates on the river parana which flows from east to west in the southern region of brazil.	la malheliĝon, kiu daŭris depende de la loko ĝis sep horoj, kauzis paneo en itaipu, la plej granda hidroelektra centralo en la mondo. la centralo funkcias per la akvo de rivero parana, kiu fluas eloriente-okcidenten en la suda regiono de brazilo.
+with 18 generators, ltaipu provides a quarter of all the electricity used in brazil, and almost all of that used in paraguay, which was also greatly affected by the breakdown ....	pere de 18 generatoroj, itaipu liveras kvaronon de la tuta elektro de brazilo kaj preskaŭ la tutan elektron de paragvajo, lando ankaŭ forte trafita de la paneo ....
+the brazilian minister of mines and energy said that bad weather in the region of the power station had caused the catastrophe. lightning strikes there could damage delicate equipment. however, for no particular reason, some thought it was an attack on the power station's computer system.	la brazila ministro pri minoj kaj energio diris, ke kaŭzis la katastofon malbona vetero en la regiono de la centralo. tieaj fulmoj kapablis difekti delikatajn aparatojn. tamen sen apartaj kialoj kelkaj opiniis, ke temis pri atako kontraŭ la komputila sistemo ĉe la centralo.
+there was no lack of jokes that the station was then under the control of homer simpson, the botcher in the us animation series.	ne mankis ŝerco, ke ltaipu estis tiam regata de homer simpson, la fuŝulo de usona animacia filmo.
+honey	mielo
+new zealand honey is more effective against bacteria than antibiotics.	novzelanda mielo pli efikas kontaŭ bakterioj ol antibiotikoj.
+australian scientists have discovered that even the feared hospital multi­resistant "super bacilli" perish when they come into contact with honey from the flowers of the manuka tea tree from new zealand.	aŭstraliaj sciencistoj malkovris ke eĉ la malsanulejaj timataj multrezistaj     "superbaciloj" pereas kiam ili kontaktiĝas kun mielo el la floroj de la novzelanda manuka-teoarbo.
+the antibiotics in general use are becoming less and less effective because the microbes quickly evolve defence mechanisms. in the manuka honey a breakdown product from sugar  strongly stresses the bacteria before they can develop any resistance.	la ĝenerale uzataj antibiotikoj montriĝas pli kaj pli senefikaj, ĉar la mikroboj rapide evoluigas defendo­meĥanismojn. en la manuka­mielo iu sukermalkomponaĵo  forte kaŭzas streson al la bakterioj antaŭ ol ili povas evoluigi rezistecon.
+the discovery has increased the application of medicinal honey as an alternative to antibiotics. it is traded by the new zealand natural medicines company comovita under the brand name medihoney, and is already being used in the children's clinic at the university in bonn, germany.	la ekkono plialtigas la aplikadon de medicina mielo kiel alternativon al antibiotikoj. sub la merkatmarka nomo medihoney ĝin ofertas la novzelanda naturkuraca enterpreno comovita kaj jam uzas ĝin la infan-kliniko de universitato en bonn, germanujo.
+comovita now wants to widen its product range to include a gel and plasters containing honey.	comovita nun volas plivastigi sian produktaĵ­paletron per elmiela vundoĝelo kaj vundoplastro.
+braille	brajlo
+in the paris "institute for the blind", founded in 1784 as the first such organisation in the world, the young louis braille learned to read in a complicated manner using letters in relief, but he himself couldn't write anything.	en la pariza "instituto por blinduloj", fondita en 1784 kiel unua tiuspeca organizo en la mondo, la juna louis braille komplikmaniere lernis legi helpe de grandaj reliefliteroj, sed ne povis mem skribi.
+so he was all the more enthusiastic when one day captain charles barbier visited the school to present a kind of "night writing".	des pli li estis entuziasmigita, kiam unu tagon kapitano charles barbier vizitis la lernejon kaj prezentis ian "nokto­skribon".
+in order to give commands to soldiers on dark nights unnoticed by the enemy, he had invented a complicated syllabic writing using dots and lines.	por doni ordonojn al soldatoj en malluma nokto nerimarkate de la malamikoj, li inventis komplikan silaban skribaĵon kun palpeblaj punktoj kaj strekoj.
+as if possessed, louis worked for three years to simplify that system and make it useful and practical.	kvazaŭ obsede louis laboris tri jarojn por simpligi tiun sistemon kaj fari ĝin praktike uzebla.
+in the year 1825 the basic form of the "writing for the blind", which today bears the name of braille, was ready. it codifies each letter with just six dots which can be impressed onto paper using a stylus, typewriter or computer, in such a way that they can then be felt by the fingertips.	en la jaro 1825 la baza formo de la "skribo por blinduloj" estis preta, kiu hodiaŭ portas la nomon de braille. ĉiujn literojn ĝi kodas per nur ses punktoj, kiujn oni pregas en la paperon, grifele, skribmaŝine aŭ komputile, tiumaniere ke oni povas palpi ilin poste per fingropintoj.
+impress : technical term - give definitive form to an item  by pressing it very forcefully between a die and stamp.	pregi : teknika termino - doni definitivan formon al peco  premante ĝin per tre forta premo inter patrico kaj matrico
+100 - a new political era	100 - nova politika erao
+after 60 years, britain again has a coalition government. the general election, which took place in may, did not give a parliamentary majority to either the ruling labour party or the main opposition conservative party.	post 60 jaroj britio havas denove koalician registaron. tutlandaj elektoj, okazintaj en majo, liveris parlamentan plimulton nek al la reganta laborista partio nek al la ĉef­opozicia konservativa partio.
+there followed four days of discussion, conjecture, proposals and counter- proposals, until it was finally announced that the new government would consist of a coalition between the conservative and liberal democrat parties.	sekvis kvar tagoj de diskutoj, konjektoj, proponoj kaj kontraŭproponoj, ĝis fine estas anoncite, ke la nova registaro konsistos el koalicio inter la konservativa partio kaj la liberal-demokrata partio.
+in many european countries elections which don't result in clear one-party government are the norm. so are coalitions.	en multaj eŭropaj landoj normalas elektoj kiuj ne liveras klaran unupartian registaron. same normalas koalicioj.
+in britain however, for more than half a century - apart from some informal agreements ­ either the labour or conservative party has ruled at national level without the help of a third, smaller party.	en britio, tamen, jam dum pli ol duonjarcento - krom kelkaj neformalaj interkonsentoj regis landnivele aŭ la laborista aŭ la konservativa partio sen helpo de tria pli malgranda partio.
+britons are now amazed that candidates who sharply criticised each other during the election campaign now stand together as colleagues to present a common platform to the public.	britoj nun miras ke kandidatoj, kiuj akre kritikis unu la alian dum elekto­kampanjo, nur kelkajn tagojn poste kolege kaj kune staras por prezenti komunan platformon al la publiko.
+platform technical term - programme  proposed for action	platformo teknika termino - programo  proponata por agado
+vanished island	insulo malaperinta
+in the bay of bengal, between india and bangladesh, was an island 3.5 km long and 3 km wide. india called it new moore, and bangladesh called it south talpatti.	en la golfo de bengalio apud barato kaj bangladeŝo troveblis insulo 3,5 km longa kaj 3,0 km larĝa. nomis ĝin barato nova moore kaj bangladeŝo suda talpatti.
+for 30 years both states have been in dispute over sovereignty of the island.	jam de 30 jaroj disputis ambaŭ ŝtatoj pri suvereneco de la insulo.
+now however disputation is superfluous. because of the rise in sea level the island simply no longer exists.	nun, tamen, superfluas disputado. pro la altiĝo de marnivelo la insulo simple ne plu ekzistas.
+that was confirmed by professor sugata hazra, professor of maritime studies at the university of calcutta, based on satellite photographs.	tion konfirmis sugata hazra, profesoro pri marstudoj ĉe la universitato de kalkato, surbaze de satelitaj fotoj.
+other countries too are threatened in the same way. the maldives, an archipelago in the indian ocean, will disappear under the sea if the world does nothing. last year president mohamed nasheed, wearing a diving suit, met with his cabinet 5 metres below the sea to draw attention to the problem.	ankaŭ aliaj landoj esta tiel minacataj. maldivoj, insularo en hinda oceano, malaperos sub la maro, se la mondo nenion faros. pasintjare la prezidanto de maldivoj, mohamed nasheed, portante skafandron, kunvenis kun sia kabineto kvin metrojn sub la maro por atentigi pri la problemo.
+in nepal, where there are many people and few trees, it is feared that the glaciers are melting, which will cause a catastrophe in the country.	en nepalo, kie homoj multiĝas kaj arboj malmultiĝas oni timas ke glaciriveroj degelas, kio kaŭzos katastofon en la lando.
+barat : ancient indian king, alternative name for india	barato : antikva hinda reĝo, alternativa nomo por hindio
+zamenhof to soros	zamenhof al soros
+"from zamenhof to soros" was the title of this year's symposium organized by the new y ork office of the universal esperanto- association.  this office organizes an annual public event on zamenhof day, the 15th of december.	"de zamenhof al soros" estis la titolo de la ĉi-jara simpozio organizita de la novjorka oficejo de uea. tiu oficejo ĉiujare organizas publikan aranĝon okaze de zamenhof-tago la 15-an de decembro.
+the symposium was a historical overview of the beginning period of esperanto, organized in order to recognize two new books: the english language biography of zamenhof - a short version of the large biography written by a. korĵenkov two years ago ­ and the newly translated book by tivadar soros that was originally published in 1923.	temis pri historia trarigardo de la komenca periodo de esperanto, organizita por rekoni du novajn librojn: anglalingvan biografieton de zamenhof - mallongigitan version de la granda biografio verkita de a. korĵenkov antaŭ duo da jaroj - kaj nove tradukitan libreton de tivadar soros, kiu unue aperis en la jaro 1923.
+renowned scholar esther schor, professor at princeton university, recognized the link with zamenhof in her discourse "zamenhof and the future" , where she examined the concept of the creator of esperanto regarding the future of humanity and the role of esperanto in this context.	la konata fakulino esther schor, profesoro ĉe la universitato princeton, rekonis la ligon kun zamenhof per sia prelego pri "zamenhof kaj estonteco", en kiu ŝi ekzamenis la koncepton de la kreinto de esperanto pri la estonteco de la homaro kaj la rolo de esperanto en tiu kunteksto.
+urban foxes	urbaj vulpoj
+among foxes in britain, who are not infected with rabies, since the second world war a tendency to urban life has been observed.	ĉe la vulpoj en britujo, kiujn ne infektas la rabio, jam ekde la dua mondmilito oni povas observi la tendencon al urba vivo.
+in towns l0 to 20 foxes per square kilometre live among us - ten times more than in the countryside.	vivas en la urboj sur unu kvadratkilometro ĉe ni l0 ĝis 20 vulpoj - dekoble  pli ol en la kamparo.
+most studied are the urban foxes in switzerland, whose numbers have grown fourfold since 1985. ten years ago zoologists, parasitologists and other researchers in zurich began the 'integrated fox project' which was concerned with studying all aspects of the foxes' life.	plej bone ekzamentitaj estas la urbovulpoj en svislando, kies nombro kreskis kvaroble ekde 1985. antaŭ dek jaroj zoologoj, parazitologoj kaj aliaj esploristoj en zuriko komencis la 'integran vulpo-projekton' kiu okupiĝis pri studado de aspektoj de vulpo-vivo.
+while badgers and chamois have only dared enter the suburbs, around a thousand foxes have already settled in the centre of zurich. most foxes in zurich are not immigrants, but were born there.	dum la meloj kaj ĉamoj ĝis nun kuraĝas eniri nur la antaŭurbojn, jam ĉirkaŭ mil vulpoj setlis en la zurika centro. la plej multaj vulpoj en zuriko ne estas enmigrintoj, sed naskiĝis tie.
+unlike rural foxes, who go around singly or in pairs, urban foxes live in large families. during the day they doze somewhere hidden.	alie ol kamparaj vulpoj, kiuj sole aŭ duope ĉirkauvojas, la urbo vulpo vivas en grandaj familioj. dumtage ili dormetas en iu kaŝejo.
+if they show themselves, for many people that is a very enjoyable experience.	se ili sin montras, tio estas por multaj homoj tre ĝojiga afero.
