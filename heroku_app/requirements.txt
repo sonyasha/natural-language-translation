@@ -21,7 +21,7 @@ MarkupSafe==1.0
 numpy==1.15.0
 protobuf==3.6.0
 python-dateutil==2.7.3
-PyYAML==3.13
+PyYAML==5.4
 s3transfer==0.1.13
 scikit-learn==0.19.2
 scipy==1.1.0
