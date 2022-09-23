@@ -19,7 +19,7 @@ Keras-Preprocessing==1.0.2
 Markdown==2.6.11
 MarkupSafe==1.0
 numpy==1.15.0
-protobuf==3.6.0
+protobuf==3.18.3
 python-dateutil==2.7.3
 PyYAML==3.13
 s3transfer==0.1.13
